@@ -1,0 +1,33 @@
+---
+type: "Polity"
+title: "Tori Fatehpur (1690–1950 CE)"
+description: "Polity; sources: wikidata"
+tags:
+  - "polity"
+aliases:
+  - "Tori Fatehpur"
+source_types:
+  - "wikidata"
+---
+
+# Tori Fatehpur (1690–1950 CE)
+
+## Profile
+
+| Field | Value |
+| --- | --- |
+| description | human settlement in India |
+| dissolved | 1950 CE |
+| established | 1690 CE |
+| Wikidata | [Q11952191](https://www.wikidata.org/wiki/Q11952191) |
+
+## Transitions to
+
+| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- | --- |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11952191 succession statement (retrieved 2026-07-18) |
+
+## Sources
+
+- `Q11952191/entity.json`
+- `Q668/entity.json`

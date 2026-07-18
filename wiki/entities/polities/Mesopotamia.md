@@ -4,11 +4,12 @@ title: "Mesopotamia"
 description: "Polity; sources: wikidata"
 tags:
   - "polity"
-identity_key: "wikidata:Q765845"
+aliases:
+  - "ancient Mesopotamia"
+  - "Jazeera"
+  - "Two Rivers"
 source_types:
   - "wikidata"
-aka:
-  - "Mesopotamia"
 ---
 
 # Mesopotamia
@@ -17,14 +18,16 @@ aka:
 
 | Field | Value |
 | --- | --- |
-| qid | Q765845 |
+| description | historical region within the Tigris–Euphrates river system |
+| Wikidata | [Q11767](https://www.wikidata.org/wiki/Q11767) |
 
-## Successor of
+## Constituent polities
 
 | Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Parthian Empire](Parthian%20Empire.html) | succeeded by | — | — | candidate | tertiary_reference | Wikidata Q1986139 (P1366 replaced by, retrieved 2026-07-11) |
+| [Sumer (c. 5500–1900 BCE)](Sumer%20%28c.%205500%E2%80%931900%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q35355 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 
-- `data/cache/wikidata/Q1986139/entity.json`
+- `Q11767/entity.json`
+- `Q35355/entity.json`

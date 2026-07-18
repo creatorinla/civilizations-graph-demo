@@ -8,40 +8,28 @@ tags:
 
 # About this export
 
-A read-only, citation-backed export of the Civilizations — AutoWiki vault: entities,
-relationships, and succession assembled from public records, with the
+A read-only, citation-backed export of Polity Ancestry: entities,
+relationships, and transitions assembled from public records, with the
 claim status, evidence class, and citation shown on relationship
 rows when present in the stored source record.
 
 ## Reading the data
 
-- Every relationship row carries its claim status, evidence class, and citation exactly as stored on the source record.
-- Royal and imperial inscriptions are interested-party assertions (asserted) until independently corroborated; ancient narratives are reported, never proof alone.
-- Foundation legends stay traditional regardless of repetition; tertiary references (Wikidata claims) are identity and leads, never edge evidence.
-- Entity-resolution notes (`SUSPECTED_SAME_AS`) are unreviewed resolver hints, not evidence.
-
-## Seeds
-
-- [Achaemenid Empire](entities/polities/Achaemenid%20Empire.html) (priority high · spine)
-- [Alexander the Great](entities/people/Alexander%20the%20Great.html) (priority medium · spine)
-- [Classical Athens](entities/polities/Classical%20Athens.html) (priority medium · hellenic)
-- [Macedonia](entities/polities/Macedonia.html) (priority high · spine)
-- [Neo-Babylonian Empire](entities/polities/Neo-Babylonian%20Empire.html) (priority high · spine)
-- [Roman Empire](entities/polities/Roman%20Empire.html) (priority medium · spine)
-- [Roman Republic](entities/polities/Roman%20Republic.html) (priority high · spine)
-- [Seleucid Empire](entities/polities/Seleucid%20Empire.html) (priority high · spine)
+- Every connection shows how strongly its claim is supported (Claim), the kind of evidence behind it (Evidence), and its citation.
+- Claim strength here, strongest first:
+  - **tentative** — a lead from reference data, awaiting evidence
+- Kinds of evidence here: reference work.
+- Two evidence layers form the graph: political succession (one polity giving way to another) is the flow, and political containment (an empire to its constituent polities) is a section layer on entity pages. Both point from an ancestor toward a descendant. Rulers, places, and cultural transmission are outside this graph.
+- Wikidata supplies identity, envelope metadata, and weakest-tier succession and containment leads (candidate/tertiary): an edge cited only to Wikidata is the weakest claim, awaiting curated source evidence to strengthen it.
+- Membership comes from the census roster's class predicate — antiquity through the present — not from hop-by-hop traversal; undated polities are members like any other.
+- Entity-resolution notes ("suspected same as") are unreviewed resolver hints, not evidence.
 
 ## Contents
 
-- Entities: 34 polity, 9 person, 23 place
-- Succession pages: 7
+- Entities: 7455 polity
+- Transition pages: 0
 
 | Relationship | Count |
 | --- | --- |
-| SUCCEEDED_BY | 53 |
-| LOCATED_AT | 31 |
-| RULED | 8 |
-| CULTURALLY_INFLUENCED | 7 |
-| CONQUERED | 5 |
-| CONTROLS | 3 |
-| FOUNDED | 2 |
+| transitioned to | 2704 |
+| has part | 591 |
