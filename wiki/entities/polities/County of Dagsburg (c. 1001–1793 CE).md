@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q322763 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q322763 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [county of Nordgau (c. 700–1200 CE)](county%20of%20Nordgau%20%28c.%20700%E2%80%931200%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q322763 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [county of Nordgau (c. 700–1200 CE)](county%20of%20Nordgau%20%28c.%20700%E2%80%931200%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q322763 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

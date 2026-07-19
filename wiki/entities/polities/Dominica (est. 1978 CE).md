@@ -29,10 +29,10 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1796551 containment statement (retrieved 2026-07-18) |
-| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2660774 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1796551 containment statement (retrieved 2026-07-18) |
+| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2660774 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

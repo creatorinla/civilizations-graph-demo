@@ -24,11 +24,11 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Desmond (1118–1596 CE)](Kingdom%20of%20Desmond%20%281118%E2%80%931596%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Ossory (c. 150–1185 CE)](Kingdom%20of%20Ossory%20%28c.%20150%E2%80%931185%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Thomond (1118–1543 CE)](Kingdom%20of%20Thomond%20%281118%E2%80%931543%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Desmond (1118–1596 CE)](Kingdom%20of%20Desmond%20%281118%E2%80%931596%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Ossory (c. 150–1185 CE)](Kingdom%20of%20Ossory%20%28c.%20150%E2%80%931185%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Thomond (1118–1543 CE)](Kingdom%20of%20Thomond%20%281118%E2%80%931543%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20973653 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

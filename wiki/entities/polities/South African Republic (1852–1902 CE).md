@@ -28,15 +28,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Transvaal Colony (1902–1910 CE)](Transvaal%20Colony%20%281902%E2%80%931910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1187978 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Transvaal Colony (1902–1910 CE)](Transvaal%20Colony%20%281902%E2%80%931910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1187978 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Klein Vrystaat (1886–1891 CE)](Klein%20Vrystaat%20%281886%E2%80%931891%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1493843 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Klein Vrystaat (1886–1891 CE)](Klein%20Vrystaat%20%281886%E2%80%931891%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1493843 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

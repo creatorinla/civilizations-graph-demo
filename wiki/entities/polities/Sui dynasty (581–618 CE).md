@@ -28,18 +28,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q9683 succession statement (retrieved 2026-07-18) |
-| [Zheng (619–621 CE)](Zheng%20%28619%E2%80%93621%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q49788484 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q9683 succession statement (retrieved 2026-07-18) |
+| [Zheng (619–621 CE)](Zheng%20%28619%E2%80%93621%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q49788484 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chen dynasty (557–589 CE)](Chen%20dynasty%20%28557%E2%80%93589%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q62454 succession statement (retrieved 2026-07-18) |
-| [Northern Zhou (557–581 CE)](Northern%20Zhou%20%28557%E2%80%93581%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q551067 succession statement (retrieved 2026-07-18) |
-| [Western Liang dynasty (555–587 CE)](Western%20Liang%20dynasty%20%28555%E2%80%93587%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q849770 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chen dynasty (557–589 CE)](Chen%20dynasty%20%28557%E2%80%93589%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q62454 succession statement (retrieved 2026-07-18) |
+| [Northern Zhou (557–581 CE)](Northern%20Zhou%20%28557%E2%80%93581%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q551067 succession statement (retrieved 2026-07-18) |
+| [Western Liang dynasty (555–587 CE)](Western%20Liang%20dynasty%20%28555%E2%80%93587%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q849770 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

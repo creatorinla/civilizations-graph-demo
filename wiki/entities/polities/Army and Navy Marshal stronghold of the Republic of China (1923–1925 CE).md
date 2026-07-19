@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [National Government of the Republic of China (1925–1948 CE)](National%20Government%20of%20the%20Republic%20of%20China%20%281925%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2308761 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [National Government of the Republic of China (1925–1948 CE)](National%20Government%20of%20the%20Republic%20of%20China%20%281925%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2308761 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Guangzhou Government of the Republic of China (1921–1922 CE)](Guangzhou%20Government%20of%20the%20Republic%20of%20China%20%281921%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11061992 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Guangzhou Government of the Republic of China (1921–1922 CE)](Guangzhou%20Government%20of%20the%20Republic%20of%20China%20%281921%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11061992 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

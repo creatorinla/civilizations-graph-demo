@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q176495 succession statement (retrieved 2026-07-18) |
-| [Nazi Germany (1933–1945 CE)](Nazi%20Germany%20%281933%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7318 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q176495 succession statement (retrieved 2026-07-18) |
+| [Nazi Germany (1933–1945 CE)](Nazi%20Germany%20%281933%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7318 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Republic of Austria (1919–1934 CE)](First%20Republic%20of%20Austria%20%281919%E2%80%931934%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Republic of Austria (1919–1934 CE)](First%20Republic%20of%20Austria%20%281919%E2%80%931934%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

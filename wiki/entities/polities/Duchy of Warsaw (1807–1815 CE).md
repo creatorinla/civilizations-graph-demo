@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Poland (1025–1569 CE)](Kingdom%20of%20Poland%20%281025%E2%80%931569%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8890160 succession statement (retrieved 2026-07-18) |
-| [Polish–Lithuanian Commonwealth (1569–1795 CE)](Polish%E2%80%93Lithuanian%20Commonwealth%20%281569%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q152115 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Poland (1025–1569 CE)](Kingdom%20of%20Poland%20%281025%E2%80%931569%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8890160 succession statement (retrieved 2026-07-18) |
+| [Polish–Lithuanian Commonwealth (1569–1795 CE)](Polish%E2%80%93Lithuanian%20Commonwealth%20%281569%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q152115 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Baté Empire (c. 1800–1879 CE)](Bat%C3%A9%20Empire%20%28c.%201800%E2%80%931879%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q507346 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Baté Empire (c. 1800–1879 CE)](Bat%C3%A9%20Empire%20%28c.%201800%E2%80%931879%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q507346 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

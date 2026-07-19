@@ -27,10 +27,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [The Apartheid Regime in South Africa (1961–1994 CE)](The%20Apartheid%20Regime%20in%20South%20Africa%20%281961%E2%80%931994%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
-| [Union of South Africa (1910–1961 CE)](Union%20of%20South%20Africa%20%281910%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q193619 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [The Apartheid Regime in South Africa (1961–1994 CE)](The%20Apartheid%20Regime%20in%20South%20Africa%20%281961%E2%80%931994%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
+| [Union of South Africa (1910–1961 CE)](Union%20of%20South%20Africa%20%281910%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q193619 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

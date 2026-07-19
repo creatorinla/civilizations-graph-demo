@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jolof Empire (1350–1549 CE)](Jolof%20Empire%20%281350%E2%80%931549%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16850784 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jolof Empire (1350–1549 CE)](Jolof%20Empire%20%281350%E2%80%931549%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16850784 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

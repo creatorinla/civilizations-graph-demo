@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Beylik of Kadi Burhan al-Din (1381–1398 CE)](Beylik%20of%20Kadi%20Burhan%20al-Din%20%281381%E2%80%931398%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4834782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Beylik of Kadi Burhan al-Din (1381–1398 CE)](Beylik%20of%20Kadi%20Burhan%20al-Din%20%281381%E2%80%931398%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4834782 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

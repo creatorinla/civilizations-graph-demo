@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63021609 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63021609 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Navarre (1162–1841 CE)](Kingdom%20of%20Navarre%20%281162%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63021609 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Navarre (1162–1841 CE)](Kingdom%20of%20Navarre%20%281162%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63021609 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

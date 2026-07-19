@@ -24,22 +24,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q70972 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q70972 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Carolingian Empire (800–887 CE)](Carolingian%20Empire%20%28800%E2%80%93887%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q46370 succession statement (retrieved 2026-07-18) |
-| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146246 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Carolingian Empire (800–887 CE)](Carolingian%20Empire%20%28800%E2%80%93887%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q46370 succession statement (retrieved 2026-07-18) |
+| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146246 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Burgundy (534–843 CE)](Burgundy%20%28534%E2%80%93843%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Burgundy (534–843 CE)](Burgundy%20%28534%E2%80%93843%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

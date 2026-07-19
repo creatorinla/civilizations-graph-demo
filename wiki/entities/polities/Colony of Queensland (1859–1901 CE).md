@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of New South Wales (1788–1901 CE)](Colony%20of%20New%20South%20Wales%20%281788%E2%80%931901%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28401203 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of New South Wales (1788–1901 CE)](Colony%20of%20New%20South%20Wales%20%281788%E2%80%931901%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28401203 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

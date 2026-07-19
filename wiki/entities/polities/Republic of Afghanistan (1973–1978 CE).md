@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Republic of Afghanistan (1978–1992 CE)](Democratic%20Republic%20of%20Afghanistan%20%281978%E2%80%931992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Republic of Afghanistan (1978–1992 CE)](Democratic%20Republic%20of%20Afghanistan%20%281978%E2%80%931992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Afghanistan (1926–1973 CE)](Kingdom%20of%20Afghanistan%20%281926%E2%80%931973%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Afghanistan (1926–1973 CE)](Kingdom%20of%20Afghanistan%20%281926%E2%80%931973%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

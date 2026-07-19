@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colonial Brazil (1500–1815 CE)](Colonial%20Brazil%20%281500%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q155 succession statement (retrieved 2026-07-18) |
-| [Empire of Brazil (1822–1889 CE)](Empire%20of%20Brazil%20%281822%E2%80%931889%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q217230 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colonial Brazil (1500–1815 CE)](Colonial%20Brazil%20%281500%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q155 succession statement (retrieved 2026-07-18) |
+| [Empire of Brazil (1822–1889 CE)](Empire%20of%20Brazil%20%281822%E2%80%931889%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q217230 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

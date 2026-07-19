@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Anjou (1360–1790 CE)](Duchy%20of%20Anjou%20%281360%E2%80%931790%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3040803 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Anjou (1360–1790 CE)](Duchy%20of%20Anjou%20%281360%E2%80%931790%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3040803 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

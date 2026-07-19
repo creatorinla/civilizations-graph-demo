@@ -23,11 +23,11 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Saudi State (1744–1818 CE)](First%20Saudi%20State%20%281744%E2%80%931818%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
-| [Sheikhdom of Kuwait (1752–1961 CE)](Sheikhdom%20of%20Kuwait%20%281752%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
-| [The Emirate of Zubarah (est. 1766 CE)](The%20Emirate%20of%20Zubarah%20%28est.%201766%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Saudi State (1744–1818 CE)](First%20Saudi%20State%20%281744%E2%80%931818%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
+| [Sheikhdom of Kuwait (1752–1961 CE)](Sheikhdom%20of%20Kuwait%20%281752%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
+| [The Emirate of Zubarah (est. 1766 CE)](The%20Emirate%20of%20Zubarah%20%28est.%201766%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

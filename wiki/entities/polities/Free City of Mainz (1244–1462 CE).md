@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Electorate of Mainz (780–1803 CE)](Electorate%20of%20Mainz%20%28780%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Electorate of Mainz (780–1803 CE)](Electorate%20of%20Mainz%20%28780%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Electorate of Mainz (780–1803 CE)](Electorate%20of%20Mainz%20%28780%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Electorate of Mainz (780–1803 CE)](Electorate%20of%20Mainz%20%28780%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

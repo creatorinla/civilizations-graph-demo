@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Netherlands Antilles (1954–2010 CE)](Netherlands%20Antilles%20%281954%E2%80%932010%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1953333 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Netherlands Antilles (1954–2010 CE)](Netherlands%20Antilles%20%281954%E2%80%932010%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1953333 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

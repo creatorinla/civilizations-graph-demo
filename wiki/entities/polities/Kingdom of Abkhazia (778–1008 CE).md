@@ -26,18 +26,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Georgia (1008–1466 CE)](Kingdom%20of%20Georgia%20%281008%E2%80%931466%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Georgia (1008–1466 CE)](Kingdom%20of%20Georgia%20%281008%E2%80%931466%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Abasgia](Abasgia.html) | transition | — | — | tentative | reference work | Wikidata Q3652371 succession statement (retrieved 2026-07-18) |
-| [Lazica (c. 100 BCE – 700 CE)](Lazica%20%28c.%20100%20BCE%20%E2%80%93%20700%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
-| [Misiminia](Misiminia.html) | transition | — | — | tentative | reference work | Wikidata Q4296376 succession statement (retrieved 2026-07-18) |
-| [Principality of Iberia (588–888 CE)](Principality%20of%20Iberia%20%28588%E2%80%93888%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Abasgia](Abasgia.html) | transition | — | tentative | reference work | Wikidata Q3652371 succession statement (retrieved 2026-07-18) |
+| [Lazica (c. 100 BCE – 700 CE)](Lazica%20%28c.%20100%20BCE%20%E2%80%93%20700%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
+| [Misiminia](Misiminia.html) | transition | — | tentative | reference work | Wikidata Q4296376 succession statement (retrieved 2026-07-18) |
+| [Principality of Iberia (588–888 CE)](Principality%20of%20Iberia%20%28588%E2%80%93888%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q325493 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

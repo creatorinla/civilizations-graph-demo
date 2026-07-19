@@ -29,15 +29,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Hong Kong (1841–1997 CE)](British%20Hong%20Kong%20%281841%E2%80%931997%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1054923 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Hong Kong (1841–1997 CE)](British%20Hong%20Kong%20%281841%E2%80%931997%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1054923 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Republic of China (est. 1949 CE)](People%27s%20Republic%20of%20China%20%28est.%201949%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q8646 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Republic of China (est. 1949 CE)](People%27s%20Republic%20of%20China%20%28est.%201949%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q8646 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

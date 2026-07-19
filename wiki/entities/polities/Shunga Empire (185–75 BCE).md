@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Maurya empire (322–185 BCE)](Maurya%20empire%20%28322%E2%80%93185%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q651377 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Maurya empire (322–185 BCE)](Maurya%20empire%20%28322%E2%80%93185%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q651377 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

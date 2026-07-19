@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Guatemala (1824–1839 CE)](State%20of%20Guatemala%20%281824%E2%80%931839%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q68257522 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Guatemala (1824–1839 CE)](State%20of%20Guatemala%20%281824%E2%80%931839%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q68257522 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

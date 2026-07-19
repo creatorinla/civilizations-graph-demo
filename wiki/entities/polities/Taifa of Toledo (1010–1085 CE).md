@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Toledo (1085–1833 CE)](Kingdom%20of%20Toledo%20%281085%E2%80%931833%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2301372 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Toledo (1085–1833 CE)](Kingdom%20of%20Toledo%20%281085%E2%80%931833%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2301372 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

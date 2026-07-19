@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Dahomey (1958–1975 CE)](Republic%20of%20Dahomey%20%281958%E2%80%931975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q862701 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Dahomey (1958–1975 CE)](Republic%20of%20Dahomey%20%281958%E2%80%931975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q862701 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

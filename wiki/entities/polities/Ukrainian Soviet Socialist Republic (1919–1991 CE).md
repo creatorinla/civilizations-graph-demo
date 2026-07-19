@@ -27,20 +27,20 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
-| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
-| [Ukraine (est. 1991 CE)](Ukraine%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
+| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
+| [Ukraine (est. 1991 CE)](Ukraine%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
-| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
-| [South Russia (1919–1920 CE)](South%20Russia%20%281919%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4533605 succession statement (retrieved 2026-07-18) |
-| [Ukrainian People's Republic (1917–1921 CE)](Ukrainian%20People%27s%20Republic%20%281917%E2%80%931921%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q243610 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
+| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q133356 succession statement (retrieved 2026-07-18) |
+| [South Russia (1919–1920 CE)](South%20Russia%20%281919%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4533605 succession statement (retrieved 2026-07-18) |
+| [Ukrainian People's Republic (1917–1921 CE)](Ukrainian%20People%27s%20Republic%20%281917%E2%80%931921%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q243610 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

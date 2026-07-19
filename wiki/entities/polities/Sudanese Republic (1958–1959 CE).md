@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mali Federation (1959–1960 CE)](Mali%20Federation%20%281959%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mali Federation (1959–1960 CE)](Mali%20Federation%20%281959%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Sudan (1880–1959 CE)](French%20Sudan%20%281880%E2%80%931959%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Sudan (1880–1959 CE)](French%20Sudan%20%281880%E2%80%931959%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -34,16 +34,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northeast Supreme Administrative Council (1932–1932 CE)](Northeast%20Supreme%20Administrative%20Council%20%281932%E2%80%931932%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10869627 succession statement (retrieved 2026-07-18) |
-| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northeast Supreme Administrative Council (1932–1932 CE)](Northeast%20Supreme%20Administrative%20Council%20%281932%E2%80%931932%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q10869627 succession statement (retrieved 2026-07-18) |
+| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Congo (1882–1906 CE)](French%20Congo%20%281882%E2%80%931906%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2454701 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Congo (1882–1906 CE)](French%20Congo%20%281882%E2%80%931906%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2454701 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

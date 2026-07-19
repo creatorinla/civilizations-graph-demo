@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q309460 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q309460 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

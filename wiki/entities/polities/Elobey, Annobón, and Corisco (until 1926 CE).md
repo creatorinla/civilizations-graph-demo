@@ -22,9 +22,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Spanish Empire (1402–1976 CE)](Spanish%20Empire%20%281402%E2%80%931976%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3051633 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Spanish Empire (1402–1976 CE)](Spanish%20Empire%20%281402%E2%80%931976%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3051633 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

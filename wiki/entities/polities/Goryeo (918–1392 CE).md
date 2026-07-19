@@ -25,18 +25,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Joseon (1392–1897 CE)](Joseon%20%281392%E2%80%931897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28208 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Joseon (1392–1897 CE)](Joseon%20%281392%E2%80%931897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28208 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Balhae (698–926 CE)](Balhae%20%28698%E2%80%93926%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
-| [Later Baekje (892–936 CE)](Later%20Baekje%20%28892%E2%80%93936%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q698239 succession statement (retrieved 2026-07-18) |
-| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
-| [Taebong (901–918 CE)](Taebong%20%28901%E2%80%93918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q699871 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Balhae (698–926 CE)](Balhae%20%28698%E2%80%93926%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
+| [Later Baekje (892–936 CE)](Later%20Baekje%20%28892%E2%80%93936%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q698239 succession statement (retrieved 2026-07-18) |
+| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
+| [Taebong (901–918 CE)](Taebong%20%28901%E2%80%93918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q699871 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

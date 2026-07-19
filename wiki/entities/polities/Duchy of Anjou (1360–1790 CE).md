@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [county of Anjou (930–1360 CE)](county%20of%20Anjou%20%28930%E2%80%931360%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3040803 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [county of Anjou (930–1360 CE)](county%20of%20Anjou%20%28930%E2%80%931360%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3040803 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

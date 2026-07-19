@@ -28,9 +28,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Liang (397–439 CE)](Northern%20Liang%20%28397%E2%80%93439%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1539360 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Liang (397–439 CE)](Northern%20Liang%20%28397%E2%80%93439%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1539360 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q907234 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q907234 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alawi Sultanate (c. 1660–1912 CE)](Alawi%20Sultanate%20%28c.%201660%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
-| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Alawi Sultanate (c. 1660–1912 CE)](Alawi%20Sultanate%20%28c.%201660%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

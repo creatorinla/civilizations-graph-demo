@@ -23,10 +23,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Lower Bavaria (first creation)](Duchy%20of%20Lower%20Bavaria%20%28first%20creation%29.html) | has part | — | — | tentative | reference work | Wikidata Q97584643 containment statement (retrieved 2026-07-18) |
-| [Duchy of Lower Bavaria (second creation)](Duchy%20of%20Lower%20Bavaria%20%28second%20creation%29.html) | has part | — | — | tentative | reference work | Wikidata Q14631240 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Lower Bavaria (first creation)](Duchy%20of%20Lower%20Bavaria%20%28first%20creation%29.html) | has part | — | tentative | reference work | Wikidata Q97584643 containment statement (retrieved 2026-07-18) |
+| [Duchy of Lower Bavaria (second creation)](Duchy%20of%20Lower%20Bavaria%20%28second%20creation%29.html) | has part | — | tentative | reference work | Wikidata Q14631240 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Kampuchea (1976–1979 CE)](Democratic%20Kampuchea%20%281976%E2%80%931979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q867778 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Kampuchea (1976–1979 CE)](Democratic%20Kampuchea%20%281976%E2%80%931979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q867778 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

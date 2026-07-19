@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Caliphate of Córdoba (929–1031 CE)](Caliphate%20of%20C%C3%B3rdoba%20%28929%E2%80%931031%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1337854 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Caliphate of Córdoba (929–1031 CE)](Caliphate%20of%20C%C3%B3rdoba%20%28929%E2%80%931031%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1337854 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Umayyad Caliphate (661–750 CE)](Umayyad%20Caliphate%20%28661%E2%80%93750%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8575586 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Umayyad Caliphate (661–750 CE)](Umayyad%20Caliphate%20%28661%E2%80%93750%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8575586 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

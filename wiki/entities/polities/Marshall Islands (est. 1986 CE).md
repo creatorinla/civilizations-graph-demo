@@ -24,9 +24,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q165008 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q165008 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

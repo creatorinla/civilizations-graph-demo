@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Wessex (519–927 CE)](Kingdom%20of%20Wessex%20%28519%E2%80%93927%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q105313 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Wessex (519–927 CE)](Kingdom%20of%20Wessex%20%28519%E2%80%93927%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q105313 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of the Hwicce (c. 577–780 CE)](Kingdom%20of%20the%20Hwicce%20%28c.%20577%E2%80%93780%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q733799 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of the Hwicce (c. 577–780 CE)](Kingdom%20of%20the%20Hwicce%20%28c.%20577%E2%80%93780%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q733799 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

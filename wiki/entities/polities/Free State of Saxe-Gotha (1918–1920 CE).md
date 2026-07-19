@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy Saxony-Gotha (1826–1918 CE)](Duchy%20Saxony-Gotha%20%281826%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14631244 succession statement (retrieved 2026-07-18) |
-| [Saxe-Coburg and Gotha (1826–1918 CE)](Saxe-Coburg%20and%20Gotha%20%281826%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1297084 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy Saxony-Gotha (1826–1918 CE)](Duchy%20Saxony-Gotha%20%281826%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14631244 succession statement (retrieved 2026-07-18) |
+| [Saxe-Coburg and Gotha (1826–1918 CE)](Saxe-Coburg%20and%20Gotha%20%281826%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1297084 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

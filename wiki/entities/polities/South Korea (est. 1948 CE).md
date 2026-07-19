@@ -32,9 +32,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Confederal Republic of Koryo](Democratic%20Confederal%20Republic%20of%20Koryo.html) | has part | — | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Confederal Republic of Koryo](Democratic%20Confederal%20Republic%20of%20Koryo.html) | has part | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

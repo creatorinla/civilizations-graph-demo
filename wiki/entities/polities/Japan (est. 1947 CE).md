@@ -29,9 +29,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Empire of Japan (1868–1947 CE)](Empire%20of%20Japan%20%281868%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q188712 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Empire of Japan (1868–1947 CE)](Empire%20of%20Japan%20%281868%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q188712 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

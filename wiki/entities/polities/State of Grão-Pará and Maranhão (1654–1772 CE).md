@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Brazil (1815–1825 CE)](Kingdom%20of%20Brazil%20%281815%E2%80%931825%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3932042 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Brazil (1815–1825 CE)](Kingdom%20of%20Brazil%20%281815%E2%80%931825%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3932042 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Maranhão (1621–1654 CE)](State%20of%20Maranh%C3%A3o%20%281621%E2%80%931654%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q616965 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Maranhão (1621–1654 CE)](State%20of%20Maranh%C3%A3o%20%281621%E2%80%931654%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q616965 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

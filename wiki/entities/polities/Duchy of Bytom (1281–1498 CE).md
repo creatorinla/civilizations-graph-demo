@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Siewierz (1312–1795 CE)](Duchy%20of%20Siewierz%20%281312%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1395320 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Siewierz (1312–1795 CE)](Duchy%20of%20Siewierz%20%281312%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1395320 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

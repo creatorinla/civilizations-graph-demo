@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Parthian Empire (247 BCE – 224 CE)](Parthian%20Empire%20%28247%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Parthian Empire (247 BCE – 224 CE)](Parthian%20Empire%20%28247%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
 
 ## Sources
 

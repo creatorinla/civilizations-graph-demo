@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Poland (1386–1569 CE)](Kingdom%20of%20Poland%20%281386%E2%80%931569%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3446214 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Poland (1386–1569 CE)](Kingdom%20of%20Poland%20%281386%E2%80%931569%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3446214 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Poland (1138–1320 CE)](Duchy%20of%20Poland%20%281138%E2%80%931320%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3446214 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Poland (1138–1320 CE)](Duchy%20of%20Poland%20%281138%E2%80%931320%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3446214 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

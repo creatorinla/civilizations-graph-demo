@@ -21,9 +21,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ancient Rome (753 BCE – 476 CE)](Ancient%20Rome%20%28753%20BCE%20%E2%80%93%20476%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q120754777 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ancient Rome (753 BCE – 476 CE)](Ancient%20Rome%20%28753%20BCE%20%E2%80%93%20476%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q120754777 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

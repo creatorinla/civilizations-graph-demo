@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United Republic of Cameroon (est. 1972 CE)](United%20Republic%20of%20Cameroon%20%28est.%201972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United Republic of Cameroon (est. 1972 CE)](United%20Republic%20of%20Cameroon%20%28est.%201972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
-| [French Cameroons (1919–1960 CE)](French%20Cameroons%20%281919%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
+| [French Cameroons (1919–1960 CE)](French%20Cameroons%20%281919%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

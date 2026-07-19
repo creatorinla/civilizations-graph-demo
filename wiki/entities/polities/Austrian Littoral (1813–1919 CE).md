@@ -26,16 +26,16 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Margraviate of Istria (1849–1918 CE)](Margraviate%20of%20Istria%20%281849%E2%80%931918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3847034 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Margraviate of Istria (1849–1918 CE)](Margraviate%20of%20Istria%20%281849%E2%80%931918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3847034 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q306696 containment statement (retrieved 2026-07-18) |
-| [Austria–Hungary (1867–1918 CE)](Austria%E2%80%93Hungary%20%281867%E2%80%931918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q306696 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q306696 containment statement (retrieved 2026-07-18) |
+| [Austria–Hungary (1867–1918 CE)](Austria%E2%80%93Hungary%20%281867%E2%80%931918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q306696 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

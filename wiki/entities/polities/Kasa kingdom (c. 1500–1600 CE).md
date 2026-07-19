@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kaabu (1537–1867 CE)](Kaabu%20%281537%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3813189 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kaabu (1537–1867 CE)](Kaabu%20%281537%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3813189 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ifni (1958–1969 CE)](Ifni%20%281958%E2%80%931969%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q763141 succession statement (retrieved 2026-07-18) |
-| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1191986 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ifni (1958–1969 CE)](Ifni%20%281958%E2%80%931969%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q763141 succession statement (retrieved 2026-07-18) |
+| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1191986 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

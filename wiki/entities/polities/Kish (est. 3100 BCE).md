@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Akkadian Empire (2334–2154 BCE)](Akkadian%20Empire%20%282334%E2%80%932154%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4461035 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Akkadian Empire (2334–2154 BCE)](Akkadian%20Empire%20%282334%E2%80%932154%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q4461035 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

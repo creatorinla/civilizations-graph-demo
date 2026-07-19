@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Iran (est. 1979 CE)](Iran%20%28est.%201979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Iran (est. 1979 CE)](Iran%20%28est.%201979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qajar Iran (1789–1925 CE)](Qajar%20Iran%20%281789%E2%80%931925%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qajar Iran (1789–1925 CE)](Qajar%20Iran%20%281789%E2%80%931925%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

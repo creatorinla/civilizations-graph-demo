@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saudi Arabia (est. 1727 CE)](Saudi%20Arabia%20%28est.%201727%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saudi Arabia (est. 1727 CE)](Saudi%20Arabia%20%28est.%201727%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Hejaz (1916–1926 CE)](Kingdom%20of%20Hejaz%20%281916%E2%80%931926%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Hejaz (1916–1926 CE)](Kingdom%20of%20Hejaz%20%281916%E2%80%931926%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

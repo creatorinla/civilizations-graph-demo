@@ -26,10 +26,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Bosnia and Herzegovina (1992–1995 CE)](Republic%20of%20Bosnia%20and%20Herzegovina%20%281992%E2%80%931995%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1274468 succession statement (retrieved 2026-07-18) |
-| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q83286 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Bosnia and Herzegovina (1992–1995 CE)](Republic%20of%20Bosnia%20and%20Herzegovina%20%281992%E2%80%931995%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1274468 succession statement (retrieved 2026-07-18) |
+| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q83286 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

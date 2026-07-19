@@ -9,7 +9,7 @@ tags:
 # About this export
 
 A read-only, citation-backed export of Polity Ancestry: entities,
-relationships, and transitions assembled from public records, with the
+relationships, and transitions assembled from public sources, with the
 claim status, evidence class, and citation shown on relationship
 rows when present in the stored source record.
 

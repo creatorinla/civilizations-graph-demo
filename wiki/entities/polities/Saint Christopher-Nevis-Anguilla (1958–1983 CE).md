@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1796551 succession statement (retrieved 2026-07-18) |
-| [Saint Kitts and Nevis (est. 1967 CE)](Saint%20Kitts%20and%20Nevis%20%28est.%201967%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1637975 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1796551 succession statement (retrieved 2026-07-18) |
+| [Saint Kitts and Nevis (est. 1967 CE)](Saint%20Kitts%20and%20Nevis%20%28est.%201967%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1637975 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1796551 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Leeward Islands (1671–1960 CE)](British%20Leeward%20Islands%20%281671%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1796551 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

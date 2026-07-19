@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7416493 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7416493 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Patani Kingdom (1516–1902 CE)](Patani%20Kingdom%20%281516%E2%80%931902%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7416493 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Patani Kingdom (1516–1902 CE)](Patani%20Kingdom%20%281516%E2%80%931902%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7416493 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

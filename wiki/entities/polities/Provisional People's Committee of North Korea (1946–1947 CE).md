@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Soviet Civil Administration (1945–1946 CE)](Soviet%20Civil%20Administration%20%281945%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Soviet Civil Administration (1945–1946 CE)](Soviet%20Civil%20Administration%20%281945%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

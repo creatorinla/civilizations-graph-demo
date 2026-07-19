@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mahan confederacy (c. 100–300 CE)](Mahan%20confederacy%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q704278 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mahan confederacy (c. 100–300 CE)](Mahan%20confederacy%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q704278 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

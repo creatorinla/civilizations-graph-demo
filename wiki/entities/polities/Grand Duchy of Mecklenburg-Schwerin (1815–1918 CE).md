@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Mecklenburg-Schwerin (1701–1815 CE)](Duchy%20of%20Mecklenburg-Schwerin%20%281701%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11024667 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Mecklenburg-Schwerin (1701–1815 CE)](Duchy%20of%20Mecklenburg-Schwerin%20%281701%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11024667 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

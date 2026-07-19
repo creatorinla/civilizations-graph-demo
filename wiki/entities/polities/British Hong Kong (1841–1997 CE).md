@@ -35,9 +35,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hong Kong (est. 1997 CE)](Hong%20Kong%20%28est.%201997%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1054923 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hong Kong (est. 1997 CE)](Hong%20Kong%20%28est.%201997%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1054923 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of England (927–1707 CE)](Kingdom%20of%20England%20%28927%E2%80%931707%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of England (927–1707 CE)](Kingdom%20of%20England%20%28927%E2%80%931707%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Deheubarth (920–1197 CE)](Kingdom%20of%20Deheubarth%20%28920%E2%80%931197%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Gwynedd (401–1216 CE)](Kingdom%20of%20Gwynedd%20%28401%E2%80%931216%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Deheubarth (920–1197 CE)](Kingdom%20of%20Deheubarth%20%28920%E2%80%931197%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Gwynedd (401–1216 CE)](Kingdom%20of%20Gwynedd%20%28401%E2%80%931216%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1483510 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

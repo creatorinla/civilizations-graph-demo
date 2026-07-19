@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Turkestan Autonomous Soviet Socialist Republic (1918–1924 CE)](Turkestan%20Autonomous%20Soviet%20Socialist%20Republic%20%281918%E2%80%931924%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4184652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Turkestan Autonomous Soviet Socialist Republic (1918–1924 CE)](Turkestan%20Autonomous%20Soviet%20Socialist%20Republic%20%281918%E2%80%931924%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4184652 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

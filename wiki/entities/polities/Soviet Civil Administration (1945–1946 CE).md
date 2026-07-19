@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15242873 succession statement (retrieved 2026-07-18) |
-| [Provisional People's Committee of North Korea (1946–1947 CE)](Provisional%20People%27s%20Committee%20of%20North%20Korea%20%281946%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15242873 succession statement (retrieved 2026-07-18) |
+| [Provisional People's Committee of North Korea (1946–1947 CE)](Provisional%20People%27s%20Committee%20of%20North%20Korea%20%281946%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60770428 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Korea under Japanese rule (1910–1945 CE)](Korea%20under%20Japanese%20rule%20%281910%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15242873 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Korea under Japanese rule (1910–1945 CE)](Korea%20under%20Japanese%20rule%20%281910%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15242873 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

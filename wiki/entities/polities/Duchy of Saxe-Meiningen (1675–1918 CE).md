@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saxe-Hildburghausen (1680–1826 CE)](Saxe-Hildburghausen%20%281680%E2%80%931826%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q281005 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saxe-Hildburghausen (1680–1826 CE)](Saxe-Hildburghausen%20%281680%E2%80%931826%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q281005 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

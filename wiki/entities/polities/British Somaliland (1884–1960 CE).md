@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Somaliland (1960–1960 CE)](State%20of%20Somaliland%20%281960%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1106857 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Somaliland (1960–1960 CE)](State%20of%20Somaliland%20%281960%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1106857 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian East Africa (1936–1941 CE)](Italian%20East%20Africa%20%281936%E2%80%931941%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q662653 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian East Africa (1936–1941 CE)](Italian%20East%20Africa%20%281936%E2%80%931941%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q662653 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

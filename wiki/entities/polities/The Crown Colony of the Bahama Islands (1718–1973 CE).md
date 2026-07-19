@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [The Bahamas (est. 1973 CE)](The%20Bahamas%20%28est.%201973%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21815597 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [The Bahamas (est. 1973 CE)](The%20Bahamas%20%28est.%201973%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21815597 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

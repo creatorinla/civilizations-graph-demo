@@ -24,17 +24,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
-| [Republic of the Rif (1921–1926 CE)](Republic%20of%20the%20Rif%20%281921%E2%80%931926%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Morocco (est. 789 CE)](Morocco%20%28est.%20789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
+| [Republic of the Rif (1921–1926 CE)](Republic%20of%20the%20Rif%20%281921%E2%80%931926%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of the Rif (1921–1926 CE)](Republic%20of%20the%20Rif%20%281921%E2%80%931926%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
-| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of the Rif (1921–1926 CE)](Republic%20of%20the%20Rif%20%281921%E2%80%931926%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q457242 succession statement (retrieved 2026-07-18) |
+| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

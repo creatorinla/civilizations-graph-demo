@@ -25,23 +25,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q217196 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q217196 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q199688 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Asturias (718–924 CE)](Kingdom%20of%20Asturias%20%28718%E2%80%93924%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q231392 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q199688 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Asturias (718–924 CE)](Kingdom%20of%20Asturias%20%28718%E2%80%93924%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q231392 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q217196 containment statement (retrieved 2026-07-18) |
-| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q175276 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q217196 containment statement (retrieved 2026-07-18) |
+| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q175276 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

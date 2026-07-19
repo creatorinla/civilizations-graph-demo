@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Diriyah (1447–1744 CE)](Emirate%20of%20Diriyah%20%281447%E2%80%931744%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56885910 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Nejd and Hejaz (1926–1932 CE)](Kingdom%20of%20Nejd%20and%20Hejaz%20%281926%E2%80%931932%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Diriyah (1447–1744 CE)](Emirate%20of%20Diriyah%20%281447%E2%80%931744%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56885910 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Nejd and Hejaz (1926–1932 CE)](Kingdom%20of%20Nejd%20and%20Hejaz%20%281926%E2%80%931932%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1756546 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

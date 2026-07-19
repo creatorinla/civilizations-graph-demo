@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Yemen (1918–1970 CE)](Kingdom%20of%20Yemen%20%281918%E2%80%931970%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1042069 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Yemen (1918–1970 CE)](Kingdom%20of%20Yemen%20%281918%E2%80%931970%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1042069 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

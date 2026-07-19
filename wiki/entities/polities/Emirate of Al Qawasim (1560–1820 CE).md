@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Lengeh (1750–1899 CE)](Emirate%20of%20Lengeh%20%281750%E2%80%931899%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131588685 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Lengeh (1750–1899 CE)](Emirate%20of%20Lengeh%20%281750%E2%80%931899%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131588685 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

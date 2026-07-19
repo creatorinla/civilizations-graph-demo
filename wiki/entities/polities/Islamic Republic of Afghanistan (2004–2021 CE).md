@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Transitional Islamic State of Afghanistan (2002–2004 CE)](Transitional%20Islamic%20State%20of%20Afghanistan%20%282002%E2%80%932004%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30747910 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Transitional Islamic State of Afghanistan (2002–2004 CE)](Transitional%20Islamic%20State%20of%20Afghanistan%20%282002%E2%80%932004%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30747910 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

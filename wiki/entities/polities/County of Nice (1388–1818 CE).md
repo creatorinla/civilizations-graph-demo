@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q788123 (1258–1581 CE)](Q788123%20%281258%E2%80%931581%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q788123 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q788123 (1258–1581 CE)](Q788123%20%281258%E2%80%931581%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q788123 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North Greenland (1721–1950 CE)](North%20Greenland%20%281721%E2%80%931950%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19461095 succession statement (retrieved 2026-07-18) |
-| [South Greenland](South%20Greenland.html) | transition | — | — | tentative | reference work | Wikidata Q19461095 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North Greenland (1721–1950 CE)](North%20Greenland%20%281721%E2%80%931950%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19461095 succession statement (retrieved 2026-07-18) |
+| [South Greenland](South%20Greenland.html) | transition | — | tentative | reference work | Wikidata Q19461095 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

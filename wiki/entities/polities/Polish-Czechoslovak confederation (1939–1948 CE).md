@@ -24,10 +24,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q660833 containment statement (retrieved 2026-07-18) |
-| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q660833 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q660833 containment statement (retrieved 2026-07-18) |
+| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q660833 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

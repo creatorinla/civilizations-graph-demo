@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Joseon (1392–1897 CE)](Joseon%20%281392%E2%80%931897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28179 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Joseon (1392–1897 CE)](Joseon%20%281392%E2%80%931897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28179 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

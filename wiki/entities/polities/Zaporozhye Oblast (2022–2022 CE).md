@@ -24,9 +24,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ukraine (est. 1991 CE)](Ukraine%20%28est.%201991%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q114318415 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ukraine (est. 1991 CE)](Ukraine%20%28est.%201991%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q114318415 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

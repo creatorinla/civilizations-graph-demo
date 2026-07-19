@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sri Lanka (est. 1972 CE)](Sri%20Lanka%20%28est.%201972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sri Lanka (est. 1972 CE)](Sri%20Lanka%20%28est.%201972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Ceylon (1815–1948 CE)](British%20Ceylon%20%281815%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Ceylon (1815–1948 CE)](British%20Ceylon%20%281815%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

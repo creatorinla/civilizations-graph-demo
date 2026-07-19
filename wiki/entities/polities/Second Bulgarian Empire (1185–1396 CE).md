@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Despotate of Lovech (1330–1446 CE)](Despotate%20of%20Lovech%20%281330%E2%80%931446%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q113614156 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Despotate of Lovech (1330–1446 CE)](Despotate%20of%20Lovech%20%281330%E2%80%931446%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q113614156 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

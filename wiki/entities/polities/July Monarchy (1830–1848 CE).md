@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Second Republic (1848–1852 CE)](French%20Second%20Republic%20%281848%E2%80%931852%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q58326 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Second Republic (1848–1852 CE)](French%20Second%20Republic%20%281848%E2%80%931852%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q58326 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bourbon Restoration in France (1815–1830 CE)](Bourbon%20Restoration%20in%20France%20%281815%E2%80%931830%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q207162 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bourbon Restoration in France (1815–1830 CE)](Bourbon%20Restoration%20in%20France%20%281815%E2%80%931830%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q207162 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

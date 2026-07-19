@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qi  (209–203 BC) (209–203 BCE)](Qi%20%28209%E2%80%93203%20BC%29%20%28209%E2%80%93203%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17034723 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qi  (209–203 BC) (209–203 BCE)](Qi%20%28209%E2%80%93203%20BC%29%20%28209%E2%80%93203%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q17034723 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17034723 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q17034723 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Margravate of Mantua (1433–1530 CE)](Margravate%20of%20Mantua%20%281433%E2%80%931530%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3845763 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Margravate of Mantua (1433–1530 CE)](Margravate%20of%20Mantua%20%281433%E2%80%931530%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3845763 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

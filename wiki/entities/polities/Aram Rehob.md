@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zobah (c. 1000–1000 BCE)](Zobah%20%28c.%201000%E2%80%931000%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4783941 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zobah (c. 1000–1000 BCE)](Zobah%20%28c.%201000%E2%80%931000%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q4783941 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

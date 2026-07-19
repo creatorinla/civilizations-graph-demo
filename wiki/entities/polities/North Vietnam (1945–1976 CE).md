@@ -26,18 +26,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Vietnam (est. 1976 CE)](Vietnam%20%28est.%201976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q172640 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Vietnam (est. 1976 CE)](Vietnam%20%28est.%201976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q172640 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Empire of Vietnam (1945–1945 CE)](Empire%20of%20Vietnam%20%281945%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q701337 succession statement (retrieved 2026-07-18) |
-| [French Indochina (1887–1954 CE)](French%20Indochina%20%281887%E2%80%931954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q172640 succession statement (retrieved 2026-07-18) |
-| [Nguyen dynasty (1802–1945 CE)](Nguyen%20dynasty%20%281802%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6500483 succession statement (retrieved 2026-07-18) |
-| [Sip Song Chau Tai (1640–1954 CE)](Sip%20Song%20Chau%20Tai%20%281640%E2%80%931954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1768188 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Empire of Vietnam (1945–1945 CE)](Empire%20of%20Vietnam%20%281945%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q701337 succession statement (retrieved 2026-07-18) |
+| [French Indochina (1887–1954 CE)](French%20Indochina%20%281887%E2%80%931954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q172640 succession statement (retrieved 2026-07-18) |
+| [Nguyen dynasty (1802–1945 CE)](Nguyen%20dynasty%20%281802%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6500483 succession statement (retrieved 2026-07-18) |
+| [Sip Song Chau Tai (1640–1954 CE)](Sip%20Song%20Chau%20Tai%20%281640%E2%80%931954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1768188 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

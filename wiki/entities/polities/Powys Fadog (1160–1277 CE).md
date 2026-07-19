@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Powys (c. 500–1160 CE)](Kingdom%20of%20Powys%20%28c.%20500%E2%80%931160%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2564694 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Powys (c. 500–1160 CE)](Kingdom%20of%20Powys%20%28c.%20500%E2%80%931160%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2564694 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

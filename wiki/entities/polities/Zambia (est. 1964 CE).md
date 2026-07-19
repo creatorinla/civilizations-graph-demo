@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Rhodesia (1924–1964 CE)](Northern%20Rhodesia%20%281924%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q953903 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Rhodesia (1924–1964 CE)](Northern%20Rhodesia%20%281924%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q953903 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

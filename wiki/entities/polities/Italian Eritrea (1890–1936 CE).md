@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian East Africa (1936–1941 CE)](Italian%20East%20Africa%20%281936%E2%80%931941%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1232988 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian East Africa (1936–1941 CE)](Italian%20East%20Africa%20%281936%E2%80%931941%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1232988 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q16678194 (c. 1600–1910 CE)](Q16678194%20%28c.%201600%E2%80%931910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16678194 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q16678194 (c. 1600–1910 CE)](Q16678194%20%28c.%201600%E2%80%931910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16678194 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

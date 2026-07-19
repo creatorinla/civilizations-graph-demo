@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Haihaiyavansi Kingdom (c. 1200–1800 CE)](Haihaiyavansi%20Kingdom%20%28c.%201200%E2%80%931800%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17005004 succession statement (retrieved 2026-07-18) |
-| [Maratha Empire (1674–1818 CE)](Maratha%20Empire%20%281674%E2%80%931818%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4311709 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Haihaiyavansi Kingdom (c. 1200–1800 CE)](Haihaiyavansi%20Kingdom%20%28c.%201200%E2%80%931800%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17005004 succession statement (retrieved 2026-07-18) |
+| [Maratha Empire (1674–1818 CE)](Maratha%20Empire%20%281674%E2%80%931818%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4311709 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

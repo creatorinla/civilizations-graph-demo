@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sumer (c. 5500–1900 BCE)](Sumer%20%28c.%205500%E2%80%931900%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q35355 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sumer (c. 5500–1900 BCE)](Sumer%20%28c.%205500%E2%80%931900%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q35355 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

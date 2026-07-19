@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Granadine Confederation (1858–1863 CE)](Granadine%20Confederation%20%281858%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1141215 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Granadine Confederation (1858–1863 CE)](Granadine%20Confederation%20%281858%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1141215 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gran Colombia (1819–1831 CE)](Gran%20Colombia%20%281819%E2%80%931831%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q630882 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gran Colombia (1819–1831 CE)](Gran%20Colombia%20%281819%E2%80%931831%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q630882 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

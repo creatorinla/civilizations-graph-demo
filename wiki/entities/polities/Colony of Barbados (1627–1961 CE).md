@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Barbados (est. 1966 CE)](Barbados%20%28est.%201966%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q244 succession statement (retrieved 2026-07-18) |
-| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63973349 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Barbados (est. 1966 CE)](Barbados%20%28est.%201966%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q244 succession statement (retrieved 2026-07-18) |
+| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63973349 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

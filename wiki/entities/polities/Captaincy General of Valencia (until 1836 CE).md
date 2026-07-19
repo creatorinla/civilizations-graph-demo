@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Valencia (1238–1707 CE)](Kingdom%20of%20Valencia%20%281238%E2%80%931707%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q105301366 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Valencia (1238–1707 CE)](Kingdom%20of%20Valencia%20%281238%E2%80%931707%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q105301366 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,9 +26,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Peru–Bolivian Confederation (1836–1839 CE)](Peru%E2%80%93Bolivian%20Confederation%20%281836%E2%80%931839%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Peru–Bolivian Confederation (1836–1839 CE)](Peru%E2%80%93Bolivian%20Confederation%20%281836%E2%80%931839%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

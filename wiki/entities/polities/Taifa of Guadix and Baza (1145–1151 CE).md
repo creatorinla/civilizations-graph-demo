@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Murcia (1011–1266 CE)](Taifa%20of%20Murcia%20%281011%E2%80%931266%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2327139 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Murcia (1011–1266 CE)](Taifa%20of%20Murcia%20%281011%E2%80%931266%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2327139 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

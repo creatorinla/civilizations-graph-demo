@@ -27,10 +27,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Republic of Zanzibar (1964–1964 CE)](People%27s%20Republic%20of%20Zanzibar%20%281964%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q924 succession statement (retrieved 2026-07-18) |
-| [Tanganyika (1961–1964 CE)](Tanganyika%20%281961%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q431731 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Republic of Zanzibar (1964–1964 CE)](People%27s%20Republic%20of%20Zanzibar%20%281964%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q924 succession statement (retrieved 2026-07-18) |
+| [Tanganyika (1961–1964 CE)](Tanganyika%20%281961%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q431731 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

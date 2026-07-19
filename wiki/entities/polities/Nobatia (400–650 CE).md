@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Makuria (c. 500–1518 CE)](Kingdom%20of%20Makuria%20%28c.%20500%E2%80%931518%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q568523 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Makuria (c. 500–1518 CE)](Kingdom%20of%20Makuria%20%28c.%20500%E2%80%931518%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q568523 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

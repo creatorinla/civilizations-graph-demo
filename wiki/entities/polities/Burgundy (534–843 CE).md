@@ -23,11 +23,11 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
-| [Middle Francia (843–855 CE)](Middle%20Francia%20%28843%E2%80%93855%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
-| [West Francia (843–987 CE)](West%20Francia%20%28843%E2%80%93987%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
+| [Middle Francia (843–855 CE)](Middle%20Francia%20%28843%E2%80%93855%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
+| [West Francia (843–987 CE)](West%20Francia%20%28843%E2%80%93987%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q357201 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of New Zealand (1841–1907 CE)](Colony%20of%20New%20Zealand%20%281841%E2%80%931907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5148518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of New Zealand (1841–1907 CE)](Colony%20of%20New%20Zealand%20%281841%E2%80%931907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5148518 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Realm of New Zealand (est. 1983 CE)](Realm%20of%20New%20Zealand%20%28est.%201983%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q664 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Realm of New Zealand (est. 1983 CE)](Realm%20of%20New%20Zealand%20%28est.%201983%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q664 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

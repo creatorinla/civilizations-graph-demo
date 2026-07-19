@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ancient Carthage (814–146 BCE)](Ancient%20Carthage%20%28814%E2%80%93146%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ancient Carthage (814–146 BCE)](Ancient%20Carthage%20%28814%E2%80%93146%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Mauretania (c. 400 BCE – 40 CE)](Kingdom%20of%20Mauretania%20%28c.%20400%20BCE%20%E2%80%93%2040%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q31723 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Mauretania (c. 400 BCE – 40 CE)](Kingdom%20of%20Mauretania%20%28c.%20400%20BCE%20%E2%80%93%2040%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q31723 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

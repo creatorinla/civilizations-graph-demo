@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Aquitaine](Kingdom%20of%20Aquitaine.html) | transition | — | — | tentative | reference work | Wikidata Q2990516 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Aquitaine](Kingdom%20of%20Aquitaine.html) | transition | — | tentative | reference work | Wikidata Q2990516 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

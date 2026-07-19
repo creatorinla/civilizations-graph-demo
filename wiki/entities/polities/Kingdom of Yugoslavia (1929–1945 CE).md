@@ -25,24 +25,24 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Federal Yugoslavia (1945–1945 CE)](Democratic%20Federal%20Yugoslavia%20%281945%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
-| [Governorate of Montenegro (1941–1944 CE)](Governorate%20of%20Montenegro%20%281941%E2%80%931944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q616992 succession statement (retrieved 2026-07-18) |
-| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q191077 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Federal Yugoslavia (1945–1945 CE)](Democratic%20Federal%20Yugoslavia%20%281945%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
+| [Governorate of Montenegro (1941–1944 CE)](Governorate%20of%20Montenegro%20%281941%E2%80%931944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q616992 succession statement (retrieved 2026-07-18) |
+| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q191077 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q191077 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Serbs, Croats and Slovenes (1918–1929 CE)](Kingdom%20of%20Serbs%2C%20Croats%20and%20Slovenes%20%281918%E2%80%931929%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15102440 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q191077 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Serbs, Croats and Slovenes (1918–1929 CE)](Kingdom%20of%20Serbs%2C%20Croats%20and%20Slovenes%20%281918%E2%80%931929%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15102440 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yugoslavia (1918–1992 CE)](Yugoslavia%20%281918%E2%80%931992%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q191077 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yugoslavia (1918–1992 CE)](Yugoslavia%20%281918%E2%80%931992%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q191077 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cambodia (est. 1953 CE)](Cambodia%20%28est.%201953%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6585262 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cambodia (est. 1953 CE)](Cambodia%20%28est.%201953%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6585262 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

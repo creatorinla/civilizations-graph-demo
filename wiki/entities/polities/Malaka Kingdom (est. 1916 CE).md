@@ -21,9 +21,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wehali](Wehali.html) | has part | — | — | tentative | reference work | Wikidata Q118713901 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wehali](Wehali.html) | has part | — | tentative | reference work | Wikidata Q118713901 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

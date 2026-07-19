@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United States of the Ionian Islands (1815–1864 CE)](United%20States%20of%20the%20Ionian%20Islands%20%281815%E2%80%931864%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1063498 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United States of the Ionian Islands (1815–1864 CE)](United%20States%20of%20the%20Ionian%20Islands%20%281815%E2%80%931864%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1063498 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,16 +26,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United Kingdom of Portugal, Brazil and the Algarves (1815–1822 CE)](United%20Kingdom%20of%20Portugal%2C%20Brazil%20and%20the%20Algarves%20%281815%E2%80%931822%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1796196 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United Kingdom of Portugal, Brazil and the Algarves (1815–1822 CE)](United%20Kingdom%20of%20Portugal%2C%20Brazil%20and%20the%20Algarves%20%281815%E2%80%931822%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1796196 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1796196 containment statement (retrieved 2026-07-18) |
-| [United Kingdom of Portugal, Brazil and the Algarves (1815–1822 CE)](United%20Kingdom%20of%20Portugal%2C%20Brazil%20and%20the%20Algarves%20%281815%E2%80%931822%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1796196 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1796196 containment statement (retrieved 2026-07-18) |
+| [United Kingdom of Portugal, Brazil and the Algarves (1815–1822 CE)](United%20Kingdom%20of%20Portugal%2C%20Brazil%20and%20the%20Algarves%20%281815%E2%80%931822%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1796196 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

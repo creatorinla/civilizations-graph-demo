@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Patani Kingdom (1516–1902 CE)](Patani%20Kingdom%20%281516%E2%80%931902%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2320075 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Patani Kingdom (1516–1902 CE)](Patani%20Kingdom%20%281516%E2%80%931902%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2320075 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2320075 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2320075 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

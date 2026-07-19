@@ -24,17 +24,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
-| [Kakatiya dynasty (1163–1323 CE)](Kakatiya%20dynasty%20%281163%E2%80%931323%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2086556 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
+| [Kakatiya dynasty (1163–1323 CE)](Kakatiya%20dynasty%20%281163%E2%80%931323%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2086556 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chalukya dynasty (543–753 CE)](Chalukya%20dynasty%20%28543%E2%80%93753%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
-| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chalukya dynasty (543–753 CE)](Chalukya%20dynasty%20%28543%E2%80%93753%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
+| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

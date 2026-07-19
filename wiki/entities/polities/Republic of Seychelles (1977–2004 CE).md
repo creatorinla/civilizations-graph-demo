@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Republic of Seychelles (1976–1977 CE)](First%20Republic%20of%20Seychelles%20%281976%E2%80%931977%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q129619467 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Republic of Seychelles (1976–1977 CE)](First%20Republic%20of%20Seychelles%20%281976%E2%80%931977%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q129619467 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

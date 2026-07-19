@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Gibraltar (1355–1462 CE)](Kingdom%20of%20Gibraltar%20%281355%E2%80%931462%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5694183 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Gibraltar (1355–1462 CE)](Kingdom%20of%20Gibraltar%20%281355%E2%80%931462%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5694183 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

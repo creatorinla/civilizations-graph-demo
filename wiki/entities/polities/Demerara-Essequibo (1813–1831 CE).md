@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Guiana (1814–1966 CE)](British%20Guiana%20%281814%E2%80%931966%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5255160 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Guiana (1814–1966 CE)](British%20Guiana%20%281814%E2%80%931966%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5255160 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Essequibo (1616–1815 CE)](Essequibo%20%281616%E2%80%931815%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q5255160 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Essequibo (1616–1815 CE)](Essequibo%20%281616%E2%80%931815%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q5255160 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

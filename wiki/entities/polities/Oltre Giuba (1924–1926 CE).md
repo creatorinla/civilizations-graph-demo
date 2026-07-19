@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian Empire (1882–1960 CE)](Italian%20Empire%20%281882%E2%80%931960%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1231992 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian Empire (1882–1960 CE)](Italian%20Empire%20%281882%E2%80%931960%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1231992 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

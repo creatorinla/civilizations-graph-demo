@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zeta under the Balšići (1360–1421 CE)](Zeta%20under%20the%20Bal%C5%A1i%C4%87i%20%281360%E2%80%931421%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zeta under the Balšići (1360–1421 CE)](Zeta%20under%20the%20Bal%C5%A1i%C4%87i%20%281360%E2%80%931421%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

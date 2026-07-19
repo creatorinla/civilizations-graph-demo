@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Verdun (c. 900–1134 CE)](County%20of%20Verdun%20%28c.%20900%E2%80%931134%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17015016 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Verdun (c. 900–1134 CE)](County%20of%20Verdun%20%28c.%20900%E2%80%931134%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17015016 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Albanian Republic (1925–1928 CE)](Albanian%20Republic%20%281925%E2%80%931928%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1923781 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Albanian Republic (1925–1928 CE)](Albanian%20Republic%20%281925%E2%80%931928%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1923781 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Autonomous Albanian Republic of Korçë (1916–1920 CE)](Autonomous%20Albanian%20Republic%20of%20Kor%C3%A7%C3%AB%20%281916%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028133 succession statement (retrieved 2026-07-18) |
-| [Provisional Government of Albania (1912–1914 CE)](Provisional%20Government%20of%20Albania%20%281912%E2%80%931914%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Autonomous Albanian Republic of Korçë (1916–1920 CE)](Autonomous%20Albanian%20Republic%20of%20Kor%C3%A7%C3%AB%20%281916%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028133 succession statement (retrieved 2026-07-18) |
+| [Provisional Government of Albania (1912–1914 CE)](Provisional%20Government%20of%20Albania%20%281912%E2%80%931914%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

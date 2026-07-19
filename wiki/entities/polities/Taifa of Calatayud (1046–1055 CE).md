@@ -22,9 +22,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Zaragoza (1018–1110 CE)](Taifa%20of%20Zaragoza%20%281018%E2%80%931110%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2671329 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Zaragoza (1018–1110 CE)](Taifa%20of%20Zaragoza%20%281018%E2%80%931110%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2671329 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

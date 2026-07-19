@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free State of Saxe-Gotha (1918–1920 CE)](Free%20State%20of%20Saxe-Gotha%20%281918%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1297084 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free State of Saxe-Gotha (1918–1920 CE)](Free%20State%20of%20Saxe-Gotha%20%281918%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1297084 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saxe-Gotha-Altenburg (1680–1826 CE)](Saxe-Gotha-Altenburg%20%281680%E2%80%931826%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q675085 succession statement (retrieved 2026-07-18) |
-| [Saxe-Hildburghausen (1680–1826 CE)](Saxe-Hildburghausen%20%281680%E2%80%931826%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q281005 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saxe-Gotha-Altenburg (1680–1826 CE)](Saxe-Gotha-Altenburg%20%281680%E2%80%931826%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q675085 succession statement (retrieved 2026-07-18) |
+| [Saxe-Hildburghausen (1680–1826 CE)](Saxe-Hildburghausen%20%281680%E2%80%931826%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q281005 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

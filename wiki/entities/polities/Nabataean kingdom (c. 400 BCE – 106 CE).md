@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qedarite (c. 800–200 BCE)](Qedarite%20%28c.%20800%E2%80%93200%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2287491 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qedarite (c. 800–200 BCE)](Qedarite%20%28c.%20800%E2%80%93200%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q2287491 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

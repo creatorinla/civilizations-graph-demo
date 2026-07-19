@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Commonwealth realm of Malawi (1964–1966 CE)](Commonwealth%20realm%20of%20Malawi%20%281964%E2%80%931966%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6741448 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Commonwealth realm of Malawi (1964–1966 CE)](Commonwealth%20realm%20of%20Malawi%20%281964%E2%80%931966%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6741448 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Prince-Bishopric of Minden (1180–1648 CE)](Prince-Bishopric%20of%20Minden%20%281180%E2%80%931648%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q876546 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Prince-Bishopric of Minden (1180–1648 CE)](Prince-Bishopric%20of%20Minden%20%281180%E2%80%931648%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q876546 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

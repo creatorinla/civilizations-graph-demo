@@ -33,22 +33,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Zhou (1046–771 BCE)](Western%20Zhou%20%281046%E2%80%93771%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q128938 succession statement (retrieved 2026-07-13) |
-| [Zhou dynasty (1046–256 BCE)](Zhou%20dynasty%20%281046%E2%80%93256%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Zhou (1046–771 BCE)](Western%20Zhou%20%281046%E2%80%93771%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q128938 succession statement (retrieved 2026-07-13) |
+| [Zhou dynasty (1046–256 BCE)](Zhou%20dynasty%20%281046%E2%80%93256%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Xia dynasty (2205–1600 BCE)](Xia%20dynasty%20%282205%E2%80%931600%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q169705 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Xia dynasty (2205–1600 BCE)](Xia%20dynasty%20%282205%E2%80%931600%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q169705 succession statement (retrieved 2026-07-13) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Late Shang (1250–1046 BCE)](Late%20Shang%20%281250%E2%80%931046%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q126325593 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Late Shang (1250–1046 BCE)](Late%20Shang%20%281250%E2%80%931046%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q126325593 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

@@ -29,15 +29,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mauretania (c. 300 BCE – 698 CE)](Mauretania%20%28c.%20300%20BCE%20%E2%80%93%20698%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mauretania (c. 300 BCE – 698 CE)](Mauretania%20%28c.%20300%20BCE%20%E2%80%93%20698%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Phoenicia (2500–64 BCE)](Phoenicia%20%282500%E2%80%9364%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Phoenicia (2500–64 BCE)](Phoenicia%20%282500%E2%80%9364%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q2429397 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

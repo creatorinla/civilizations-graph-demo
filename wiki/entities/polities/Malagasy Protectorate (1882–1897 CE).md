@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Madagascar (1897–1958 CE)](French%20Madagascar%20%281897%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3951019 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Madagascar (1897–1958 CE)](French%20Madagascar%20%281897%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3951019 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Merina Kingdom (1540–1897 CE)](Merina%20Kingdom%20%281540%E2%80%931897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3951019 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Merina Kingdom (1540–1897 CE)](Merina%20Kingdom%20%281540%E2%80%931897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3951019 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

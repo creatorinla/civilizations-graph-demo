@@ -24,23 +24,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Umayyad Caliphate (661–750 CE)](Umayyad%20Caliphate%20%28661%E2%80%93750%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Umayyad Caliphate (661–750 CE)](Umayyad%20Caliphate%20%28661%E2%80%93750%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
-| [Sasanian Empire (224–651 CE)](Sasanian%20Empire%20%28224%E2%80%93651%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
-| [first Islamic state (622–632 CE)](first%20Islamic%20state%20%28622%E2%80%93632%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q76821846 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
+| [Sasanian Empire (224–651 CE)](Sasanian%20Empire%20%28224%E2%80%93651%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
+| [first Islamic state (622–632 CE)](first%20Islamic%20state%20%28622%E2%80%93632%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q76821846 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Arab Caliphate (632–1517 CE)](Arab%20Caliphate%20%28632%E2%80%931517%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3181749 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Arab Caliphate (632–1517 CE)](Arab%20Caliphate%20%28632%E2%80%931517%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3181749 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

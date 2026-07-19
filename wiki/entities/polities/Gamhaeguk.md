@@ -19,9 +19,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mahan confederacy (c. 100–300 CE)](Mahan%20confederacy%20%28c.%20100%E2%80%93300%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12582684 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mahan confederacy (c. 100–300 CE)](Mahan%20confederacy%20%28c.%20100%E2%80%93300%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12582684 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

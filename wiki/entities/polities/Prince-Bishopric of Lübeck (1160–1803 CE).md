@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Oldenburg (1774–1918 CE)](Duchy%20of%20Oldenburg%20%281774%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
-| [Principality of Lübeck (1803–1918 CE)](Principality%20of%20L%C3%BCbeck%20%281803%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1311767 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Oldenburg (1774–1918 CE)](Duchy%20of%20Oldenburg%20%281774%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
+| [Principality of Lübeck (1803–1918 CE)](Principality%20of%20L%C3%BCbeck%20%281803%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1311767 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Saxony (804–1296 CE)](Duchy%20of%20Saxony%20%28804%E2%80%931296%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Saxony (804–1296 CE)](Duchy%20of%20Saxony%20%28804%E2%80%931296%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

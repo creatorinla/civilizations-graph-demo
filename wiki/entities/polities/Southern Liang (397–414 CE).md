@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Qin (385–431 CE)](Western%20Qin%20%28385%E2%80%93431%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Qin (385–431 CE)](Western%20Qin%20%28385%E2%80%93431%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Liang (386–403 CE)](Later%20Liang%20%28386%E2%80%93403%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2314869 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Liang (386–403 CE)](Later%20Liang%20%28386%E2%80%93403%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2314869 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

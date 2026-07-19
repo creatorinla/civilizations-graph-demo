@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qin (905–221 BCE)](Qin%20%28905%E2%80%93221%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q197430 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qin (905–221 BCE)](Qin%20%28905%E2%80%93221%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q197430 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jin (c. 1100–376 BCE)](Jin%20%28c.%201100%E2%80%93376%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q912043 succession statement (retrieved 2026-07-13) |
-| [Zhongshan (until 296 BCE)](Zhongshan%20%28until%20296%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q197913 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jin (c. 1100–376 BCE)](Jin%20%28c.%201100%E2%80%93376%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q912043 succession statement (retrieved 2026-07-13) |
+| [Zhongshan (until 296 BCE)](Zhongshan%20%28until%20296%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q197913 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zimbabwe Rhodesia (1979–1979 CE)](Zimbabwe%20Rhodesia%20%281979%E2%80%931979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q890120 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zimbabwe Rhodesia (1979–1979 CE)](Zimbabwe%20Rhodesia%20%281979%E2%80%931979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q890120 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

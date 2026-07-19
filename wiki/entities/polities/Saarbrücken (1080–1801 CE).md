@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q11915098 (1105–1376 CE)](Q11915098%20%281105%E2%80%931376%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11915098 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q11915098 (1105–1376 CE)](Q11915098%20%281105%E2%80%931376%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11915098 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q11915098 (1105–1376 CE)](Q11915098%20%281105%E2%80%931376%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q458264 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q11915098 (1105–1376 CE)](Q11915098%20%281105%E2%80%931376%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q458264 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

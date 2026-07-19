@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of the Gepids (454–567 CE)](Kingdom%20of%20the%20Gepids%20%28454%E2%80%93567%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10295972 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of the Gepids (454–567 CE)](Kingdom%20of%20the%20Gepids%20%28454%E2%80%93567%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q10295972 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [European Hun Empire (378–470 CE)](European%20Hun%20Empire%20%28378%E2%80%93470%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12836180 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [European Hun Empire (378–470 CE)](European%20Hun%20Empire%20%28378%E2%80%93470%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12836180 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

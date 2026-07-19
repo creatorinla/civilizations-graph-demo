@@ -21,9 +21,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q389688 containment statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q389688 containment statement (retrieved 2026-07-11) |
 
 ## Sources
 

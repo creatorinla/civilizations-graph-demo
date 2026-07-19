@@ -32,9 +32,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saint Christopher-Nevis-Anguilla (1958–1983 CE)](Saint%20Christopher-Nevis-Anguilla%20%281958%E2%80%931983%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1637975 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saint Christopher-Nevis-Anguilla (1958–1983 CE)](Saint%20Christopher-Nevis-Anguilla%20%281958%E2%80%931983%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1637975 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

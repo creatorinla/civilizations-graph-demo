@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British North Borneo (1882–1963 CE)](British%20North%20Borneo%20%281882%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British North Borneo (1882–1963 CE)](British%20North%20Borneo%20%281882%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

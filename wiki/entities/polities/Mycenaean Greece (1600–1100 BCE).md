@@ -31,9 +31,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Minoan civilization (3300–1100 BCE)](Minoan%20civilization%20%283300%E2%80%931100%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q181264 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Minoan civilization (3300–1100 BCE)](Minoan%20civilization%20%283300%E2%80%931100%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q181264 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

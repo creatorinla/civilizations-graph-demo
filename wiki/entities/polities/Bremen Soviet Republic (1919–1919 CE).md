@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q907827 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q907827 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q907827 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q907827 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburger Gold Coast (1683–1721 CE)](Brandenburger%20Gold%20Coast%20%281683%E2%80%931721%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q700023 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburger Gold Coast (1683–1721 CE)](Brandenburger%20Gold%20Coast%20%281683%E2%80%931721%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q700023 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

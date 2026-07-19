@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q705044 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Committee of North Korea (1947–1948 CE)](People%27s%20Committee%20of%20North%20Korea%20%281947%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q705044 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Confederal Republic of Koryo](Democratic%20Confederal%20Republic%20of%20Koryo.html) | has part | — | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Confederal Republic of Koryo](Democratic%20Confederal%20Republic%20of%20Koryo.html) | has part | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

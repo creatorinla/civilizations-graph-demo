@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British America (1607–1783 CE)](British%20America%20%281607%E2%80%931783%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q258532 succession statement (retrieved 2026-07-18) |
-| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q617219 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British America (1607–1783 CE)](British%20America%20%281607%E2%80%931783%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q258532 succession statement (retrieved 2026-07-18) |
+| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q617219 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

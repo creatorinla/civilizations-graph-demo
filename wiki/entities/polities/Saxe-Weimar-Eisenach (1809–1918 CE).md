@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saxe-Eisenach (1596–1809 CE)](Saxe-Eisenach%20%281596%E2%80%931809%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q155570 succession statement (retrieved 2026-07-18) |
-| [Saxe-Weimar (1572–1809 CE)](Saxe-Weimar%20%281572%E2%80%931809%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q315667 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saxe-Eisenach (1596–1809 CE)](Saxe-Eisenach%20%281596%E2%80%931809%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q155570 succession statement (retrieved 2026-07-18) |
+| [Saxe-Weimar (1572–1809 CE)](Saxe-Weimar%20%281572%E2%80%931809%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q315667 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

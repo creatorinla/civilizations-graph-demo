@@ -24,17 +24,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2719360 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2719360 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Chiny](County%20of%20Chiny.html) | transition | — | — | tentative | reference work | Wikidata Q2719360 succession statement (retrieved 2026-07-18) |
-| [County of Luxembourg (963–1354 CE)](County%20of%20Luxembourg%20%28963%E2%80%931354%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
-| [Q11915046 (c. 1100–1331 CE)](Q11915046%20%28c.%201100%E2%80%931331%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11915046 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Chiny](County%20of%20Chiny.html) | transition | — | tentative | reference work | Wikidata Q2719360 succession statement (retrieved 2026-07-18) |
+| [County of Luxembourg (963–1354 CE)](County%20of%20Luxembourg%20%28963%E2%80%931354%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
+| [Q11915046 (c. 1100–1331 CE)](Q11915046%20%28c.%201100%E2%80%931331%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11915046 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

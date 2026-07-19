@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Galician Soviet Socialist Republic (1920–1920 CE)](Galician%20Soviet%20Socialist%20Republic%20%281920%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q61385 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Galician Soviet Socialist Republic (1920–1920 CE)](Galician%20Soviet%20Socialist%20Republic%20%281920%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q61385 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

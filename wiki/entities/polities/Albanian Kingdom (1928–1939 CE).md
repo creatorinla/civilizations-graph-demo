@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian protectorate of Albania (1939–1943 CE)](Italian%20protectorate%20of%20Albania%20%281939%E2%80%931943%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1448131 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian protectorate of Albania (1939–1943 CE)](Italian%20protectorate%20of%20Albania%20%281939%E2%80%931943%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1448131 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Albanian Republic (1925–1928 CE)](Albanian%20Republic%20%281925%E2%80%931928%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1923781 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Albanian Republic (1925–1928 CE)](Albanian%20Republic%20%281925%E2%80%931928%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1923781 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

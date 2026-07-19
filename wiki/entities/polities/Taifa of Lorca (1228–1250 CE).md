@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [taifa of Lorca (1051–1091 CE)](taifa%20of%20Lorca%20%281051%E2%80%931091%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q104192614 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [taifa of Lorca (1051–1091 CE)](taifa%20of%20Lorca%20%281051%E2%80%931091%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q104192614 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

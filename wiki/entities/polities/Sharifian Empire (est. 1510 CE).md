@@ -23,17 +23,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Algeria (1832–1962 CE)](French%20Algeria%20%281832%E2%80%931962%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
-| [French protectorate in Morocco (1912–1956 CE)](French%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
-| [Spanish protectorate in Morocco (1912–1956 CE)](Spanish%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Algeria (1832–1962 CE)](French%20Algeria%20%281832%E2%80%931962%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| [French protectorate in Morocco (1912–1956 CE)](French%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| [Spanish protectorate in Morocco (1912–1956 CE)](Spanish%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

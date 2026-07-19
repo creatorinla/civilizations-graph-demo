@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q207353 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q207353 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q179023 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q179023 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

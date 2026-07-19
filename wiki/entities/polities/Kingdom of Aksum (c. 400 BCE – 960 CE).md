@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dʿmt (until 400 BCE)](D%CA%BFmt%20%28until%20400%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q139315 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dʿmt (until 400 BCE)](D%CA%BFmt%20%28until%20400%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q139315 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Syria (est. 1920 CE)](Syria%20%28est.%201920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131404661 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Syria (est. 1920 CE)](Syria%20%28est.%201920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131404661 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131404661 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131404661 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

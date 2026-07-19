@@ -33,16 +33,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Batavian Republic (1795–1806 CE)](Batavian%20Republic%20%281795%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q188553 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Batavian Republic (1795–1806 CE)](Batavian%20Republic%20%281795%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q188553 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Seventeen Provinces (1482–1581 CE)](Seventeen%20Provinces%20%281482%E2%80%931581%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q330533 succession statement (retrieved 2026-07-18) |
-| [Spanish Netherlands (1581–1714 CE)](Spanish%20Netherlands%20%281581%E2%80%931714%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Seventeen Provinces (1482–1581 CE)](Seventeen%20Provinces%20%281482%E2%80%931581%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q330533 succession statement (retrieved 2026-07-18) |
+| [Spanish Netherlands (1581–1714 CE)](Spanish%20Netherlands%20%281581%E2%80%931714%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Principality of Serbia (1084–1217 CE)](Grand%20Principality%20of%20Serbia%20%281084%E2%80%931217%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2415003 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Principality of Serbia (1084–1217 CE)](Grand%20Principality%20of%20Serbia%20%281084%E2%80%931217%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2415003 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

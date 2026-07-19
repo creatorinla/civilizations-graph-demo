@@ -19,9 +19,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sikh Confederacy (1748–1799 CE)](Sikh%20Confederacy%20%281748%E2%80%931799%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q85795812 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sikh Confederacy (1748–1799 CE)](Sikh%20Confederacy%20%281748%E2%80%931799%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q85795812 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

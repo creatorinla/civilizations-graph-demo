@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Congo Free State (1885–1908 CE)](Congo%20Free%20State%20%281885%E2%80%931908%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60775599 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Congo Free State (1885–1908 CE)](Congo%20Free%20State%20%281885%E2%80%931908%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60775599 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

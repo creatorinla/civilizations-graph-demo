@@ -19,9 +19,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Shan States (1215–1563 CE)](Shan%20States%20%281215%E2%80%931563%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q11955494 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Shan States (1215–1563 CE)](Shan%20States%20%281215%E2%80%931563%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q11955494 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

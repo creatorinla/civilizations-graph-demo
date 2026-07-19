@@ -31,15 +31,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Providence Plantations (1636–1663 CE)](Providence%20Plantations%20%281636%E2%80%931663%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7252460 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Providence Plantations (1636–1663 CE)](Providence%20Plantations%20%281636%E2%80%931663%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7252460 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New England Colonies](New%20England%20Colonies.html) | has part | — | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New England Colonies](New%20England%20Colonies.html) | has part | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

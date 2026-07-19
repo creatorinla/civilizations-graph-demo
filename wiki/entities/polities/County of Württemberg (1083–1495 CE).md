@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Württemberg (1495–1803 CE)](Duchy%20of%20W%C3%BCrttemberg%20%281495%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2991474 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Württemberg (1495–1803 CE)](Duchy%20of%20W%C3%BCrttemberg%20%281495%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2991474 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Swabia (c. 917–1313 CE)](Duchy%20of%20Swabia%20%28c.%20917%E2%80%931313%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q693980 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Swabia (c. 917–1313 CE)](Duchy%20of%20Swabia%20%28c.%20917%E2%80%931313%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q693980 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

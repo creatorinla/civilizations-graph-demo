@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown Colony of Malta (1813–1964 CE)](Crown%20Colony%20of%20Malta%20%281813%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q233 succession statement (retrieved 2026-07-18) |
-| [State of Malta (1964–1974 CE)](State%20of%20Malta%20%281964%E2%80%931974%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7603765 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown Colony of Malta (1813–1964 CE)](Crown%20Colony%20of%20Malta%20%281813%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q233 succession statement (retrieved 2026-07-18) |
+| [State of Malta (1964–1974 CE)](State%20of%20Malta%20%281964%E2%80%931974%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7603765 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

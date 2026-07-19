@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Company rule in India (1757–1858 CE)](Company%20rule%20in%20India%20%281757%E2%80%931858%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q129300661 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Company rule in India (1757–1858 CE)](Company%20rule%20in%20India%20%281757%E2%80%931858%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q129300661 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

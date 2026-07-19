@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Early history of Kedah (c. 200–1136 CE)](Early%20history%20of%20Kedah%20%28c.%20200%E2%80%931136%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5326812 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Early history of Kedah (c. 200–1136 CE)](Early%20history%20of%20Kedah%20%28c.%20200%E2%80%931136%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5326812 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

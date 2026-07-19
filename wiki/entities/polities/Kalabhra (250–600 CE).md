@@ -25,18 +25,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
-| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chera dynasty (800–1102 CE)](Chera%20dynasty%20%28800%E2%80%931102%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
-| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
-| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chera dynasty (800–1102 CE)](Chera%20dynasty%20%28800%E2%80%931102%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

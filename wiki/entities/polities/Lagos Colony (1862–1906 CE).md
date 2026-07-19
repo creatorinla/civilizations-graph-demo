@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony and Protectorate of Southern Nigeria (1906–1914 CE)](Colony%20and%20Protectorate%20of%20Southern%20Nigeria%20%281906%E2%80%931914%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13744786 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony and Protectorate of Southern Nigeria (1906–1914 CE)](Colony%20and%20Protectorate%20of%20Southern%20Nigeria%20%281906%E2%80%931914%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13744786 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

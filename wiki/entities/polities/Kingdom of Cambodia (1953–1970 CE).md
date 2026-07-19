@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khmer Republic (1970–1975 CE)](Khmer%20Republic%20%281970%E2%80%931975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2638486 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khmer Republic (1970–1975 CE)](Khmer%20Republic%20%281970%E2%80%931975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2638486 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Protectorate of Cambodia (1863–1953 CE)](French%20Protectorate%20of%20Cambodia%20%281863%E2%80%931953%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3173090 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Protectorate of Cambodia (1863–1953 CE)](French%20Protectorate%20of%20Cambodia%20%281863%E2%80%931953%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3173090 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

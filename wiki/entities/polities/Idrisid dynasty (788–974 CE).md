@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q431575 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q431575 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Asir (1906–1934 CE)](Emirate%20of%20Asir%20%281906%E2%80%931934%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q431575 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Asir (1906–1934 CE)](Emirate%20of%20Asir%20%281906%E2%80%931934%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q431575 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

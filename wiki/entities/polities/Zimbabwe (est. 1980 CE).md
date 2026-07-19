@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Southern Rhodesia (1923–1980 CE)](Southern%20Rhodesia%20%281923%E2%80%931980%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q750583 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Southern Rhodesia (1923–1980 CE)](Southern%20Rhodesia%20%281923%E2%80%931980%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q750583 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

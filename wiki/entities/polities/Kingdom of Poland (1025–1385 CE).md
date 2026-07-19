@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of the Kingdom of Poland (1386–1795 CE)](Crown%20of%20the%20Kingdom%20of%20Poland%20%281386%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q577867 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of the Kingdom of Poland (1386–1795 CE)](Crown%20of%20the%20Kingdom%20of%20Poland%20%281386%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q577867 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Poland (1025–1569 CE)](Kingdom%20of%20Poland%20%281025%E2%80%931569%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q8890160 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Poland (1025–1569 CE)](Kingdom%20of%20Poland%20%281025%E2%80%931569%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q8890160 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

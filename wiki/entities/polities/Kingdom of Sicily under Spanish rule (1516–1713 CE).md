@@ -24,9 +24,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q204920 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q204920 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

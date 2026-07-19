@@ -19,9 +19,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chinchli Gaded State](Chinchli%20Gaded%20State.html) | has part | — | — | tentative | reference work | Wikidata Q11913671 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chinchli Gaded State](Chinchli%20Gaded%20State.html) | has part | — | tentative | reference work | Wikidata Q11913671 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

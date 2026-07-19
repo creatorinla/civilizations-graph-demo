@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mexico (est. 1810 CE)](Mexico%20%28est.%201810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mexico (est. 1810 CE)](Mexico%20%28est.%201810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Mexican Empire (1864–1867 CE)](Second%20Mexican%20Empire%20%281864%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5788450 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Mexican Empire (1864–1867 CE)](Second%20Mexican%20Empire%20%281864%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5788450 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

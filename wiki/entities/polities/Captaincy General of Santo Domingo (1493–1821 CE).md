@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saint-Domingue (1626–1804 CE)](Saint-Domingue%20%281626%E2%80%931804%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2919465 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saint-Domingue (1626–1804 CE)](Saint-Domingue%20%281626%E2%80%931804%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2919465 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Columbian Viceroyalty (est. 1492 CE)](Columbian%20Viceroyalty%20%28est.%201492%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2919465 containment statement (retrieved 2026-07-18) |
-| [New Spain (1521–1821 CE)](New%20Spain%20%281521%E2%80%931821%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2919465 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Columbian Viceroyalty (est. 1492 CE)](Columbian%20Viceroyalty%20%28est.%201492%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2919465 containment statement (retrieved 2026-07-18) |
+| [New Spain (1521–1821 CE)](New%20Spain%20%281521%E2%80%931821%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2919465 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

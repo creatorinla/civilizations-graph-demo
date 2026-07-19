@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Captaincy General of Guatemala (1542–1821 CE)](Captaincy%20General%20of%20Guatemala%20%281542%E2%80%931821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Captaincy General of Guatemala (1542–1821 CE)](Captaincy%20General%20of%20Guatemala%20%281542%E2%80%931821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Captaincy General of Guatemala (1542–1821 CE)](Captaincy%20General%20of%20Guatemala%20%281542%E2%80%931821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Captaincy General of Guatemala (1542–1821 CE)](Captaincy%20General%20of%20Guatemala%20%281542%E2%80%931821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

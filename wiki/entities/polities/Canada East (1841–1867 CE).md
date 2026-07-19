@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lower Canada (1791–1841 CE)](Lower%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2935756 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lower Canada (1791–1841 CE)](Lower%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2935756 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

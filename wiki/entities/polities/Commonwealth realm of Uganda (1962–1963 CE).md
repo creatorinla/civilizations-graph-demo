@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Uganda (est. 1962 CE)](Uganda%20%28est.%201962%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7877575 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Uganda (est. 1962 CE)](Uganda%20%28est.%201962%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7877575 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Uganda Protectorate (1894–1962 CE)](Uganda%20Protectorate%20%281894%E2%80%931962%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7877575 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Uganda Protectorate (1894–1962 CE)](Uganda%20Protectorate%20%281894%E2%80%931962%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7877575 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Lippe (until 1789 CE)](County%20of%20Lippe%20%28until%201789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14551680 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Lippe (until 1789 CE)](County%20of%20Lippe%20%28until%201789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14551680 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

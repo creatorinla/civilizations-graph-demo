@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Gibraltar (est. 1462 CE)](Kingdom%20of%20Gibraltar%20%28est.%201462%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q104191507 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Gibraltar (est. 1462 CE)](Kingdom%20of%20Gibraltar%20%28est.%201462%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q104191507 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [taifa of Algeciras and Ronda (1275–1344 CE)](taifa%20of%20Algeciras%20and%20Ronda%20%281275%E2%80%931344%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5694183 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [taifa of Algeciras and Ronda (1275–1344 CE)](taifa%20of%20Algeciras%20and%20Ronda%20%281275%E2%80%931344%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5694183 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

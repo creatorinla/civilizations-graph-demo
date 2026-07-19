@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q165154%29.html) | transition | — | — | tentative | reference work | Wikidata Q16595757 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q165154%29.html) | transition | — | tentative | reference work | Wikidata Q16595757 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16595757 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16595757 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

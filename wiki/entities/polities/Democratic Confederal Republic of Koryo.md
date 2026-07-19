@@ -22,10 +22,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North Korea (est. 1948 CE)](North%20Korea%20%28est.%201948%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
-| [South Korea (est. 1948 CE)](South%20Korea%20%28est.%201948%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North Korea (est. 1948 CE)](North%20Korea%20%28est.%201948%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
+| [South Korea (est. 1948 CE)](South%20Korea%20%28est.%201948%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q624039 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ba'athist Iraq (1968–2003 CE)](Ba%27athist%20Iraq%20%281968%E2%80%932003%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ba'athist Iraq (1968–2003 CE)](Ba%27athist%20Iraq%20%281968%E2%80%932003%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Republic of Iraq (1958–1968 CE)](First%20Republic%20of%20Iraq%20%281958%E2%80%931968%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Republic of Iraq (1958–1968 CE)](First%20Republic%20of%20Iraq%20%281958%E2%80%931968%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

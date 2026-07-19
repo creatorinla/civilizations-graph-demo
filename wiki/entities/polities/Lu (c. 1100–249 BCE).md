@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chu (722–223 BCE)](Chu%20%28722%E2%80%93223%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q736936 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chu (722–223 BCE)](Chu%20%28722%E2%80%93223%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q736936 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Genmou (until 600 BCE)](Genmou%20%28until%20600%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17026804 succession statement (retrieved 2026-07-13) |
-| [Jī State (until 721 BCE)](J%C4%AB%20State%20%28until%20721%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11120039 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Genmou (until 600 BCE)](Genmou%20%28until%20600%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q17026804 succession statement (retrieved 2026-07-13) |
+| [Jī State (until 721 BCE)](J%C4%AB%20State%20%28until%20721%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q11120039 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

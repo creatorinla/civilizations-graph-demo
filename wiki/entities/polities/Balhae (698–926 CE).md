@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Goryeo (918–1392 CE)](Goryeo%20%28918%E2%80%931392%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
-| [Liao dynasty (916–1125 CE)](Liao%20dynasty%20%28916%E2%80%931125%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Goryeo (918–1392 CE)](Goryeo%20%28918%E2%80%931392%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
+| [Liao dynasty (916–1125 CE)](Liao%20dynasty%20%28916%E2%80%931125%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Little Goguryeo](Little%20Goguryeo.html) | transition | — | — | tentative | reference work | Wikidata Q712179 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Little Goguryeo](Little%20Goguryeo.html) | transition | — | tentative | reference work | Wikidata Q712179 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tran dynasty (1226–1400 CE)](Tran%20dynasty%20%281226%E2%80%931400%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3111454 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tran dynasty (1226–1400 CE)](Tran%20dynasty%20%281226%E2%80%931400%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3111454 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

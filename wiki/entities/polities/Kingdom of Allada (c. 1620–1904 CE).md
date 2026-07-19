@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Dahomey (1904–1958 CE)](French%20Dahomey%20%281904%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q100273061 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Dahomey (1904–1958 CE)](French%20Dahomey%20%281904%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q100273061 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Great Ardra (c. 1200–1724 CE)](Great%20Ardra%20%28c.%201200%E2%80%931724%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q100273061 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Great Ardra (c. 1200–1724 CE)](Great%20Ardra%20%28c.%201200%E2%80%931724%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q100273061 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

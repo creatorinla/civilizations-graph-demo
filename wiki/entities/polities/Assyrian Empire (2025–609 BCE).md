@@ -25,11 +25,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Neo-Hittite states (c. 1200–700 BCE)](Neo-Hittite%20states%20%28c.%201200%E2%80%93700%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
-| [Q140320070](Q140320070.html) | transition | — | — | tentative | reference work | Wikidata Q140320070 succession statement (retrieved 2026-07-18) |
-| [Q2647882 (842–817 BCE)](Q2647882%20%28842%E2%80%93817%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2647882 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Neo-Hittite states (c. 1200–700 BCE)](Neo-Hittite%20states%20%28c.%201200%E2%80%93700%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
+| [Q140320070](Q140320070.html) | transition | — | tentative | reference work | Wikidata Q140320070 succession statement (retrieved 2026-07-18) |
+| [Q2647882 (842–817 BCE)](Q2647882%20%28842%E2%80%93817%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q2647882 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

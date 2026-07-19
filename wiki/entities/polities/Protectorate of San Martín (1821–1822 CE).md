@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Peru (est. 1821 CE)](Peru%20%28est.%201821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Peru (est. 1821 CE)](Peru%20%28est.%201821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Viceroyalty of Peru (1542–1824 CE)](Viceroyalty%20of%20Peru%20%281542%E2%80%931824%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Viceroyalty of Peru (1542–1824 CE)](Viceroyalty%20of%20Peru%20%281542%E2%80%931824%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

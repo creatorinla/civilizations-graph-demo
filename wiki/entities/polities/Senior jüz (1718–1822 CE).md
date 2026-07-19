@@ -31,15 +31,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khanate of Kokand (1709–1876 CE)](Khanate%20of%20Kokand%20%281709%E2%80%931876%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khanate of Kokand (1709–1876 CE)](Khanate%20of%20Kokand%20%281709%E2%80%931876%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kazakh Khanate (1465–1847 CE)](Kazakh%20Khanate%20%281465%E2%80%931847%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1433867 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kazakh Khanate (1465–1847 CE)](Kazakh%20Khanate%20%281465%E2%80%931847%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1433867 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

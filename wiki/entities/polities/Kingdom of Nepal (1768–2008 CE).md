@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Nepal (est. 2008 CE)](Nepal%20%28est.%202008%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1078602 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Nepal (est. 2008 CE)](Nepal%20%28est.%202008%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1078602 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malla](Malla.html) | transition | — | — | tentative | reference work | Wikidata Q2366229 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malla](Malla.html) | transition | — | tentative | reference work | Wikidata Q2366229 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

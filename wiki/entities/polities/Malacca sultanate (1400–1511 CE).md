@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Johor Sultanate (1528–1946 CE)](Johor%20Sultanate%20%281528%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1150344 succession statement (retrieved 2026-07-18) |
-| [Portuguese Malacca (1511–1641 CE)](Portuguese%20Malacca%20%281511%E2%80%931641%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Johor Sultanate (1528–1946 CE)](Johor%20Sultanate%20%281528%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1150344 succession statement (retrieved 2026-07-18) |
+| [Portuguese Malacca (1511–1641 CE)](Portuguese%20Malacca%20%281511%E2%80%931641%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Singapura (1299–1398 CE)](Kingdom%20of%20Singapura%20%281299%E2%80%931398%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Singapura (1299–1398 CE)](Kingdom%20of%20Singapura%20%281299%E2%80%931398%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

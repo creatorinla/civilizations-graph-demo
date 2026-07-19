@@ -22,9 +22,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Seychelles (1977–2004 CE)](Republic%20of%20Seychelles%20%281977%E2%80%932004%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q129619467 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Seychelles (1977–2004 CE)](Republic%20of%20Seychelles%20%281977%E2%80%932004%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q129619467 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

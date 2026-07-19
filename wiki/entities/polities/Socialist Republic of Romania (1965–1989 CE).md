@@ -31,15 +31,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Romania (est. 1859 CE)](Romania%20%28est.%201859%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q842794 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Romania (est. 1859 CE)](Romania%20%28est.%201859%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q842794 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Romanian People's Republic (1947–1965 CE)](Romanian%20People%27s%20Republic%20%281947%E2%80%931965%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2685298 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Romanian People's Republic (1947–1965 CE)](Romanian%20People%27s%20Republic%20%281947%E2%80%931965%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2685298 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -34,17 +34,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1154540 succession statement (retrieved 2026-07-18) |
-| [Later Shu (934–965 CE)](Later%20Shu%20%28934%E2%80%93965%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1154540 succession statement (retrieved 2026-07-18) |
+| [Later Shu (934–965 CE)](Later%20Shu%20%28934%E2%80%93965%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Former Shu (907–925 CE)](Former%20Shu%20%28907%E2%80%93925%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
-| [Later Liang dynasty (907–923 CE)](Later%20Liang%20dynasty%20%28907%E2%80%93923%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Former Shu (907–925 CE)](Former%20Shu%20%28907%E2%80%93925%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
+| [Later Liang dynasty (907–923 CE)](Later%20Liang%20dynasty%20%28907%E2%80%93923%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1143126 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

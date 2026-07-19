@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mataram Sultanate (1586–1755 CE)](Mataram%20Sultanate%20%281586%E2%80%931755%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2122499 succession statement (retrieved 2026-07-18) |
-| [Q120239797 (1680–1745 CE)](Q120239797%20%281680%E2%80%931745%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q120239797 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mataram Sultanate (1586–1755 CE)](Mataram%20Sultanate%20%281586%E2%80%931755%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2122499 succession statement (retrieved 2026-07-18) |
+| [Q120239797 (1680–1745 CE)](Q120239797%20%281680%E2%80%931745%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q120239797 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

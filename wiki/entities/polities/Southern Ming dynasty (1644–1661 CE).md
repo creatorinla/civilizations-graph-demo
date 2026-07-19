@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qing dynasty (1636–1912 CE)](Qing%20dynasty%20%281636%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1198163 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qing dynasty (1636–1912 CE)](Qing%20dynasty%20%281636%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1198163 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ming dynasty (1368–1644 CE)](Ming%20dynasty%20%281368%E2%80%931644%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1198163 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ming dynasty (1368–1644 CE)](Ming%20dynasty%20%281368%E2%80%931644%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1198163 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

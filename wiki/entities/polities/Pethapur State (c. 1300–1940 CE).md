@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Baroda State (1721–1949 CE)](Baroda%20State%20%281721%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19605411 succession statement (retrieved 2026-07-18) |
-| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19605411 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Baroda State (1721–1949 CE)](Baroda%20State%20%281721%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19605411 succession statement (retrieved 2026-07-18) |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19605411 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

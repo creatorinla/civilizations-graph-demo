@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6368814 succession statement (retrieved 2026-07-18) |
-| [United States of Matsya (1948–1949 CE)](United%20States%20of%20Matsya%20%281948%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6368814 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6368814 succession statement (retrieved 2026-07-18) |
+| [United States of Matsya (1948–1949 CE)](United%20States%20of%20Matsya%20%281948%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6368814 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

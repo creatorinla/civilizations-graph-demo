@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Croatia (925–1102 CE)](Kingdom%20of%20Croatia%20%28925%E2%80%931102%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q858841 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Croatia (925–1102 CE)](Kingdom%20of%20Croatia%20%28925%E2%80%931102%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q858841 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

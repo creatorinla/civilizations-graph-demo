@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Han (202 BCE – 9 CE)](Western%20Han%20%28202%20BCE%20%E2%80%93%209%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1072949 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Han (202 BCE – 9 CE)](Western%20Han%20%28202%20BCE%20%E2%80%93%209%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1072949 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wiman Chosŏn (194–108 BCE)](Wiman%20Chos%C5%8Fn%20%28194%E2%80%93108%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q703340 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wiman Chosŏn (194–108 BCE)](Wiman%20Chos%C5%8Fn%20%28194%E2%80%93108%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q703340 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

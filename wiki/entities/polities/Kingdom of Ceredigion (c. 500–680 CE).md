@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Seisyllwg (680–920 CE)](Kingdom%20of%20Seisyllwg%20%28680%E2%80%93920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2578706 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Seisyllwg (680–920 CE)](Kingdom%20of%20Seisyllwg%20%28680%E2%80%93920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2578706 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

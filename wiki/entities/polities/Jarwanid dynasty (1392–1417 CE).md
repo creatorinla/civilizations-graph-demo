@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jabrids (1417–1526 CE)](Jabrids%20%281417%E2%80%931526%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13639109 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jabrids (1417–1526 CE)](Jabrids%20%281417%E2%80%931526%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13639109 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Usfurids (1232–1392 CE)](Usfurids%20%281232%E2%80%931392%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13639109 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Usfurids (1232–1392 CE)](Usfurids%20%281232%E2%80%931392%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13639109 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

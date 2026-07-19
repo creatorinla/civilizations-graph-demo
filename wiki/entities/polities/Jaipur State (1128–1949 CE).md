@@ -27,10 +27,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6124144 succession statement (retrieved 2026-07-18) |
-| [Lawa Thikana (1772–1947 CE)](Lawa%20Thikana%20%281772%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6503547 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6124144 succession statement (retrieved 2026-07-18) |
+| [Lawa Thikana (1772–1947 CE)](Lawa%20Thikana%20%281772%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6503547 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

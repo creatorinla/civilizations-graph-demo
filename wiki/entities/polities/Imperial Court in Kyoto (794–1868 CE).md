@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Government of Meiji Japan (1868–1912 CE)](Government%20of%20Meiji%20Japan%20%281868%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11680900 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Government of Meiji Japan (1868–1912 CE)](Government%20of%20Meiji%20Japan%20%281868%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11680900 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Imperial Court of Japan (701–1868 CE)](Imperial%20Court%20of%20Japan%20%28701%E2%80%931868%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q30253177 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Imperial Court of Japan (701–1868 CE)](Imperial%20Court%20of%20Japan%20%28701%E2%80%931868%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q30253177 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

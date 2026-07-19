@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1728782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1728782 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sikh Confederacy (1748–1799 CE)](Sikh%20Confederacy%20%281748%E2%80%931799%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2578028 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sikh Confederacy (1748–1799 CE)](Sikh%20Confederacy%20%281748%E2%80%931799%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2578028 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

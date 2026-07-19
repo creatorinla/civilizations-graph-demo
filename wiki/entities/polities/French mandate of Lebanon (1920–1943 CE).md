@@ -27,16 +27,16 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lebanese Republic under French mandate (1926–1943 CE)](Lebanese%20Republic%20under%20French%20mandate%20%281926%E2%80%931943%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q108865218 containment statement (retrieved 2026-07-18) |
-| [State of Greater Lebanon (1920–1926 CE)](State%20of%20Greater%20Lebanon%20%281920%E2%80%931926%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q108865226 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lebanese Republic under French mandate (1926–1943 CE)](Lebanese%20Republic%20under%20French%20mandate%20%281926%E2%80%931943%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q108865218 containment statement (retrieved 2026-07-18) |
+| [State of Greater Lebanon (1920–1926 CE)](State%20of%20Greater%20Lebanon%20%281920%E2%80%931926%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q108865226 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Mandate for Syria and the Lebanon (1923–1946 CE)](French%20Mandate%20for%20Syria%20and%20the%20Lebanon%20%281923%E2%80%931946%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q139708 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Mandate for Syria and the Lebanon (1923–1946 CE)](French%20Mandate%20for%20Syria%20and%20the%20Lebanon%20%281923%E2%80%931946%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q139708 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

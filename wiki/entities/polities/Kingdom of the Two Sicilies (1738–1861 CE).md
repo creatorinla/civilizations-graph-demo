@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Italy (1861–1946 CE)](Kingdom%20of%20Italy%20%281861%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q180393 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Italy (1861–1946 CE)](Kingdom%20of%20Italy%20%281861%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q180393 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Naples (1282–1816 CE)](Kingdom%20of%20Naples%20%281282%E2%80%931816%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q173065 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Naples (1806–1815 CE)](Kingdom%20of%20Naples%20%281806%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Naples (1282–1816 CE)](Kingdom%20of%20Naples%20%281282%E2%80%931816%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q173065 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Naples (1806–1815 CE)](Kingdom%20of%20Naples%20%281806%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ukrainian People's Republic (1917–1921 CE)](Ukrainian%20People%27s%20Republic%20%281917%E2%80%931921%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2381337 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ukrainian People's Republic (1917–1921 CE)](Ukrainian%20People%27s%20Republic%20%281917%E2%80%931921%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2381337 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

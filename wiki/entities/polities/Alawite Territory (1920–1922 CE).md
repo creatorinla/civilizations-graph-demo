@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alawite State (1922–1936 CE)](Alawite%20State%20%281922%E2%80%931936%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25432445 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Alawite State (1922–1936 CE)](Alawite%20State%20%281922%E2%80%931936%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25432445 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

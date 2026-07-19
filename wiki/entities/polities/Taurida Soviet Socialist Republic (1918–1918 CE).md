@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crimean Regional Government (1918–1919 CE)](Crimean%20Regional%20Government%20%281918%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2703679 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crimean Regional Government (1918–1919 CE)](Crimean%20Regional%20Government%20%281918%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2703679 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crimean People's Republic (1917–1918 CE)](Crimean%20People%27s%20Republic%20%281917%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2579852 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crimean People's Republic (1917–1918 CE)](Crimean%20People%27s%20Republic%20%281917%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2579852 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

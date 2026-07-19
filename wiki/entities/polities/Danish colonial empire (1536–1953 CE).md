@@ -24,10 +24,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North Greenland (1721–1950 CE)](North%20Greenland%20%281721%E2%80%931950%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q7055500 containment statement (retrieved 2026-07-18) |
-| [South Greenland](South%20Greenland.html) | has part | — | — | tentative | reference work | Wikidata Q7567388 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North Greenland (1721–1950 CE)](North%20Greenland%20%281721%E2%80%931950%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q7055500 containment statement (retrieved 2026-07-18) |
+| [South Greenland](South%20Greenland.html) | has part | — | tentative | reference work | Wikidata Q7567388 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

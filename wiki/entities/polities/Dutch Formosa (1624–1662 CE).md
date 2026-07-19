@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q699446 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q699446 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

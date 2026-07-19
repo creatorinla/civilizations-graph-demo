@@ -24,18 +24,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Denmark–Norway (1536–1814 CE)](Denmark%E2%80%93Norway%20%281536%E2%80%931814%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q62651 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Denmark–Norway (1536–1814 CE)](Denmark%E2%80%93Norway%20%281536%E2%80%931814%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q62651 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Finland (est. 1917 CE)](Finland%20%28est.%201917%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
-| [Iceland (est. 1944 CE)](Iceland%20%28est.%201944%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
-| [Norway (est. 1905 CE)](Norway%20%28est.%201905%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
-| [Sweden (est. c. 900 CE)](Sweden%20%28est.%20c.%20900%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Finland (est. 1917 CE)](Finland%20%28est.%201917%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| [Iceland (est. 1944 CE)](Iceland%20%28est.%201944%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| [Norway (est. 1905 CE)](Norway%20%28est.%201905%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| [Sweden (est. c. 900 CE)](Sweden%20%28est.%20c.%20900%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

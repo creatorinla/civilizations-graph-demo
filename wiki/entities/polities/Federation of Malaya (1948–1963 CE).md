@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1479726 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malaysia (est. 1963 CE)](Malaysia%20%28est.%201963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1479726 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malayan Union (1946–1948 CE)](Malayan%20Union%20%281946%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1479726 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malayan Union (1946–1948 CE)](Malayan%20Union%20%281946%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1479726 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

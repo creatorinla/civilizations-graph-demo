@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tây Sơn dynasty (1778–1802 CE)](T%C3%A2y%20S%C6%A1n%20dynasty%20%281778%E2%80%931802%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1034173 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tây Sơn dynasty (1778–1802 CE)](T%C3%A2y%20S%C6%A1n%20dynasty%20%281778%E2%80%931802%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1034173 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

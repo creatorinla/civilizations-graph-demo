@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Ceuta (1061-1084) (1061–1084 CE)](Taifa%20of%20Ceuta%20%281061-1084%29%20%281061%E2%80%931084%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5947557 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Ceuta (1061-1084) (1061–1084 CE)](Taifa%20of%20Ceuta%20%281061-1084%29%20%281061%E2%80%931084%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5947557 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

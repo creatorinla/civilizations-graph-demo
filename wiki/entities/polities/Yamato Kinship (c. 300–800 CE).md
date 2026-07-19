@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Imperial Court of Japan (701–1868 CE)](Imperial%20Court%20of%20Japan%20%28701%E2%80%931868%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30253177 succession statement (retrieved 2026-07-18) |
-| [Q132869361 (701–866 CE)](Q132869361%20%28701%E2%80%93866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132869361 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Imperial Court of Japan (701–1868 CE)](Imperial%20Court%20of%20Japan%20%28701%E2%80%931868%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30253177 succession statement (retrieved 2026-07-18) |
+| [Q132869361 (701–866 CE)](Q132869361%20%28701%E2%80%93866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132869361 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yamatai (c. 100–300 CE)](Yamatai%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2658252 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yamatai (c. 100–300 CE)](Yamatai%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2658252 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

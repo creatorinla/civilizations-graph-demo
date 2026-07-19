@@ -27,9 +27,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Classical Athens (est. 508 BCE)](Classical%20Athens%20%28est.%20508%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q844930 containment statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Classical Athens (est. 508 BCE)](Classical%20Athens%20%28est.%20508%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q844930 containment statement (retrieved 2026-07-11) |
 
 ## Sources
 

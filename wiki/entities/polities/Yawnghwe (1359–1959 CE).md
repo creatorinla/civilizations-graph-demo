@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ava Kingdom (1364–1555 CE)](Ava%20Kingdom%20%281364%E2%80%931555%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18750170 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ava Kingdom (1364–1555 CE)](Ava%20Kingdom%20%281364%E2%80%931555%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18750170 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

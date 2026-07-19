@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Galicia (410–1833 CE)](Kingdom%20of%20Galicia%20%28410%E2%80%931833%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q106158668 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Galicia (410–1833 CE)](Kingdom%20of%20Galicia%20%28410%E2%80%931833%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q106158668 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

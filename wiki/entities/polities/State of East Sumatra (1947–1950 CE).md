@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Indonesia (est. 1945 CE)](Indonesia%20%28est.%201945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1192437 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Indonesia (est. 1945 CE)](Indonesia%20%28est.%201945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1192437 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

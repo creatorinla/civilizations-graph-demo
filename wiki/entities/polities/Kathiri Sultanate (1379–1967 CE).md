@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1296908 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1296908 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

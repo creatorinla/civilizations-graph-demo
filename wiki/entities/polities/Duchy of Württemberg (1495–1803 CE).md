@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Württemberg (1806–1918 CE)](Kingdom%20of%20W%C3%BCrttemberg%20%281806%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2227570 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Württemberg (1806–1918 CE)](Kingdom%20of%20W%C3%BCrttemberg%20%281806%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2227570 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Württemberg (1083–1495 CE)](County%20of%20W%C3%BCrttemberg%20%281083%E2%80%931495%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2991474 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Württemberg (1083–1495 CE)](County%20of%20W%C3%BCrttemberg%20%281083%E2%80%931495%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2991474 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

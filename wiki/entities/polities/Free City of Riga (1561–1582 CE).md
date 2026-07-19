@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Livonia (1561–1621 CE)](Duchy%20of%20Livonia%20%281561%E2%80%931621%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4124689 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Livonia (1561–1621 CE)](Duchy%20of%20Livonia%20%281561%E2%80%931621%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4124689 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

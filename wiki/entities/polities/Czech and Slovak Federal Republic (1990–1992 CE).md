@@ -26,23 +26,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Czech Republic (est. 1993 CE)](Czech%20Republic%20%28est.%201993%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
-| [Slovakia (est. 1993 CE)](Slovakia%20%28est.%201993%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Czech Republic (est. 1993 CE)](Czech%20Republic%20%28est.%201993%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
+| [Slovakia (est. 1993 CE)](Slovakia%20%28est.%201993%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Czechoslovak Federative Republic (1990–1990 CE)](Czechoslovak%20Federative%20Republic%20%281990%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11177699 succession statement (retrieved 2026-07-18) |
-| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Czechoslovak Federative Republic (1990–1990 CE)](Czechoslovak%20Federative%20Republic%20%281990%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11177699 succession statement (retrieved 2026-07-18) |
+| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1998866 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q33946 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q33946 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

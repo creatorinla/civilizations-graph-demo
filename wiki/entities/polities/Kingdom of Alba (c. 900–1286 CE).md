@@ -23,11 +23,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dál Riata (498–843 CE)](D%C3%A1l%20Riata%20%28498%E2%80%93843%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1991742 succession statement (retrieved 2026-07-18) |
-| [Fortriu (430–848 CE)](Fortriu%20%28430%E2%80%93848%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1991742 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Fife](Kingdom%20of%20Fife.html) | transition | — | — | tentative | reference work | Wikidata Q10000378 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dál Riata (498–843 CE)](D%C3%A1l%20Riata%20%28498%E2%80%93843%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1991742 succession statement (retrieved 2026-07-18) |
+| [Fortriu (430–848 CE)](Fortriu%20%28430%E2%80%93848%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1991742 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Fife](Kingdom%20of%20Fife.html) | transition | — | tentative | reference work | Wikidata Q10000378 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Republic of Zanzibar (1964–1964 CE)](People%27s%20Republic%20of%20Zanzibar%20%281964%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Republic of Zanzibar (1964–1964 CE)](People%27s%20Republic%20of%20Zanzibar%20%281964%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

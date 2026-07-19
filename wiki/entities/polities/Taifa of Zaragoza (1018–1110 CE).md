@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Dénia (1010–1227 CE)](Taifa%20of%20D%C3%A9nia%20%281010%E2%80%931227%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q252323 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Dénia (1010–1227 CE)](Taifa%20of%20D%C3%A9nia%20%281010%E2%80%931227%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q252323 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Calatayud (1046–1055 CE)](Taifa%20of%20Calatayud%20%281046%E2%80%931055%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2671329 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Calatayud (1046–1055 CE)](Taifa%20of%20Calatayud%20%281046%E2%80%931055%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2671329 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

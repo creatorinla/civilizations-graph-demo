@@ -25,11 +25,11 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Han (403–230 BCE)](Han%20%28403%E2%80%93230%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1574130 succession statement (retrieved 2026-07-13) |
-| [Wei (403–225 BCE)](Wei%20%28403%E2%80%93225%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q912052 succession statement (retrieved 2026-07-13) |
-| [Zhao (403–222 BCE)](Zhao%20%28403%E2%80%93222%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q912043 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Han (403–230 BCE)](Han%20%28403%E2%80%93230%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1574130 succession statement (retrieved 2026-07-13) |
+| [Wei (403–225 BCE)](Wei%20%28403%E2%80%93225%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q912052 succession statement (retrieved 2026-07-13) |
+| [Zhao (403–222 BCE)](Zhao%20%28403%E2%80%93222%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q912043 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

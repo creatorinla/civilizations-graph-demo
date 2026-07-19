@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zaire (1971–1997 CE)](Zaire%20%281971%E2%80%931997%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q618399 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zaire (1971–1997 CE)](Zaire%20%281971%E2%80%931997%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q618399 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zémio (until 1909 CE)](Z%C3%A9mio%20%28until%201909%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2610420 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zémio (until 1909 CE)](Z%C3%A9mio%20%28until%201909%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2610420 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

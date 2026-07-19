@@ -29,11 +29,11 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [All-Palestine Government (1948–1959 CE)](All-Palestine%20Government%20%281948%E2%80%931959%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2051582 succession statement (retrieved 2026-07-18) |
-| [Israel (est. 1948 CE)](Israel%20%28est.%201948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q193714 succession statement (retrieved 2026-07-18) |
-| [Jordan (est. 1946 CE)](Jordan%20%28est.%201946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q193714 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [All-Palestine Government (1948–1959 CE)](All-Palestine%20Government%20%281948%E2%80%931959%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2051582 succession statement (retrieved 2026-07-18) |
+| [Israel (est. 1948 CE)](Israel%20%28est.%201948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q193714 succession statement (retrieved 2026-07-18) |
+| [Jordan (est. 1946 CE)](Jordan%20%28est.%201946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q193714 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

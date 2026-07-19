@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Portuguese São Tomé and Príncipe (1470–1975 CE)](Portuguese%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20%281470%E2%80%931975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7232692 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Portuguese São Tomé and Príncipe (1470–1975 CE)](Portuguese%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20%281470%E2%80%931975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7232692 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

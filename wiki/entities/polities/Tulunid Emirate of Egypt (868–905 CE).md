@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4147013 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4147013 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q4147013 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q4147013 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

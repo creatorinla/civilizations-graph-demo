@@ -45,23 +45,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Shang dynasty (1600–1046 BCE)](Shang%20dynasty%20%281600%E2%80%931046%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Shang dynasty (1600–1046 BCE)](Shang%20dynasty%20%281600%E2%80%931046%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q35216 succession statement (retrieved 2026-07-13) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Eastern Zhou (771–256 BCE)](Eastern%20Zhou%20%28771%E2%80%93256%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q307066 containment statement (retrieved 2026-07-13) |
-| [Western Zhou (1046–771 BCE)](Western%20Zhou%20%281046%E2%80%93771%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1069609 containment statement (retrieved 2026-07-13) |
-| [Yan (until 222 BCE)](Yan%20%28until%20222%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1055713 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Eastern Zhou (771–256 BCE)](Eastern%20Zhou%20%28771%E2%80%93256%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q307066 containment statement (retrieved 2026-07-13) |
+| [Western Zhou (1046–771 BCE)](Western%20Zhou%20%281046%E2%80%93771%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q1069609 containment statement (retrieved 2026-07-13) |
+| [Yan (until 222 BCE)](Yan%20%28until%20222%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q1055713 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

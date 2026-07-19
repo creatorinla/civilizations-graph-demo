@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Hungary (1867–1918 CE)](Kingdom%20of%20Hungary%20%281867%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25395037 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Hungary (1867–1918 CE)](Kingdom%20of%20Hungary%20%281867%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25395037 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Transylvania (1570–1711 CE)](Principality%20of%20Transylvania%20%281570%E2%80%931711%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3113481 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Transylvania (1570–1711 CE)](Principality%20of%20Transylvania%20%281570%E2%80%931711%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3113481 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

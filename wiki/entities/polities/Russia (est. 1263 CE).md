@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian Soviet Federative Socialist Republic (1917–1991 CE)](Russian%20Soviet%20Federative%20Socialist%20Republic%20%281917%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2184 succession statement (retrieved 2026-07-18) |
-| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15180 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian Soviet Federative Socialist Republic (1917–1991 CE)](Russian%20Soviet%20Federative%20Socialist%20Republic%20%281917%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2184 succession statement (retrieved 2026-07-18) |
+| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15180 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Union State (est. 1996 CE)](Union%20State%20%28est.%201996%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Union State (est. 1996 CE)](Union%20State%20%28est.%201996%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mesopotamia](Mesopotamia.html) | has part | — | — | tentative | reference work | Wikidata Q35355 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mesopotamia](Mesopotamia.html) | has part | — | tentative | reference work | Wikidata Q35355 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

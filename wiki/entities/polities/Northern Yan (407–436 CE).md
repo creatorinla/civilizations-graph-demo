@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Wei (386–535 CE)](Northern%20Wei%20%28386%E2%80%93535%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2006864 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Wei (386–535 CE)](Northern%20Wei%20%28386%E2%80%93535%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2006864 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Yan (384–409 CE)](Later%20Yan%20%28384%E2%80%93409%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2006864 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Yan (384–409 CE)](Later%20Yan%20%28384%E2%80%93409%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2006864 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

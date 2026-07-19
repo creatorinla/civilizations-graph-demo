@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of the Congo (Léopoldville) (1960–1971 CE)](Republic%20of%20the%20Congo%20%28L%C3%A9opoldville%29%20%281960%E2%80%931971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2610420 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of the Congo (Léopoldville) (1960–1971 CE)](Republic%20of%20the%20Congo%20%28L%C3%A9opoldville%29%20%281960%E2%80%931971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2610420 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

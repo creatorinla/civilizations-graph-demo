@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Syrian Republic (1930–1950 CE)](First%20Syrian%20Republic%20%281930%E2%80%931950%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146761 succession statement (retrieved 2026-07-18) |
-| [French Mandate for Syria and the Lebanon (1923–1946 CE)](French%20Mandate%20for%20Syria%20and%20the%20Lebanon%20%281923%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146761 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Syrian Republic (1930–1950 CE)](First%20Syrian%20Republic%20%281930%E2%80%931950%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146761 succession statement (retrieved 2026-07-18) |
+| [French Mandate for Syria and the Lebanon (1923–1946 CE)](French%20Mandate%20for%20Syria%20and%20the%20Lebanon%20%281923%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146761 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

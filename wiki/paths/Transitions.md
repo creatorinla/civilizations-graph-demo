@@ -9,5 +9,5 @@ tags:
 
 Each page traces recorded political transitions onward from one starting polity. Parallel source attestations are collapsed into one logical transition for reading.
 
-| Entity | Flows | Outbound edges | Numeric total |
-| --- | --- | --- | --- |
+| Entity | Flows | Outbound edges |
+| --- | --- | --- |

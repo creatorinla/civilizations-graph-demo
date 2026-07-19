@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Toledo (549–711 CE)](Kingdom%20of%20Toledo%20%28549%E2%80%93711%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131839713 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Toledo (549–711 CE)](Kingdom%20of%20Toledo%20%28549%E2%80%93711%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131839713 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

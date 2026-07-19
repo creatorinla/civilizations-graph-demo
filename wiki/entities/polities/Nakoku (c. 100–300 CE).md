@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yamatai (c. 100–300 CE)](Yamatai%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q844295 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yamatai (c. 100–300 CE)](Yamatai%20%28c.%20100%E2%80%93300%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q844295 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -28,10 +28,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bogd Khanate of Mongolia (1911–1924 CE)](Bogd%20Khanate%20of%20Mongolia%20%281911%E2%80%931924%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2475921 succession statement (retrieved 2026-07-18) |
-| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bogd Khanate of Mongolia (1911–1924 CE)](Bogd%20Khanate%20of%20Mongolia%20%281911%E2%80%931924%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2475921 succession statement (retrieved 2026-07-18) |
+| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

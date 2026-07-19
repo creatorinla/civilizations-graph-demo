@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Czechoslovak Republic (1918–1938 CE)](First%20Czechoslovak%20Republic%20%281918%E2%80%931938%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q686971 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Czechoslovak Republic (1918–1938 CE)](First%20Czechoslovak%20Republic%20%281918%E2%80%931938%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q686971 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lands of the Bohemian Crown (1348–1526) (1348–1526 CE)](Lands%20of%20the%20Bohemian%20Crown%20%281348%E2%80%931526%29%20%281348%E2%80%931526%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q686971 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lands of the Bohemian Crown (1348–1526) (1348–1526 CE)](Lands%20of%20the%20Bohemian%20Crown%20%281348%E2%80%931526%29%20%281348%E2%80%931526%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q686971 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -36,17 +36,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q81931 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q81931 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Florida (1861–1861 CE)](Republic%20of%20Florida%20%281861%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7314467 succession statement (retrieved 2026-07-18) |
-| [Republic of Mississippi (1861–1861 CE)](Republic%20of%20Mississippi%20%281861%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q368986 succession statement (retrieved 2026-07-18) |
-| [Republic of South Carolina (1860–1861 CE)](Republic%20of%20South%20Carolina%20%281860%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7314513 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Florida (1861–1861 CE)](Republic%20of%20Florida%20%281861%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7314467 succession statement (retrieved 2026-07-18) |
+| [Republic of Mississippi (1861–1861 CE)](Republic%20of%20Mississippi%20%281861%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q368986 succession statement (retrieved 2026-07-18) |
+| [Republic of South Carolina (1860–1861 CE)](Republic%20of%20South%20Carolina%20%281860%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7314513 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

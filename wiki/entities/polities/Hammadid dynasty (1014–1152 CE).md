@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q588672 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q588672 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q588672 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q588672 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,10 +26,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Pahlavi Iran (1925–1979 CE)](Pahlavi%20Iran%20%281925%E2%80%931979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
-| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q83311 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Pahlavi Iran (1925–1979 CE)](Pahlavi%20Iran%20%281925%E2%80%931979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q107258515 succession statement (retrieved 2026-07-18) |
+| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q83311 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

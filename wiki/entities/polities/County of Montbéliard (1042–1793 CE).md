@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Ferrette (c. 1101–1648 CE)](County%20of%20Ferrette%20%28c.%201101%E2%80%931648%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q589251 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Ferrette (c. 1101–1648 CE)](County%20of%20Ferrette%20%28c.%201101%E2%80%931648%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q589251 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

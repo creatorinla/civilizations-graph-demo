@@ -31,15 +31,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2300296 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2300296 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United Baltic Duchy (1918–1918 CE)](United%20Baltic%20Duchy%20%281918%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q376778 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United Baltic Duchy (1918–1918 CE)](United%20Baltic%20Duchy%20%281918%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q376778 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

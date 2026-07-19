@@ -23,10 +23,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Upper Bavaria (first creation)](Duchy%20of%20Upper%20Bavaria%20%28first%20creation%29.html) | has part | — | — | tentative | reference work | Wikidata Q2042647 containment statement (retrieved 2026-07-18) |
-| [Duchy of Upper Bavaria (second creation)](Duchy%20of%20Upper%20Bavaria%20%28second%20creation%29.html) | has part | — | — | tentative | reference work | Wikidata Q462329 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Upper Bavaria (first creation)](Duchy%20of%20Upper%20Bavaria%20%28first%20creation%29.html) | has part | — | tentative | reference work | Wikidata Q2042647 containment statement (retrieved 2026-07-18) |
+| [Duchy of Upper Bavaria (second creation)](Duchy%20of%20Upper%20Bavaria%20%28second%20creation%29.html) | has part | — | tentative | reference work | Wikidata Q462329 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

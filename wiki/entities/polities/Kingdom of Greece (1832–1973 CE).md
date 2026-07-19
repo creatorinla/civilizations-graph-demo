@@ -23,12 +23,12 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Autonomous Republic of Northern Epirus (1914–1914 CE)](Autonomous%20Republic%20of%20Northern%20Epirus%20%281914%E2%80%931914%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q730163 succession statement (retrieved 2026-07-18) |
-| [First Hellenic Republic (1822–1832 CE)](First%20Hellenic%20Republic%20%281822%E2%80%931832%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q528546 succession statement (retrieved 2026-07-18) |
-| [Free State of Icaria (1912–1912 CE)](Free%20State%20of%20Icaria%20%281912%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1131500 succession statement (retrieved 2026-07-18) |
-| [United States of the Ionian Islands (1815–1864 CE)](United%20States%20of%20the%20Ionian%20Islands%20%281815%E2%80%931864%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1063498 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Autonomous Republic of Northern Epirus (1914–1914 CE)](Autonomous%20Republic%20of%20Northern%20Epirus%20%281914%E2%80%931914%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q730163 succession statement (retrieved 2026-07-18) |
+| [First Hellenic Republic (1822–1832 CE)](First%20Hellenic%20Republic%20%281822%E2%80%931832%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q528546 succession statement (retrieved 2026-07-18) |
+| [Free State of Icaria (1912–1912 CE)](Free%20State%20of%20Icaria%20%281912%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1131500 succession statement (retrieved 2026-07-18) |
+| [United States of the Ionian Islands (1815–1864 CE)](United%20States%20of%20the%20Ionian%20Islands%20%281815%E2%80%931864%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1063498 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Duchy of Berg (1806–1813 CE)](Grand%20Duchy%20of%20Berg%20%281806%E2%80%931813%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q249428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Duchy of Berg (1806–1813 CE)](Grand%20Duchy%20of%20Berg%20%281806%E2%80%931813%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q249428 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Berg (1101–1380 CE)](County%20of%20Berg%20%281101%E2%80%931380%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21011805 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Berg (1101–1380 CE)](County%20of%20Berg%20%281101%E2%80%931380%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21011805 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

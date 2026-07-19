@@ -19,10 +19,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Commonwealth realm of Sierra Leone (1961–1971 CE)](Commonwealth%20realm%20of%20Sierra%20Leone%20%281961%E2%80%931971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14920623 succession statement (retrieved 2026-07-18) |
-| [Sierra Leone (est. 1971 CE)](Sierra%20Leone%20%28est.%201971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15240191 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Commonwealth realm of Sierra Leone (1961–1971 CE)](Commonwealth%20realm%20of%20Sierra%20Leone%20%281961%E2%80%931971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14920623 succession statement (retrieved 2026-07-18) |
+| [Sierra Leone (est. 1971 CE)](Sierra%20Leone%20%28est.%201971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15240191 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

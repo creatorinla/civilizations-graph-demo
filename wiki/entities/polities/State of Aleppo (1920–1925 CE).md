@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Syria (1925–1930 CE)](State%20of%20Syria%20%281925%E2%80%931930%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146872 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Syria (1925–1930 CE)](State%20of%20Syria%20%281925%E2%80%931930%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146872 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

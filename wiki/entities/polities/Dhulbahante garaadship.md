@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Darawiish (1895–1920 CE)](Darawiish%20%281895%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1106424 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Darawiish (1895–1920 CE)](Darawiish%20%281895%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1106424 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

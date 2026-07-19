@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [East Breifne (1256–1607 CE)](East%20Breifne%20%281256%E2%80%931607%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5327935 succession statement (retrieved 2026-07-18) |
-| [West Breifne (1256–1605 CE)](West%20Breifne%20%281256%E2%80%931605%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16824250 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [East Breifne (1256–1607 CE)](East%20Breifne%20%281256%E2%80%931607%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5327935 succession statement (retrieved 2026-07-18) |
+| [West Breifne (1256–1605 CE)](West%20Breifne%20%281256%E2%80%931605%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16824250 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Kuwait (1990–1990 CE)](Republic%20of%20Kuwait%20%281990%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q817 succession statement (retrieved 2026-07-18) |
-| [Sheikhdom of Kuwait (1752–1961 CE)](Sheikhdom%20of%20Kuwait%20%281752%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3480281 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Kuwait (1990–1990 CE)](Republic%20of%20Kuwait%20%281990%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q817 succession statement (retrieved 2026-07-18) |
+| [Sheikhdom of Kuwait (1752–1961 CE)](Sheikhdom%20of%20Kuwait%20%281752%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3480281 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

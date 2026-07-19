@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Norway (872–1397 CE)](Kingdom%20of%20Norway%20%28872%E2%80%931397%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63341813 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Norway (872–1397 CE)](Kingdom%20of%20Norway%20%28872%E2%80%931397%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63341813 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

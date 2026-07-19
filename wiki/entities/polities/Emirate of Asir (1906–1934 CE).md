@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Idrisid dynasty (788–974 CE)](Idrisid%20dynasty%20%28788%E2%80%93974%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q431575 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Idrisid dynasty (788–974 CE)](Idrisid%20dynasty%20%28788%E2%80%93974%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q431575 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

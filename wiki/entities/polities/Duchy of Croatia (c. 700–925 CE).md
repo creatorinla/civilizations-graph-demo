@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Croatia (925–1102 CE)](Kingdom%20of%20Croatia%20%28925%E2%80%931102%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2576305 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Croatia (925–1102 CE)](Kingdom%20of%20Croatia%20%28925%E2%80%931102%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2576305 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Pannonian Croatia](Duchy%20of%20Pannonian%20Croatia.html) | transition | — | — | tentative | reference work | Wikidata Q2576305 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Pannonian Croatia](Duchy%20of%20Pannonian%20Croatia.html) | transition | — | tentative | reference work | Wikidata Q2576305 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Three Leagues (1524–1798 CE)](Three%20Leagues%20%281524%E2%80%931798%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2737921 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Three Leagues (1524–1798 CE)](Three%20Leagues%20%281524%E2%80%931798%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2737921 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

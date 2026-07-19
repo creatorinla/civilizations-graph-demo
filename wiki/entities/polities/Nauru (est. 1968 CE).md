@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Trust Territory of Nauru (1947–1968 CE)](Trust%20Territory%20of%20Nauru%20%281947%E2%80%931968%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21816219 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Trust Territory of Nauru (1947–1968 CE)](Trust%20Territory%20of%20Nauru%20%281947%E2%80%931968%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21816219 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

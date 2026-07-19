@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Vermont Republic (1777–1791 CE)](Vermont%20Republic%20%281777%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Vermont Republic (1777–1791 CE)](Vermont%20Republic%20%281777%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New England Colonies](New%20England%20Colonies.html) | has part | — | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New England Colonies](New%20England%20Colonies.html) | has part | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

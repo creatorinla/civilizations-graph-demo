@@ -27,17 +27,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Canada (est. 1867 CE)](Canada%20%28est.%201867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1121436 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Canada (est. 1867 CE)](Canada%20%28est.%201867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1121436 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lower Canada (1791–1841 CE)](Lower%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1134180 succession statement (retrieved 2026-07-18) |
-| [The Canadas (1791–1841 CE)](The%20Canadas%20%281791%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7721124 succession statement (retrieved 2026-07-18) |
-| [Upper Canada (1791–1841 CE)](Upper%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1121436 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lower Canada (1791–1841 CE)](Lower%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1134180 succession statement (retrieved 2026-07-18) |
+| [The Canadas (1791–1841 CE)](The%20Canadas%20%281791%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7721124 succession statement (retrieved 2026-07-18) |
+| [Upper Canada (1791–1841 CE)](Upper%20Canada%20%281791%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1121436 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

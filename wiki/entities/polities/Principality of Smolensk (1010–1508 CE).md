@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q4299521 (1277–1493 CE)](Q4299521%20%281277%E2%80%931493%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4299521 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q4299521 (1277–1493 CE)](Q4299521%20%281277%E2%80%931493%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4299521 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

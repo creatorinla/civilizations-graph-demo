@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Central Africa Protectorate (1893–1907 CE)](British%20Central%20Africa%20Protectorate%20%281893%E2%80%931907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q47496198 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Central Africa Protectorate (1893–1907 CE)](British%20Central%20Africa%20Protectorate%20%281893%E2%80%931907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q47496198 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Shire Highlands Protectorate (est. 1889 CE)](Shire%20Highlands%20Protectorate%20%28est.%201889%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q47499073 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Shire Highlands Protectorate (est. 1889 CE)](Shire%20Highlands%20Protectorate%20%28est.%201889%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q47499073 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

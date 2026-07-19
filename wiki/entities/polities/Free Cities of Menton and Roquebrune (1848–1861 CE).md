@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [France (est. 843 CE)](France%20%28est.%20843%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [France (est. 843 CE)](France%20%28est.%20843%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Monaco (est. 1297 CE)](Monaco%20%28est.%201297%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Monaco (est. 1297 CE)](Monaco%20%28est.%201297%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

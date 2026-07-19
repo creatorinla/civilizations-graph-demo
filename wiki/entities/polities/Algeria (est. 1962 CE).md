@@ -25,9 +25,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [France (est. 843 CE)](France%20%28est.%20843%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q262 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [France (est. 843 CE)](France%20%28est.%20843%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q262 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Melayu (1183–1347 CE)](Melayu%20%281183%E2%80%931347%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q111650663 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Melayu (1183–1347 CE)](Melayu%20%281183%E2%80%931347%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q111650663 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

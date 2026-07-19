@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian State (1918–1920 CE)](Russian%20State%20%281918%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16692637 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian State (1918–1920 CE)](Russian%20State%20%281918%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16692637 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian Republic (1917–1917 CE)](Russian%20Republic%20%281917%E2%80%931917%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16692637 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian Republic (1917–1917 CE)](Russian%20Republic%20%281917%E2%80%931917%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16692637 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

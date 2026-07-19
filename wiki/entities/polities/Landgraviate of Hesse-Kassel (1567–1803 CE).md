@@ -23,17 +23,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Electorate of Hesse (1803–1807 CE)](Electorate%20of%20Hesse%20%281803%E2%80%931807%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q100594799 succession statement (retrieved 2026-07-18) |
-| [Landgraviate of Hesse-Rotenburg (1627–1834 CE)](Landgraviate%20of%20Hesse-Rotenburg%20%281627%E2%80%931834%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q463845 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Electorate of Hesse (1803–1807 CE)](Electorate%20of%20Hesse%20%281803%E2%80%931807%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q100594799 succession statement (retrieved 2026-07-18) |
+| [Landgraviate of Hesse-Rotenburg (1627–1834 CE)](Landgraviate%20of%20Hesse-Rotenburg%20%281627%E2%80%931834%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q463845 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Schaumburg (1110–1640 CE)](County%20of%20Schaumburg%20%281110%E2%80%931640%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q445892 succession statement (retrieved 2026-07-18) |
-| [Landgraviate of Hesse (1264–1567 CE)](Landgraviate%20of%20Hesse%20%281264%E2%80%931567%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q695322 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Schaumburg (1110–1640 CE)](County%20of%20Schaumburg%20%281110%E2%80%931640%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q445892 succession statement (retrieved 2026-07-18) |
+| [Landgraviate of Hesse (1264–1567 CE)](Landgraviate%20of%20Hesse%20%281264%E2%80%931567%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q695322 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

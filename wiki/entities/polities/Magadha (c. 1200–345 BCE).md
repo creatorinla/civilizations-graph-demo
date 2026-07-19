@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Nanda Empire (345–321 BCE)](Nanda%20Empire%20%28345%E2%80%93321%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q949268 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Nanda Empire (345–321 BCE)](Nanda%20Empire%20%28345%E2%80%93321%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q949268 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

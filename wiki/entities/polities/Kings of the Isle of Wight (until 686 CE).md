@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Wessex (519–927 CE)](Kingdom%20of%20Wessex%20%28519%E2%80%93927%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3568009 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Wessex (519–927 CE)](Kingdom%20of%20Wessex%20%28519%E2%80%93927%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3568009 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

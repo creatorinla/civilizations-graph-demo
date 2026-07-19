@@ -27,21 +27,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q970799 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q970799 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q582861 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q582861 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q970799 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wattasid dynasty (1472–1554 CE)](Wattasid%20dynasty%20%281472%E2%80%931554%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q970799 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

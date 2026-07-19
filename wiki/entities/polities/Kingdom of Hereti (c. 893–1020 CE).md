@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Kingdom of Kakheti (1020–1104 CE)](First%20Kingdom%20of%20Kakheti%20%281020%E2%80%931104%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7216494 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Kingdom of Kakheti (1020–1104 CE)](First%20Kingdom%20of%20Kakheti%20%281020%E2%80%931104%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7216494 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

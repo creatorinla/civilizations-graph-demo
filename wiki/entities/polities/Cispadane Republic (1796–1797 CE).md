@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

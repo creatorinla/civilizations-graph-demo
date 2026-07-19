@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Oda regime (1573–1585 CE)](Oda%20regime%20%281573%E2%80%931585%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11608382 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Oda regime (1573–1585 CE)](Oda%20regime%20%281573%E2%80%931585%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11608382 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kenmu Restoration (1333–1336 CE)](Kenmu%20Restoration%20%281333%E2%80%931336%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1154406 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kenmu Restoration (1333–1336 CE)](Kenmu%20Restoration%20%281333%E2%80%931336%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1154406 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

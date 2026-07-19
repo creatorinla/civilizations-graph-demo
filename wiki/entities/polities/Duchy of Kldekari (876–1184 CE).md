@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of the Iberians (888–1008 CE)](Kingdom%20of%20the%20Iberians%20%28888%E2%80%931008%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2920715 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of the Iberians (888–1008 CE)](Kingdom%20of%20the%20Iberians%20%28888%E2%80%931008%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2920715 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

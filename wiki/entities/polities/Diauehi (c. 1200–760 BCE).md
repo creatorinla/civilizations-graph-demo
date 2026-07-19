@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hayasa-Azzi (c. 1501–1201 BCE)](Hayasa-Azzi%20%28c.%201501%E2%80%931201%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q154853 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hayasa-Azzi (c. 1501–1201 BCE)](Hayasa-Azzi%20%28c.%201501%E2%80%931201%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q154853 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

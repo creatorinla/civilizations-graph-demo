@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Egypt (1922–1953 CE)](Kingdom%20of%20Egypt%20%281922%E2%80%931953%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q370173 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Egypt (1922–1953 CE)](Kingdom%20of%20Egypt%20%281922%E2%80%931953%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q370173 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khedivate of Egypt (1867–1914 CE)](Khedivate%20of%20Egypt%20%281867%E2%80%931914%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q370173 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khedivate of Egypt (1867–1914 CE)](Khedivate%20of%20Egypt%20%281867%E2%80%931914%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q370173 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

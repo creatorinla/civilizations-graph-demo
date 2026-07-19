@@ -31,9 +31,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free Cities of Menton and Roquebrune (1848–1861 CE)](Free%20Cities%20of%20Menton%20and%20Roquebrune%20%281848%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free Cities of Menton and Roquebrune (1848–1861 CE)](Free%20Cities%20of%20Menton%20and%20Roquebrune%20%281848%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3559284 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

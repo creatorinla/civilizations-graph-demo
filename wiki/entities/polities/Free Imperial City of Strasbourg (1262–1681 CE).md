@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Prince-Bishopric of Strasbourg (982–1803 CE)](Prince-Bishopric%20of%20Strasbourg%20%28982%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q95895695 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Prince-Bishopric of Strasbourg (982–1803 CE)](Prince-Bishopric%20of%20Strasbourg%20%28982%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q95895695 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

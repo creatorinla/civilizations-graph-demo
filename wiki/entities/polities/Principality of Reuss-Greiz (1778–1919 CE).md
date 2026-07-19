@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Reuss (1919–1920 CE)](Republic%20of%20Reuss%20%281919%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q541199 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Reuss (1919–1920 CE)](Republic%20of%20Reuss%20%281919%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q541199 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Holy Roman Empire (962–1806 CE)](Holy%20Roman%20Empire%20%28962%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q531783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Holy Roman Empire (962–1806 CE)](Holy%20Roman%20Empire%20%28962%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q531783 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

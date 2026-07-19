@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Iraqi Republic (1963–1968 CE)](Second%20Iraqi%20Republic%20%281963%E2%80%931968%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Iraqi Republic (1963–1968 CE)](Second%20Iraqi%20Republic%20%281963%E2%80%931968%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132690253 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

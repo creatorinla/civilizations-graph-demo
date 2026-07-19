@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Arles (933–1378 CE)](Kingdom%20of%20Arles%20%28933%E2%80%931378%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Arles (933–1378 CE)](Kingdom%20of%20Arles%20%28933%E2%80%931378%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q33235 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q33235 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

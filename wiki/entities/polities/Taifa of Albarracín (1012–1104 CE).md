@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lordship of Albarracin (1167–1379 CE)](Lordship%20of%20Albarracin%20%281167%E2%80%931379%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3572054 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lordship of Albarracin (1167–1379 CE)](Lordship%20of%20Albarracin%20%281167%E2%80%931379%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3572054 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

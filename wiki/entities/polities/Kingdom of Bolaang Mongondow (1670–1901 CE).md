@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dutch East Indies (1800–1949 CE)](Dutch%20East%20Indies%20%281800%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25459978 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dutch East Indies (1800–1949 CE)](Dutch%20East%20Indies%20%281800%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25459978 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

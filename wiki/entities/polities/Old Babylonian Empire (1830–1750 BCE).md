@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Third Dynasty of Ur (2112–2004 BCE)](Third%20Dynasty%20of%20Ur%20%282112%E2%80%932004%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q733897 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Third Dynasty of Ur (2112–2004 BCE)](Third%20Dynasty%20of%20Ur%20%282112%E2%80%932004%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q733897 succession statement (retrieved 2026-07-13) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Babylonia (c. 1900–539 BCE)](Babylonia%20%28c.%201900%E2%80%93539%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q733897 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Babylonia (c. 1900–539 BCE)](Babylonia%20%28c.%201900%E2%80%93539%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q733897 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

@@ -19,15 +19,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q26271738 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q26271738 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q26271738 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q26271738 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

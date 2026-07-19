@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of the Two Sicilies (1738–1861 CE)](Kingdom%20of%20the%20Two%20Sicilies%20%281738%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of the Two Sicilies (1738–1861 CE)](Kingdom%20of%20the%20Two%20Sicilies%20%281738%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Naples (1282–1816 CE)](Kingdom%20of%20Naples%20%281282%E2%80%931816%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Naples (1282–1816 CE)](Kingdom%20of%20Naples%20%281282%E2%80%931816%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48779892 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

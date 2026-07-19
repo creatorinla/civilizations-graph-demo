@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lower County of Katzenelnbogen](Lower%20County%20of%20Katzenelnbogen.html) | has part | — | — | tentative | reference work | Wikidata Q2497612 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lower County of Katzenelnbogen](Lower%20County%20of%20Katzenelnbogen.html) | has part | — | tentative | reference work | Wikidata Q2497612 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

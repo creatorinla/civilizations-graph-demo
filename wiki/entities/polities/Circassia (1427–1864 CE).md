@@ -32,9 +32,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kabardia (until 1825 CE)](Kabardia%20%28until%201825%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2640598 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kabardia (until 1825 CE)](Kabardia%20%28until%201825%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2640598 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

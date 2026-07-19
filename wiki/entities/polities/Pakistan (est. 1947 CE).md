@@ -27,11 +27,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Raj (1858–1947 CE)](British%20Raj%20%281858%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q843 succession statement (retrieved 2026-07-18) |
-| [Dominion of Pakistan (1947–1956 CE)](Dominion%20of%20Pakistan%20%281947%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2006542 succession statement (retrieved 2026-07-18) |
-| [Hunza State (c. 1600–1974 CE)](Hunza%20State%20%28c.%201600%E2%80%931974%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14957246 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Raj (1858–1947 CE)](British%20Raj%20%281858%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q843 succession statement (retrieved 2026-07-18) |
+| [Dominion of Pakistan (1947–1956 CE)](Dominion%20of%20Pakistan%20%281947%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2006542 succession statement (retrieved 2026-07-18) |
+| [Hunza State (c. 1600–1974 CE)](Hunza%20State%20%28c.%201600%E2%80%931974%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14957246 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

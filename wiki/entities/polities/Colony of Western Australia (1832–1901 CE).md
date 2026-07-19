@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Swan River Colony (1829–1832 CE)](Swan%20River%20Colony%20%281829%E2%80%931832%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q57676556 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Swan River Colony (1829–1832 CE)](Swan%20River%20Colony%20%281829%E2%80%931832%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q57676556 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

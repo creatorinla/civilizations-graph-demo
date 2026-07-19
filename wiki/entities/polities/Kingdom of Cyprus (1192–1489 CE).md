@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Venetian Cyprus (1489–1571 CE)](Venetian%20Cyprus%20%281489%E2%80%931571%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18639863 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Venetian Cyprus (1489–1571 CE)](Venetian%20Cyprus%20%281489%E2%80%931571%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18639863 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Solomon Islands (1893–1978 CE)](British%20Solomon%20Islands%20%281893%E2%80%931978%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13410267 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Solomon Islands (1893–1978 CE)](British%20Solomon%20Islands%20%281893%E2%80%931978%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13410267 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Solomon Islands and Bismarck Archipelago](Solomon%20Islands%20and%20Bismarck%20Archipelago.html) | has part | — | — | tentative | reference work | Wikidata Q97060007 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Solomon Islands and Bismarck Archipelago](Solomon%20Islands%20and%20Bismarck%20Archipelago.html) | has part | — | tentative | reference work | Wikidata Q97060007 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

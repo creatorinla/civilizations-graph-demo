@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Cape Colony](British%20Cape%20Colony.html) | transition | — | — | tentative | reference work | Wikidata Q15872908 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Cape Colony](British%20Cape%20Colony.html) | transition | — | tentative | reference work | Wikidata Q15872908 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Cape Colony](British%20Cape%20Colony.html) | transition | — | — | tentative | reference work | Wikidata Q15872908 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Cape Colony](British%20Cape%20Colony.html) | transition | — | tentative | reference work | Wikidata Q15872908 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12544 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12544 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

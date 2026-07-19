@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Papua New Guinea (est. 1975 CE)](Papua%20New%20Guinea%20%28est.%201975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4393602 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Papua New Guinea (est. 1975 CE)](Papua%20New%20Guinea%20%28est.%201975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4393602 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

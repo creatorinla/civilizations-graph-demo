@@ -25,21 +25,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17319155 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [India (est. 1947 CE)](India%20%28est.%201947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17319155 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Udaipur State](Udaipur%20State.html) | has part | — | — | tentative | reference work | Wikidata Q130642141 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Udaipur State](Udaipur%20State.html) | has part | — | tentative | reference work | Wikidata Q130642141 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mewar](Mewar.html) | has part | — | — | tentative | reference work | Wikidata Q17319155 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mewar](Mewar.html) | has part | — | tentative | reference work | Wikidata Q17319155 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

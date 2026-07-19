@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kish (est. 3100 BCE)](Kish%20%28est.%203100%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4461035 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kish (est. 3100 BCE)](Kish%20%28est.%203100%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q4461035 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

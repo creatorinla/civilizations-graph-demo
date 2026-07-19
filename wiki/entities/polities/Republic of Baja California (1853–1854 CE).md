@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Sonora (1853–1854 CE)](Republic%20of%20Sonora%20%281853%E2%80%931854%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7314427 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Sonora (1853–1854 CE)](Republic%20of%20Sonora%20%281853%E2%80%931854%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7314427 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

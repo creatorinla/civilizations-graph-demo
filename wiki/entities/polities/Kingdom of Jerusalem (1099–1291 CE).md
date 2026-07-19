@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mamluk Sultanate of Egypt (1250–1517 CE)](Mamluk%20Sultanate%20of%20Egypt%20%281250%E2%80%931517%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mamluk Sultanate of Egypt (1250–1517 CE)](Mamluk%20Sultanate%20of%20Egypt%20%281250%E2%80%931517%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q160307 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q160307 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

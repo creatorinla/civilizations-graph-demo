@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Eretnids (1335–1381 CE)](Eretnids%20%281335%E2%80%931381%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4834782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Eretnids (1335–1381 CE)](Eretnids%20%281335%E2%80%931381%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4834782 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

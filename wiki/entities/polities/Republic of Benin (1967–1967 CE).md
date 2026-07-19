@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Biafra (1967–1970 CE)](Biafra%20%281967%E2%80%931970%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1108659 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Biafra (1967–1970 CE)](Biafra%20%281967%E2%80%931970%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1108659 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Kakheti (1465–1762 CE)](Kingdom%20of%20Kakheti%20%281465%E2%80%931762%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1209822 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Kartli (1466–1762 CE)](Kingdom%20of%20Kartli%20%281466%E2%80%931762%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q282475 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Kakheti (1465–1762 CE)](Kingdom%20of%20Kakheti%20%281465%E2%80%931762%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1209822 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Kartli (1466–1762 CE)](Kingdom%20of%20Kartli%20%281466%E2%80%931762%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q282475 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

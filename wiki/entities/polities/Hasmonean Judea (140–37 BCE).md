@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Herodian Kingdom of Judea (37–4 BCE)](Herodian%20Kingdom%20of%20Judea%20%2837%E2%80%934%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16000109 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Herodian Kingdom of Judea (37–4 BCE)](Herodian%20Kingdom%20of%20Judea%20%2837%E2%80%934%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q16000109 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

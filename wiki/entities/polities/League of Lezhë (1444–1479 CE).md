@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Arianiti (1432–1444 CE)](Principality%20of%20Arianiti%20%281432%E2%80%931444%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2047479 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Arianiti (1432–1444 CE)](Principality%20of%20Arianiti%20%281432%E2%80%931444%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2047479 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

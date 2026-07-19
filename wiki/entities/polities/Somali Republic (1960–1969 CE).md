@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Somali Democratic Republic (1969–1991 CE)](Somali%20Democratic%20Republic%20%281969%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7559152 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Somali Democratic Republic (1969–1991 CE)](Somali%20Democratic%20Republic%20%281969%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7559152 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Somaliland (1960–1960 CE)](State%20of%20Somaliland%20%281960%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7559152 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Somaliland (1960–1960 CE)](State%20of%20Somaliland%20%281960%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7559152 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

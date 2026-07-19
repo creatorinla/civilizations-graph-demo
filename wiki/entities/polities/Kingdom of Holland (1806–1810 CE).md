@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q212278 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q212278 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Batavian Commonwealth (1801–1806 CE)](Batavian%20Commonwealth%20%281801%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13134747 succession statement (retrieved 2026-07-18) |
-| [Batavian Republic (1795–1806 CE)](Batavian%20Republic%20%281795%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q212278 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Batavian Commonwealth (1801–1806 CE)](Batavian%20Commonwealth%20%281801%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13134747 succession statement (retrieved 2026-07-18) |
+| [Batavian Republic (1795–1806 CE)](Batavian%20Republic%20%281795%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q212278 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

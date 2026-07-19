@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sierra Leone Colony and Protectorate (1808–1961 CE)](Sierra%20Leone%20Colony%20and%20Protectorate%20%281808%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30059027 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sierra Leone Colony and Protectorate (1808–1961 CE)](Sierra%20Leone%20Colony%20and%20Protectorate%20%281808%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30059027 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

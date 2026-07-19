@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Liao dynasty (916–1125 CE)](Liao%20dynasty%20%28916%E2%80%931125%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q904766 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Liao dynasty (916–1125 CE)](Liao%20dynasty%20%28916%E2%80%931125%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q904766 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

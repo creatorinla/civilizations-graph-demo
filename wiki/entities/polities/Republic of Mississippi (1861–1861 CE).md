@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Confederate States of America (1861–1865 CE)](Confederate%20States%20of%20America%20%281861%E2%80%931865%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q368986 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Confederate States of America (1861–1865 CE)](Confederate%20States%20of%20America%20%281861%E2%80%931865%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q368986 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

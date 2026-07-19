@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Venice (697–1797 CE)](Republic%20of%20Venice%20%28697%E2%80%931797%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Venice (697–1797 CE)](Republic%20of%20Venice%20%28697%E2%80%931797%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [March of Friuli](March%20of%20Friuli.html) | transition | — | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
-| [March of Verona (952–1167 CE)](March%20of%20Verona%20%28952%E2%80%931167%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q701920 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [March of Friuli](March%20of%20Friuli.html) | transition | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
+| [March of Verona (952–1167 CE)](March%20of%20Verona%20%28952%E2%80%931167%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q701920 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

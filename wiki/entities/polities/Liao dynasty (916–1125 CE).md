@@ -33,21 +33,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jin dynasty (1115–1234 CE)](Jin%20dynasty%20%281115%E2%80%931234%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5066 succession statement (retrieved 2026-07-18) |
-| [Northern Liao (1122–1123 CE)](Northern%20Liao%20%281122%E2%80%931123%20CE%29%20%28Q110491318%29.html) | transition | — | — | tentative | reference work | Wikidata Q110491318 succession statement (retrieved 2026-07-18) |
-| [Northern Liao (1122–1123 CE)](Northern%20Liao%20%281122%E2%80%931123%20CE%29%20%28Q2214985%29.html) | transition | — | — | tentative | reference work | Wikidata Q2214985 succession statement (retrieved 2026-07-18) |
-| [Qara Khitai (1124–1218 CE)](Qara%20Khitai%20%281124%E2%80%931218%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q862304 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jin dynasty (1115–1234 CE)](Jin%20dynasty%20%281115%E2%80%931234%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5066 succession statement (retrieved 2026-07-18) |
+| [Northern Liao (1122–1123 CE)](Northern%20Liao%20%281122%E2%80%931123%20CE%29%20%28Q110491318%29.html) | transition | — | tentative | reference work | Wikidata Q110491318 succession statement (retrieved 2026-07-18) |
+| [Northern Liao (1122–1123 CE)](Northern%20Liao%20%281122%E2%80%931123%20CE%29%20%28Q2214985%29.html) | transition | — | tentative | reference work | Wikidata Q2214985 succession statement (retrieved 2026-07-18) |
+| [Qara Khitai (1124–1218 CE)](Qara%20Khitai%20%281124%E2%80%931218%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q862304 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Balhae (698–926 CE)](Balhae%20%28698%E2%80%93926%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
-| [Heungyo (1029–1030 CE)](Heungyo%20%281029%E2%80%931030%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q904766 succession statement (retrieved 2026-07-18) |
-| [Jeong-an kingdom (938–986 CE)](Jeong-an%20kingdom%20%28938%E2%80%93986%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q707128 succession statement (retrieved 2026-07-18) |
-| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1154540 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Balhae (698–926 CE)](Balhae%20%28698%E2%80%93926%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28322 succession statement (retrieved 2026-07-18) |
+| [Heungyo (1029–1030 CE)](Heungyo%20%281029%E2%80%931030%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q904766 succession statement (retrieved 2026-07-18) |
+| [Jeong-an kingdom (938–986 CE)](Jeong-an%20kingdom%20%28938%E2%80%93986%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q707128 succession statement (retrieved 2026-07-18) |
+| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1154540 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

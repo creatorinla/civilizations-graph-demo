@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Anhalt (1863–1918 CE)](Duchy%20of%20Anhalt%20%281863%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16550783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Anhalt (1863–1918 CE)](Duchy%20of%20Anhalt%20%281863%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16550783 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

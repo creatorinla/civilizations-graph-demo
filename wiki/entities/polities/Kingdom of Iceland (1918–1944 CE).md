@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Iceland (est. 1944 CE)](Iceland%20%28est.%201944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q62567 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Iceland (est. 1944 CE)](Iceland%20%28est.%201944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q62567 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

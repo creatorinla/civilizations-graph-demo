@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Prince-Bishopric of Geneva (1032–1534 CE)](Prince-Bishopric%20of%20Geneva%20%281032%E2%80%931534%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q23366230 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Prince-Bishopric of Geneva (1032–1534 CE)](Prince-Bishopric%20of%20Geneva%20%281032%E2%80%931534%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q23366230 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

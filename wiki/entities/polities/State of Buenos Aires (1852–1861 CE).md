@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Argentine Confederation (1831–1861 CE)](Argentine%20Confederation%20%281831%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q832554 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Argentine Confederation (1831–1861 CE)](Argentine%20Confederation%20%281831%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q832554 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

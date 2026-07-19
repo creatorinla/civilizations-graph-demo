@@ -26,10 +26,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25979 succession statement (retrieved 2026-07-18) |
-| [Kidarites (c. 301–477 CE)](Kidarites%20%28c.%20301%E2%80%93477%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q26996 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25979 succession statement (retrieved 2026-07-18) |
+| [Kidarites (c. 301–477 CE)](Kidarites%20%28c.%20301%E2%80%93477%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q26996 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

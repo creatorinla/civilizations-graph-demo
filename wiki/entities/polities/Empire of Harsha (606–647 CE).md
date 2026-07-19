@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gurjara-Pratihara (c. 800–1036 CE)](Gurjara-Pratihara%20%28c.%20800%E2%80%931036%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gurjara-Pratihara (c. 800–1036 CE)](Gurjara-Pratihara%20%28c.%20800%E2%80%931036%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian State (1918–1920 CE)](Russian%20State%20%281918%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4398229 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian State (1918–1920 CE)](Russian%20State%20%281918%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4398229 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

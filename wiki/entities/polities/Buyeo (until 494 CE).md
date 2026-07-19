@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Goguryeo (37 BCE – 668 CE)](Goguryeo%20%2837%20BCE%20%E2%80%93%20668%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28511 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Goguryeo (37 BCE – 668 CE)](Goguryeo%20%2837%20BCE%20%E2%80%93%20668%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28511 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

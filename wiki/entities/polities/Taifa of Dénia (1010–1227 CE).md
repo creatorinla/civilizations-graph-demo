@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Zaragoza (1018–1110 CE)](Taifa%20of%20Zaragoza%20%281018%E2%80%931110%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q252323 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Zaragoza (1018–1110 CE)](Taifa%20of%20Zaragoza%20%281018%E2%80%931110%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q252323 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

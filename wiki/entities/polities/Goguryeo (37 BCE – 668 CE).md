@@ -25,17 +25,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
-| [Little Goguryeo](Little%20Goguryeo.html) | transition | — | — | tentative | reference work | Wikidata Q712179 succession statement (retrieved 2026-07-18) |
-| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28370 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Silla (668–892 CE)](Later%20Silla%20%28668%E2%80%93892%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q715257 succession statement (retrieved 2026-07-18) |
+| [Little Goguryeo](Little%20Goguryeo.html) | transition | — | tentative | reference work | Wikidata Q712179 succession statement (retrieved 2026-07-18) |
+| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28370 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Buyeo (until 494 CE)](Buyeo%20%28until%20494%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28511 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Buyeo (until 494 CE)](Buyeo%20%28until%20494%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28511 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

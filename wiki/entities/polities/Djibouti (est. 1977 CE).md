@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Territory of the Afars and the Issas (1967–1977 CE)](French%20Territory%20of%20the%20Afars%20and%20the%20Issas%20%281967%E2%80%931977%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1450765 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Territory of the Afars and the Issas (1967–1977 CE)](French%20Territory%20of%20the%20Afars%20and%20the%20Issas%20%281967%E2%80%931977%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1450765 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q977 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q977 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

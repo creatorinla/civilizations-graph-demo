@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Greece (1832–1973 CE)](Kingdom%20of%20Greece%20%281832%E2%80%931973%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q528546 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Greece (1832–1973 CE)](Kingdom%20of%20Greece%20%281832%E2%80%931973%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q528546 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

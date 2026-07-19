@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Democratic Republic of Sudan (1969–1985 CE)](Democratic%20Republic%20of%20Sudan%20%281969%E2%80%931985%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5866728 succession statement (retrieved 2026-07-18) |
-| [Republic of Sudan (1985–2019 CE)](Republic%20of%20Sudan%20%281985%E2%80%932019%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5866720 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Democratic Republic of Sudan (1969–1985 CE)](Democratic%20Republic%20of%20Sudan%20%281969%E2%80%931985%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5866728 succession statement (retrieved 2026-07-18) |
+| [Republic of Sudan (1985–2019 CE)](Republic%20of%20Sudan%20%281985%E2%80%932019%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5866720 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

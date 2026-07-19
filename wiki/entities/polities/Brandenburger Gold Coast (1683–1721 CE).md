@@ -26,9 +26,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburg colonial empire (1681–1721 CE)](Brandenburg%20colonial%20empire%20%281681%E2%80%931721%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q700023 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburg colonial empire (1681–1721 CE)](Brandenburg%20colonial%20empire%20%281681%E2%80%931721%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q700023 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

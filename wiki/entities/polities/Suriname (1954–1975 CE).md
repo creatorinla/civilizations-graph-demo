@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Suriname (est. 1975 CE)](Suriname%20%28est.%201975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19901436 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Suriname (est. 1975 CE)](Suriname%20%28est.%201975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19901436 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Surinam (1667–1954 CE)](Surinam%20%281667%E2%80%931954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19901436 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Surinam (1667–1954 CE)](Surinam%20%281667%E2%80%931954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19901436 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

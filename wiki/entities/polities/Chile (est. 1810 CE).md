@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Captaincy General of Chile (1541–1818 CE)](Captaincy%20General%20of%20Chile%20%281541%E2%80%931818%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q763808 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Captaincy General of Chile (1541–1818 CE)](Captaincy%20General%20of%20Chile%20%281541%E2%80%931818%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q763808 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

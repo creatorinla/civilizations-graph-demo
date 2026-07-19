@@ -29,22 +29,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chagatai Khanate (1225–1687 CE)](Chagatai%20Khanate%20%281225%E2%80%931687%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
-| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chagatai Khanate (1225–1687 CE)](Chagatai%20Khanate%20%281225%E2%80%931687%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
+| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q294652 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12557 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12557 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,23 +24,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
-| [French Cameroons (1919–1960 CE)](French%20Cameroons%20%281919%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028848 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
+| [French Cameroons (1919–1960 CE)](French%20Cameroons%20%281919%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028848 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sokoto Caliphate (1804–1903 CE)](Sokoto%20Caliphate%20%281804%E2%80%931903%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sokoto Caliphate (1804–1903 CE)](Sokoto%20Caliphate%20%281804%E2%80%931903%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German West Africa (1884–1919 CE)](German%20West%20Africa%20%281884%E2%80%931919%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q668294 containment statement (retrieved 2026-07-18) |
-| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q668294 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German West Africa (1884–1919 CE)](German%20West%20Africa%20%281884%E2%80%931919%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q668294 containment statement (retrieved 2026-07-18) |
+| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q668294 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

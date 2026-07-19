@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Fourth Republic (1946–1958 CE)](French%20Fourth%20Republic%20%281946%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Fourth Republic (1946–1958 CE)](French%20Fourth%20Republic%20%281946%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Vichy France (1940–1944 CE)](Vichy%20France%20%281940%E2%80%931944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Vichy France (1940–1944 CE)](Vichy%20France%20%281940%E2%80%931944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

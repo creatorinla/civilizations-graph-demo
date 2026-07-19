@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal State of Austria (1934–1938 CE)](Federal%20State%20of%20Austria%20%281934%E2%80%931938%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal State of Austria (1934–1938 CE)](Federal%20State%20of%20Austria%20%281934%E2%80%931938%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of German-Austria (1918–1919 CE)](Republic%20of%20German-Austria%20%281918%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of German-Austria (1918–1919 CE)](Republic%20of%20German-Austria%20%281918%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q518101 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

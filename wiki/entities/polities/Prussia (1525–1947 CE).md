@@ -24,18 +24,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Germany (est. 1949 CE)](Germany%20%28est.%201949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q38872 succession statement (retrieved 2026-07-18) |
-| [Nazi Germany (1933–1945 CE)](Nazi%20Germany%20%281933%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q38872 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Germany (est. 1949 CE)](Germany%20%28est.%201949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q38872 succession statement (retrieved 2026-07-18) |
+| [Nazi Germany (1933–1945 CE)](Nazi%20Germany%20%281933%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q38872 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
-| [Duchy of Prussia (1525–1618 CE)](Duchy%20of%20Prussia%20%281525%E2%80%931618%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q153091 containment statement (retrieved 2026-07-18) |
-| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q38872 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
+| [Duchy of Prussia (1525–1618 CE)](Duchy%20of%20Prussia%20%281525%E2%80%931618%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q153091 containment statement (retrieved 2026-07-18) |
+| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q38872 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

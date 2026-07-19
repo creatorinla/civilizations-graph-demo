@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Great Moravia (833–907 CE)](Great%20Moravia%20%28833%E2%80%93907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12771954 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Great Moravia (833–907 CE)](Great%20Moravia%20%28833%E2%80%93907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12771954 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

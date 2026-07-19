@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
-| [Sultanate of Tuggurt (1414–1881 CE)](Sultanate%20of%20Tuggurt%20%281414%E2%80%931881%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18415401 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| [Sultanate of Tuggurt (1414–1881 CE)](Sultanate%20of%20Tuggurt%20%281414%E2%80%931881%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18415401 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

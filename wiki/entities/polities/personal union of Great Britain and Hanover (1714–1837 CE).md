@@ -26,9 +26,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Hanover (1814–1866 CE)](Kingdom%20of%20Hanover%20%281814%E2%80%931866%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q164079 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Hanover (1814–1866 CE)](Kingdom%20of%20Hanover%20%281814%E2%80%931866%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q164079 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

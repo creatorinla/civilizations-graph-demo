@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austrian Netherlands (1714–1797 CE)](Austrian%20Netherlands%20%281714%E2%80%931797%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q700283 succession statement (retrieved 2026-07-18) |
-| [Dutch Republic (1581–1795 CE)](Dutch%20Republic%20%281581%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austrian Netherlands (1714–1797 CE)](Austrian%20Netherlands%20%281714%E2%80%931797%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q700283 succession statement (retrieved 2026-07-18) |
+| [Dutch Republic (1581–1795 CE)](Dutch%20Republic%20%281581%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Seventeen Provinces (1482–1581 CE)](Seventeen%20Provinces%20%281482%E2%80%931581%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Seventeen Provinces (1482–1581 CE)](Seventeen%20Provinces%20%281482%E2%80%931581%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q622783 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

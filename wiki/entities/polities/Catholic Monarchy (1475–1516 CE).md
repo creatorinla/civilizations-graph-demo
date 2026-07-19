@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21088788 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21088788 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q21088788 containment statement (retrieved 2026-07-18) |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q21088788 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q21088788 containment statement (retrieved 2026-07-18) |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q21088788 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

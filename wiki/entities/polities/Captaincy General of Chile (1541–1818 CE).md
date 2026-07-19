@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chile (est. 1810 CE)](Chile%20%28est.%201810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q763808 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chile (est. 1810 CE)](Chile%20%28est.%201810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q763808 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

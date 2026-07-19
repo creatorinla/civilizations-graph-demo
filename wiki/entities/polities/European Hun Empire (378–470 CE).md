@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hunnic Empire (316–484 CE)](Hunnic%20Empire%20%28316%E2%80%93484%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12836180 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hunnic Empire (316–484 CE)](Hunnic%20Empire%20%28316%E2%80%93484%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12836180 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

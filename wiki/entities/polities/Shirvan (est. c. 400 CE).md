@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q11929656 (c. 1000–1100 CE)](Q11929656%20%28c.%201000%E2%80%931100%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11929656 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q11929656 (c. 1000–1100 CE)](Q11929656%20%28c.%201000%E2%80%931100%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11929656 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

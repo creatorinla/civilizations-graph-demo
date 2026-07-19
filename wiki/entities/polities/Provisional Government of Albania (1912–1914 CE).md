@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Albania (1914–1925 CE)](Principality%20of%20Albania%20%281914%E2%80%931925%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Albania (1914–1925 CE)](Principality%20of%20Albania%20%281914%E2%80%931925%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1989935 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

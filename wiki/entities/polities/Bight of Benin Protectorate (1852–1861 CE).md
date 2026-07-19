@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bights of Biafra and Benin Protectorate (est. 1861 CE)](Bights%20of%20Biafra%20and%20Benin%20Protectorate%20%28est.%201861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q130316043 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bights of Biafra and Benin Protectorate (est. 1861 CE)](Bights%20of%20Biafra%20and%20Benin%20Protectorate%20%28est.%201861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q130316043 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chandelas of Jejakabhukti (831–1311 CE)](Chandelas%20of%20Jejakabhukti%20%28831%E2%80%931311%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2039087 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chandelas of Jejakabhukti (831–1311 CE)](Chandelas%20of%20Jejakabhukti%20%28831%E2%80%931311%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2039087 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Empire of Harsha (606–647 CE)](Empire%20of%20Harsha%20%28606%E2%80%93647%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
-| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11774 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Empire of Harsha (606–647 CE)](Empire%20of%20Harsha%20%28606%E2%80%93647%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20732380 succession statement (retrieved 2026-07-18) |
+| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11774 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

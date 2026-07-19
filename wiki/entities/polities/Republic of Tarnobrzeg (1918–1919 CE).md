@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q303836 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q303836 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

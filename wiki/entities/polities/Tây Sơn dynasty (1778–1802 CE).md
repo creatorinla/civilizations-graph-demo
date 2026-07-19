@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Nguyen dynasty (1802–1945 CE)](Nguyen%20dynasty%20%281802%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6500483 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Nguyen dynasty (1802–1945 CE)](Nguyen%20dynasty%20%281802%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6500483 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Lê dynasty (1428–1789 CE)](Later%20L%C3%AA%20dynasty%20%281428%E2%80%931789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1034173 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Lê dynasty (1428–1789 CE)](Later%20L%C3%AA%20dynasty%20%281428%E2%80%931789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1034173 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

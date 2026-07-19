@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Brunswick (1815–1918 CE)](Duchy%20of%20Brunswick%20%281815%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q830084 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Brunswick (1815–1918 CE)](Duchy%20of%20Brunswick%20%281815%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q830084 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

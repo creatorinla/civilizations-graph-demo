@@ -29,22 +29,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Captaincy General of Navarra](Captaincy%20General%20of%20Navarra.html) | transition | — | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Captaincy General of Navarra](Captaincy%20General%20of%20Navarra.html) | transition | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Navarre (1162–1841 CE)](Kingdom%20of%20Navarre%20%281162%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Navarre (1162–1841 CE)](Kingdom%20of%20Navarre%20%281162%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q111628725 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q111628725 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q111628725 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

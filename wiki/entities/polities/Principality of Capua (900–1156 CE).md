@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Aversa (1030–1156 CE)](County%20of%20Aversa%20%281030%E2%80%931156%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17176539 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Aversa (1030–1156 CE)](County%20of%20Aversa%20%281030%E2%80%931156%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17176539 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

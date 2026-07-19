@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hungary (est. 1000 CE)](Hungary%20%28est.%201000%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16410 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hungary (est. 1000 CE)](Hungary%20%28est.%201000%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16410 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Hungarian Republic (1946–1949 CE)](Second%20Hungarian%20Republic%20%281946%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q940741 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Hungarian Republic (1946–1949 CE)](Second%20Hungarian%20Republic%20%281946%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q940741 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

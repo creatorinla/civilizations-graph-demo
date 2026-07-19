@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sultanate of Bambao (until 1886 CE)](Sultanate%20of%20Bambao%20%28until%201886%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25423982 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sultanate of Bambao (until 1886 CE)](Sultanate%20of%20Bambao%20%28until%201886%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25423982 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

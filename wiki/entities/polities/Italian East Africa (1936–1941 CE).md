@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Somaliland (1884–1960 CE)](British%20Somaliland%20%281884%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q662653 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Somaliland (1884–1960 CE)](British%20Somaliland%20%281884%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q662653 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian Eritrea (1890–1936 CE)](Italian%20Eritrea%20%281890%E2%80%931936%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1232988 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian Eritrea (1890–1936 CE)](Italian%20Eritrea%20%281890%E2%80%931936%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1232988 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

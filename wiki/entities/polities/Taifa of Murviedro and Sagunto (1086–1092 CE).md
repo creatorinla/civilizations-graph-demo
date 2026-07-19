@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Badajoz (1009–1151 CE)](Taifa%20of%20Badajoz%20%281009%E2%80%931151%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2398434 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Badajoz (1009–1151 CE)](Taifa%20of%20Badajoz%20%281009%E2%80%931151%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2398434 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

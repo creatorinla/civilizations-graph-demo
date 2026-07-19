@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mosquitia (1687–1894 CE)](Mosquitia%20%281687%E2%80%931894%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
-| [United States of Colombia (1863–1886 CE)](United%20States%20of%20Colombia%20%281863%E2%80%931886%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mosquitia (1687–1894 CE)](Mosquitia%20%281687%E2%80%931894%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| [United States of Colombia (1863–1886 CE)](United%20States%20of%20Colombia%20%281863%E2%80%931886%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -37,16 +37,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Darien scheme (1698–1700 CE)](Darien%20scheme%20%281698%E2%80%931700%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
-| [Gran Colombia (1819–1831 CE)](Gran%20Colombia%20%281819%E2%80%931831%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q199821 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Darien scheme (1698–1700 CE)](Darien%20scheme%20%281698%E2%80%931700%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
+| [Gran Colombia (1819–1831 CE)](Gran%20Colombia%20%281819%E2%80%931831%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q199821 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Darien scheme (1698–1700 CE)](Darien%20scheme%20%281698%E2%80%931700%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Darien scheme (1698–1700 CE)](Darien%20scheme%20%281698%E2%80%931700%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

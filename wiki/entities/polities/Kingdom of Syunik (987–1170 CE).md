@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q134517569 (c. 1300–1500 CE)](Q134517569%20%28c.%201300%E2%80%931500%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q134517569 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q134517569 (c. 1300–1500 CE)](Q134517569%20%28c.%201300%E2%80%931500%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q134517569 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -30,15 +30,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Vichy France (1940–1944 CE)](Vichy%20France%20%281940%E2%80%931944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q70802 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Vichy France (1940–1944 CE)](Vichy%20France%20%281940%E2%80%931944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q70802 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second French Empire (1852–1870 CE)](Second%20French%20Empire%20%281852%E2%80%931870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q71092 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second French Empire (1852–1870 CE)](Second%20French%20Empire%20%281852%E2%80%931870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q71092 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

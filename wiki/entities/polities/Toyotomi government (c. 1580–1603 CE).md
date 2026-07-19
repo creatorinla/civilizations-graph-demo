@@ -26,16 +26,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tokugawa shogunate (1603–1867 CE)](Tokugawa%20shogunate%20%281603%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tokugawa shogunate (1603–1867 CE)](Tokugawa%20shogunate%20%281603%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ecclesiastical Nagasaki (1580–1587 CE)](Ecclesiastical%20Nagasaki%20%281580%E2%80%931587%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30693555 succession statement (retrieved 2026-07-18) |
-| [Oda regime (1573–1585 CE)](Oda%20regime%20%281573%E2%80%931585%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ecclesiastical Nagasaki (1580–1587 CE)](Ecclesiastical%20Nagasaki%20%281580%E2%80%931587%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30693555 succession statement (retrieved 2026-07-18) |
+| [Oda regime (1573–1585 CE)](Oda%20regime%20%281573%E2%80%931585%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

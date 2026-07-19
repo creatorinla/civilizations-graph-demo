@@ -23,17 +23,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Duchy of Baden (1806–1918 CE)](Grand%20Duchy%20of%20Baden%20%281806%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q637238 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Duchy of Baden (1806–1918 CE)](Grand%20Duchy%20of%20Baden%20%281806%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q637238 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Further Austria (1278–1805 CE)](Further%20Austria%20%281278%E2%80%931805%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q660702 succession statement (retrieved 2026-07-18) |
-| [Margraviate of Baden (1771–1803 CE)](Margraviate%20of%20Baden%20%281771%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20011161 succession statement (retrieved 2026-07-18) |
-| [Prince-Bishopric of Strasbourg (982–1803 CE)](Prince-Bishopric%20of%20Strasbourg%20%28982%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q771332 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Further Austria (1278–1805 CE)](Further%20Austria%20%281278%E2%80%931805%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q660702 succession statement (retrieved 2026-07-18) |
+| [Margraviate of Baden (1771–1803 CE)](Margraviate%20of%20Baden%20%281771%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20011161 succession statement (retrieved 2026-07-18) |
+| [Prince-Bishopric of Strasbourg (982–1803 CE)](Prince-Bishopric%20of%20Strasbourg%20%28982%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q771332 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

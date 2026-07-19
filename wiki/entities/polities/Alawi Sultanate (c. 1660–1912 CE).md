@@ -23,18 +23,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French protectorate in Morocco (1912–1956 CE)](French%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French protectorate in Morocco (1912–1956 CE)](French%20protectorate%20in%20Morocco%20%281912%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Tazeroualt (c. 1600–1882 CE)](Kingdom%20of%20Tazeroualt%20%28c.%201600%E2%80%931882%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
-| [Republic of Salé (1627–1668 CE)](Republic%20of%20Sal%C3%A9%20%281627%E2%80%931668%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
-| [Saadi dynasty (1549–1659 CE)](Saadi%20dynasty%20%281549%E2%80%931659%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
-| [Zawiya Dila'iya](Zawiya%20Dila%27iya.html) | transition | — | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Tazeroualt (c. 1600–1882 CE)](Kingdom%20of%20Tazeroualt%20%28c.%201600%E2%80%931882%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| [Republic of Salé (1627–1668 CE)](Republic%20of%20Sal%C3%A9%20%281627%E2%80%931668%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| [Saadi dynasty (1549–1659 CE)](Saadi%20dynasty%20%281549%E2%80%931659%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
+| [Zawiya Dila'iya](Zawiya%20Dila%27iya.html) | transition | — | tentative | reference work | Wikidata Q131429368 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

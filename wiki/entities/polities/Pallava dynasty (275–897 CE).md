@@ -24,17 +24,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
-| [Eastern Chalukyas (624–1189 CE)](Eastern%20Chalukyas%20%28624%E2%80%931189%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chola dynasty (300 BCE – 1279 CE)](Chola%20dynasty%20%28300%20BCE%20%E2%80%93%201279%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
+| [Eastern Chalukyas (624–1189 CE)](Eastern%20Chalukyas%20%28624%E2%80%931189%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3765117 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kalabhra (250–600 CE)](Kalabhra%20%28250%E2%80%93600%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
-| [Satavahana dynasty (230 BCE – 220 CE)](Satavahana%20dynasty%20%28230%20BCE%20%E2%80%93%20220%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kalabhra (250–600 CE)](Kalabhra%20%28250%E2%80%93600%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2572901 succession statement (retrieved 2026-07-18) |
+| [Satavahana dynasty (230 BCE – 220 CE)](Satavahana%20dynasty%20%28230%20BCE%20%E2%80%93%20220%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

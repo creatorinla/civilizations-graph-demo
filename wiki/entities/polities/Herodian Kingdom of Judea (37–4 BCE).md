@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hasmonean Judea (140–37 BCE)](Hasmonean%20Judea%20%28140%E2%80%9337%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16000109 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hasmonean Judea (140–37 BCE)](Hasmonean%20Judea%20%28140%E2%80%9337%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q16000109 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

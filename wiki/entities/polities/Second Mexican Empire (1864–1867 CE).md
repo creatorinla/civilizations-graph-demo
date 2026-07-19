@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Restored Republic (1867–1876 CE)](Restored%20Republic%20%281867%E2%80%931876%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5788450 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Restored Republic (1867–1876 CE)](Restored%20Republic%20%281867%E2%80%931876%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5788450 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

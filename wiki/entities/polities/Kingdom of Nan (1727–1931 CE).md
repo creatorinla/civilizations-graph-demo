@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lanna (1292–1775 CE)](Lanna%20%281292%E2%80%931775%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11295580 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lanna (1292–1775 CE)](Lanna%20%281292%E2%80%931775%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11295580 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

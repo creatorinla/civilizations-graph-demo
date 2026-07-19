@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Laos (1947–1975 CE)](Kingdom%20of%20Laos%20%281947%E2%80%931975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q338248 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Laos (1947–1975 CE)](Kingdom%20of%20Laos%20%281947%E2%80%931975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q338248 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lan Xang (1354–1707 CE)](Lan%20Xang%20%281354%E2%80%931707%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q338248 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lan Xang (1354–1707 CE)](Lan%20Xang%20%281354%E2%80%931707%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q338248 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tuvan People's Republic (1921–1944 CE)](Tuvan%20People%27s%20Republic%20%281921%E2%80%931944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tuvan People's Republic (1921–1944 CE)](Tuvan%20People%27s%20Republic%20%281921%E2%80%931944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Uryankhay Republic (1911–1914 CE)](Uryankhay%20Republic%20%281911%E2%80%931914%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Uryankhay Republic (1911–1914 CE)](Uryankhay%20Republic%20%281911%E2%80%931914%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

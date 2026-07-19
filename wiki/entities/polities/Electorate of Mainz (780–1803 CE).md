@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free City of Mainz (1244–1462 CE)](Free%20City%20of%20Mainz%20%281244%E2%80%931462%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free City of Mainz (1244–1462 CE)](Free%20City%20of%20Mainz%20%281244%E2%80%931462%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free City of Mainz (1244–1462 CE)](Free%20City%20of%20Mainz%20%281244%E2%80%931462%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free City of Mainz (1244–1462 CE)](Free%20City%20of%20Mainz%20%281244%E2%80%931462%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1454024 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

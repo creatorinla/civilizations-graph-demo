@@ -25,22 +25,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
-| [Nigeria (est. 1963 CE)](Nigeria%20%28est.%201963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
+| [Nigeria (est. 1963 CE)](Nigeria%20%28est.%201963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1028835 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1028835 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

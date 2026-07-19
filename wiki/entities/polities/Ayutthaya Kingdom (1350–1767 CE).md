@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Thonburi Kingdom (1768–1782 CE)](Thonburi%20Kingdom%20%281768%E2%80%931782%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1115291 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Thonburi Kingdom (1768–1782 CE)](Thonburi%20Kingdom%20%281768%E2%80%931782%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1115291 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sukhothai Kingdom (1238–1438 CE)](Sukhothai%20Kingdom%20%281238%E2%80%931438%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sukhothai Kingdom (1238–1438 CE)](Sukhothai%20Kingdom%20%281238%E2%80%931438%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

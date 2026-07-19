@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gorizia and Gradisca (1754–1919 CE)](Gorizia%20and%20Gradisca%20%281754%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2991244 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gorizia and Gradisca (1754–1919 CE)](Gorizia%20and%20Gradisca%20%281754%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2991244 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

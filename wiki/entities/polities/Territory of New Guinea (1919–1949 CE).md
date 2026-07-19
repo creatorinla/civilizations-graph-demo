@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q165008 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German New Guinea (1884–1919 CE)](German%20New%20Guinea%20%281884%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q165008 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Bosnia (1377–1463 CE)](Kingdom%20of%20Bosnia%20%281377%E2%80%931463%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3627069 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Bosnia (1377–1463 CE)](Kingdom%20of%20Bosnia%20%281377%E2%80%931463%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3627069 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Donji Kraji (1230–1463 CE)](Donji%20Kraji%20%281230%E2%80%931463%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q5296194 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Donji Kraji (1230–1463 CE)](Donji%20Kraji%20%281230%E2%80%931463%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q5296194 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

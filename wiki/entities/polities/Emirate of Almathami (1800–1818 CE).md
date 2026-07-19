@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q6534768 (1833–1919 CE)](Q6534768%20%281833%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q35583423 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q6534768 (1833–1919 CE)](Q6534768%20%281833%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q35583423 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q54965450 (until 1800 CE)](Q54965450%20%28until%201800%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q54965450 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q54965450 (until 1800 CE)](Q54965450%20%28until%201800%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q54965450 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

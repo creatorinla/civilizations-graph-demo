@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Provisional Government of the French Republic (1944–1946 CE)](Provisional%20Government%20of%20the%20French%20Republic%20%281944%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Provisional Government of the French Republic (1944–1946 CE)](Provisional%20Government%20of%20the%20French%20Republic%20%281944%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q783684 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Third Republic (1870–1940 CE)](French%20Third%20Republic%20%281870%E2%80%931940%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q70802 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Third Republic (1870–1940 CE)](French%20Third%20Republic%20%281870%E2%80%931940%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q70802 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

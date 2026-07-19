@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New Zealand (est. 1986 CE)](New%20Zealand%20%28est.%201986%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5148518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New Zealand (est. 1986 CE)](New%20Zealand%20%28est.%201986%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5148518 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

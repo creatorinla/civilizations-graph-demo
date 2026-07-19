@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1541699 succession statement (retrieved 2026-07-18) |
-| [Principality of Catalonia (1173–1714 CE)](Principality%20of%20Catalonia%20%281173%E2%80%931714%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15581 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1541699 succession statement (retrieved 2026-07-18) |
+| [Principality of Catalonia (1173–1714 CE)](Principality%20of%20Catalonia%20%281173%E2%80%931714%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15581 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

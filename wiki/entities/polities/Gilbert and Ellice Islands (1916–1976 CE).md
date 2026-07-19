@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Territory of Tuvalu (1976–1978 CE)](Territory%20of%20Tuvalu%20%281976%E2%80%931978%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21815222 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Territory of Tuvalu (1976–1978 CE)](Territory%20of%20Tuvalu%20%281976%E2%80%931978%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21815222 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ellice Islands (1892–1916 CE)](Ellice%20Islands%20%281892%E2%80%931916%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3593530 succession statement (retrieved 2026-07-18) |
-| [Gilbert Islands (1892–1916 CE)](Gilbert%20Islands%20%281892%E2%80%931916%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3593533 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ellice Islands (1892–1916 CE)](Ellice%20Islands%20%281892%E2%80%931916%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3593530 succession statement (retrieved 2026-07-18) |
+| [Gilbert Islands (1892–1916 CE)](Gilbert%20Islands%20%281892%E2%80%931916%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3593533 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -29,9 +29,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Trucial States (1820–1971 CE)](Trucial%20States%20%281820%E2%80%931971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1852345 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Trucial States (1820–1971 CE)](Trucial%20States%20%281820%E2%80%931971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1852345 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Delhi Sultanate (1206–1526 CE)](Delhi%20Sultanate%20%281206%E2%80%931526%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q229411 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Delhi Sultanate (1206–1526 CE)](Delhi%20Sultanate%20%281206%E2%80%931526%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q229411 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Chalukya Empire (973–1189 CE)](Western%20Chalukya%20Empire%20%28973%E2%80%931189%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14624218 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Chalukya Empire (973–1189 CE)](Western%20Chalukya%20Empire%20%28973%E2%80%931189%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14624218 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,28 +23,28 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Silla (57 BCE – 892 CE)](Silla%20%2857%20BCE%20%E2%80%93%20892%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q701273 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Silla (57 BCE – 892 CE)](Silla%20%2857%20BCE%20%E2%80%93%20892%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q701273 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jin (c. 300–108 BCE)](Jin%20%28c.%20300%E2%80%93108%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1155101 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jin (c. 300–108 BCE)](Jin%20%28c.%20300%E2%80%93108%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1155101 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bihwa Gaya](Bihwa%20Gaya.html) | has part | — | — | tentative | reference work | Wikidata Q4363955 containment statement (retrieved 2026-07-18) |
-| [Bijiguk (until 108 CE)](Bijiguk%20%28until%20108%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q16261647 containment statement (retrieved 2026-07-18) |
-| [Dabeolguk (until 108 CE)](Dabeolguk%20%28until%20108%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12590812 containment statement (retrieved 2026-07-18) |
-| [Eumjeupbeolguk (until 102 CE)](Eumjeupbeolguk%20%28until%20102%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12610676 containment statement (retrieved 2026-07-18) |
-| [Gunmiguk](Gunmiguk.html) | has part | — | — | tentative | reference work | Wikidata Q121593119 containment statement (retrieved 2026-07-18) |
-| [Nanmirimidongguk](Nanmirimidongguk.html) | has part | — | — | tentative | reference work | Wikidata Q121594882 containment statement (retrieved 2026-07-18) |
-| [Siljik (until 104 CE)](Siljik%20%28until%20104%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q7515161 containment statement (retrieved 2026-07-18) |
-| [Uyuguk](Uyuguk.html) | has part | — | — | tentative | reference work | Wikidata Q12608943 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bihwa Gaya](Bihwa%20Gaya.html) | has part | — | tentative | reference work | Wikidata Q4363955 containment statement (retrieved 2026-07-18) |
+| [Bijiguk (until 108 CE)](Bijiguk%20%28until%20108%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q16261647 containment statement (retrieved 2026-07-18) |
+| [Dabeolguk (until 108 CE)](Dabeolguk%20%28until%20108%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12590812 containment statement (retrieved 2026-07-18) |
+| [Eumjeupbeolguk (until 102 CE)](Eumjeupbeolguk%20%28until%20102%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12610676 containment statement (retrieved 2026-07-18) |
+| [Gunmiguk](Gunmiguk.html) | has part | — | tentative | reference work | Wikidata Q121593119 containment statement (retrieved 2026-07-18) |
+| [Nanmirimidongguk](Nanmirimidongguk.html) | has part | — | tentative | reference work | Wikidata Q121594882 containment statement (retrieved 2026-07-18) |
+| [Siljik (until 104 CE)](Siljik%20%28until%20104%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q7515161 containment statement (retrieved 2026-07-18) |
+| [Uyuguk](Uyuguk.html) | has part | — | tentative | reference work | Wikidata Q12608943 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

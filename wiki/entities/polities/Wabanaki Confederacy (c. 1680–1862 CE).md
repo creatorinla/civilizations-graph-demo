@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1322019 succession statement (retrieved 2026-07-18) |
-| [Nova Scotia (1713–1867 CE)](Nova%20Scotia%20%281713%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1322019 succession statement (retrieved 2026-07-18) |
+| [Nova Scotia (1713–1867 CE)](Nova%20Scotia%20%281713%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

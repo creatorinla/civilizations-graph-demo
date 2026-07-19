@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [March of Verona (952–1167 CE)](March%20of%20Verona%20%28952%E2%80%931167%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q701920 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [March of Verona (952–1167 CE)](March%20of%20Verona%20%28952%E2%80%931167%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q701920 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

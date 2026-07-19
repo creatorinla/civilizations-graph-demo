@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Berg (1380–1806 CE)](Duchy%20of%20Berg%20%281380%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21011805 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Berg (1380–1806 CE)](Duchy%20of%20Berg%20%281380%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21011805 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Hückeswagen (until 1260 CE)](County%20of%20H%C3%BCckeswagen%20%28until%201260%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q127699517 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Hückeswagen (until 1260 CE)](County%20of%20H%C3%BCckeswagen%20%28until%201260%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q127699517 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

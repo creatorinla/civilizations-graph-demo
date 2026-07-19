@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2252973 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2252973 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Florence (1115–1569 CE)](Republic%20of%20Florence%20%281115%E2%80%931569%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2252973 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Florence (1115–1569 CE)](Republic%20of%20Florence%20%281115%E2%80%931569%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2252973 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

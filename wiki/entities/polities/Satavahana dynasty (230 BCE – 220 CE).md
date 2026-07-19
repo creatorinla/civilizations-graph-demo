@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
-| [Vakataka empire (250–500 CE)](Vakataka%20empire%20%28250%E2%80%93500%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1501306 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Pallava dynasty (275–897 CE)](Pallava%20dynasty%20%28275%E2%80%93897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q466803 succession statement (retrieved 2026-07-18) |
+| [Vakataka empire (250–500 CE)](Vakataka%20empire%20%28250%E2%80%93500%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1501306 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Maurya empire (322–185 BCE)](Maurya%20empire%20%28322%E2%80%93185%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5257 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Maurya empire (322–185 BCE)](Maurya%20empire%20%28322%E2%80%93185%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q5257 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

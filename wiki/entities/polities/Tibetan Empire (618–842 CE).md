@@ -27,11 +27,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sumpa](Sumpa.html) | transition | — | — | tentative | reference work | Wikidata Q7638035 succession statement (retrieved 2026-07-18) |
-| [Tuyuhun (285–672 CE)](Tuyuhun%20%28285%E2%80%93672%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2431480 succession statement (retrieved 2026-07-18) |
-| [Zhangzhung (c. 500 BCE – 625 CE)](Zhangzhung%20%28c.%20500%20BCE%20%E2%80%93%20625%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2431480 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sumpa](Sumpa.html) | transition | — | tentative | reference work | Wikidata Q7638035 succession statement (retrieved 2026-07-18) |
+| [Tuyuhun (285–672 CE)](Tuyuhun%20%28285%E2%80%93672%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2431480 succession statement (retrieved 2026-07-18) |
+| [Zhangzhung (c. 500 BCE – 625 CE)](Zhangzhung%20%28c.%20500%20BCE%20%E2%80%93%20625%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2431480 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

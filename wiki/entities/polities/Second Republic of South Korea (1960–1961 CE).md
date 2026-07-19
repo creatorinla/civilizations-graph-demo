@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Third Republic of South Korea (1963–1972 CE)](Third%20Republic%20of%20South%20Korea%20%281963%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q487687 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Third Republic of South Korea (1963–1972 CE)](Third%20Republic%20of%20South%20Korea%20%281963%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q487687 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Republic of South Korea (1948–1960 CE)](First%20Republic%20of%20South%20Korea%20%281948%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q491559 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Republic of South Korea (1948–1960 CE)](First%20Republic%20of%20South%20Korea%20%281948%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q491559 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

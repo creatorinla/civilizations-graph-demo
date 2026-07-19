@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q469837 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q469837 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [lordship of Lichtenberg (c. 1200–1480 CE)](lordship%20of%20Lichtenberg%20%28c.%201200%E2%80%931480%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q320530 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [lordship of Lichtenberg (c. 1200–1480 CE)](lordship%20of%20Lichtenberg%20%28c.%201200%E2%80%931480%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q320530 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

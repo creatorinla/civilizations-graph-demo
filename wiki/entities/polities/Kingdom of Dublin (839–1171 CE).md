@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lordship of Ireland (1171–1542 CE)](Lordship%20of%20Ireland%20%281171%E2%80%931542%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q844250 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lordship of Ireland (1171–1542 CE)](Lordship%20of%20Ireland%20%281171%E2%80%931542%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q844250 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

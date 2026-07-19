@@ -25,10 +25,10 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kalmar Union (1397–1523 CE)](Kalmar%20Union%20%281397%E2%80%931523%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
-| [Union between Sweden and Norway (1814–1905 CE)](Union%20between%20Sweden%20and%20Norway%20%281814%E2%80%931905%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kalmar Union (1397–1523 CE)](Kalmar%20Union%20%281397%E2%80%931523%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| [Union between Sweden and Norway (1814–1905 CE)](Union%20between%20Sweden%20and%20Norway%20%281814%E2%80%931905%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

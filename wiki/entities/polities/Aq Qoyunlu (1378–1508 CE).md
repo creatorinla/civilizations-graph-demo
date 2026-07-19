@@ -28,9 +28,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Safavid Iran (1501–1736 CE)](Safavid%20Iran%20%281501%E2%80%931736%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Safavid Iran (1501–1736 CE)](Safavid%20Iran%20%281501%E2%80%931736%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

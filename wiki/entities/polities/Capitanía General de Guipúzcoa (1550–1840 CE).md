@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [capitanía general de las Vascongadas (1840–1931 CE)](capitan%C3%ADa%20general%20de%20las%20Vascongadas%20%281840%E2%80%931931%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q107463435 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [capitanía general de las Vascongadas (1840–1931 CE)](capitan%C3%ADa%20general%20de%20las%20Vascongadas%20%281840%E2%80%931931%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q107463435 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

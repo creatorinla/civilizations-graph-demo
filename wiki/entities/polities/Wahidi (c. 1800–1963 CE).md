@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federation of South Arabia (1962–1967 CE)](Federation%20of%20South%20Arabia%20%281962%E2%80%931967%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4105363 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federation of South Arabia (1962–1967 CE)](Federation%20of%20South%20Arabia%20%281962%E2%80%931967%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4105363 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

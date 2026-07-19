@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Islamic State of Afghanistan (1992–2002 CE)](Islamic%20State%20of%20Afghanistan%20%281992%E2%80%932002%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1415585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Islamic State of Afghanistan (1992–2002 CE)](Islamic%20State%20of%20Afghanistan%20%281992%E2%80%932002%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1415585 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Afghanistan (1973–1978 CE)](Republic%20of%20Afghanistan%20%281973%E2%80%931978%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Afghanistan (1973–1978 CE)](Republic%20of%20Afghanistan%20%281973%E2%80%931978%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1415128 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

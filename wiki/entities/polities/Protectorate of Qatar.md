@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qatar (est. 1870 CE)](Qatar%20%28est.%201870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21816812 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qatar (est. 1870 CE)](Qatar%20%28est.%201870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21816812 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

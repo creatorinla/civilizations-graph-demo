@@ -26,22 +26,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Galicia–Volhynia (1199–1349 CE)](Kingdom%20of%20Galicia%E2%80%93Volhynia%20%281199%E2%80%931349%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3403551 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Galicia–Volhynia (1199–1349 CE)](Kingdom%20of%20Galicia%E2%80%93Volhynia%20%281199%E2%80%931349%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3403551 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Terebovlia (1048–1141 CE)](Principality%20of%20Terebovlia%20%281048%E2%80%931141%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3403551 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Terebovlia (1048–1141 CE)](Principality%20of%20Terebovlia%20%281048%E2%80%931141%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3403551 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3403551 containment statement (retrieved 2026-07-18) |
-| [Kingdom of Galicia–Volhynia (1199–1349 CE)](Kingdom%20of%20Galicia%E2%80%93Volhynia%20%281199%E2%80%931349%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3403551 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3403551 containment statement (retrieved 2026-07-18) |
+| [Kingdom of Galicia–Volhynia (1199–1349 CE)](Kingdom%20of%20Galicia%E2%80%93Volhynia%20%281199%E2%80%931349%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3403551 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

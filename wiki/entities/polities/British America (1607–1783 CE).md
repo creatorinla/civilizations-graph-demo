@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [English overseas possession (est. c. 1580 CE)](English%20overseas%20possession%20%28est.%20c.%201580%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q258532 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [English overseas possession (est. c. 1580 CE)](English%20overseas%20possession%20%28est.%20c.%201580%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q258532 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

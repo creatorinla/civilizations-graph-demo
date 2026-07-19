@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Portuguese Guinea (1474–1974 CE)](Portuguese%20Guinea%20%281474%E2%80%931974%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1007 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Portuguese Guinea (1474–1974 CE)](Portuguese%20Guinea%20%281474%E2%80%931974%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1007 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

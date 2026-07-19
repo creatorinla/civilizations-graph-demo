@@ -19,11 +19,11 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Province of New Jersey (1664–1776 CE)](Province%20of%20New%20Jersey%20%281664%E2%80%931776%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q6841282 containment statement (retrieved 2026-07-18) |
-| [Province of New York (1664–1783 CE)](Province%20of%20New%20York%20%281664%E2%80%931783%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q769668 containment statement (retrieved 2026-07-18) |
-| [Province of Pennsylvania (1681–1787 CE)](Province%20of%20Pennsylvania%20%281681%E2%80%931787%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q6841282 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Province of New Jersey (1664–1776 CE)](Province%20of%20New%20Jersey%20%281664%E2%80%931776%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q6841282 containment statement (retrieved 2026-07-18) |
+| [Province of New York (1664–1783 CE)](Province%20of%20New%20York%20%281664%E2%80%931783%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q769668 containment statement (retrieved 2026-07-18) |
+| [Province of Pennsylvania (1681–1787 CE)](Province%20of%20Pennsylvania%20%281681%E2%80%931787%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q6841282 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

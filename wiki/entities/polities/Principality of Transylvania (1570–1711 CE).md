@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Transylvania (1711–1867 CE)](Principality%20of%20Transylvania%20%281711%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3113481 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Transylvania (1711–1867 CE)](Principality%20of%20Transylvania%20%281711%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3113481 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Eastern Hungarian Kingdom (1526–1570 CE)](Eastern%20Hungarian%20Kingdom%20%281526%E2%80%931570%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q655621 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Eastern Hungarian Kingdom (1526–1570 CE)](Eastern%20Hungarian%20Kingdom%20%281526%E2%80%931570%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q655621 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Syrian Republic under French mandate (1930–1946 CE)](Syrian%20Republic%20under%20French%20mandate%20%281930%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q108868568 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Syrian Republic under French mandate (1930–1946 CE)](Syrian%20Republic%20under%20French%20mandate%20%281930%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q108868568 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alawite Territory (1920–1922 CE)](Alawite%20Territory%20%281920%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25432445 succession statement (retrieved 2026-07-18) |
-| [Syrian Federation (1922–1925 CE)](Syrian%20Federation%20%281922%E2%80%931925%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183911 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Alawite Territory (1920–1922 CE)](Alawite%20Territory%20%281920%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25432445 succession statement (retrieved 2026-07-18) |
+| [Syrian Federation (1922–1925 CE)](Syrian%20Federation%20%281922%E2%80%931925%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183911 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

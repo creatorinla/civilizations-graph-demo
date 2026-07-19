@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Empire of Haiti (1804–1806 CE)](First%20Empire%20of%20Haiti%20%281804%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2150951 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Empire of Haiti (1804–1806 CE)](First%20Empire%20of%20Haiti%20%281804%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2150951 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

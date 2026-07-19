@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Socialist Republic of Albania (1946–1992 CE)](People%27s%20Socialist%20Republic%20of%20Albania%20%281946%E2%80%931992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
-| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Socialist Republic of Albania (1946–1992 CE)](People%27s%20Socialist%20Republic%20of%20Albania%20%281946%E2%80%931992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
+| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian protectorate of Albania (1939–1943 CE)](Italian%20protectorate%20of%20Albania%20%281939%E2%80%931943%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1448131 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian protectorate of Albania (1939–1943 CE)](Italian%20protectorate%20of%20Albania%20%281939%E2%80%931943%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1448131 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

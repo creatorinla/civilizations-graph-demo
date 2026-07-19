@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bornu Empire (1387–1893 CE)](Bornu%20Empire%20%281387%E2%80%931893%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1389743 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bornu Empire (1387–1893 CE)](Bornu%20Empire%20%281387%E2%80%931893%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1389743 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

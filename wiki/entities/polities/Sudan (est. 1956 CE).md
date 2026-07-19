@@ -32,10 +32,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Anglo-Egyptian Sudan (1899–1956 CE)](Anglo-Egyptian%20Sudan%20%281899%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1049 succession statement (retrieved 2026-07-18) |
-| [Republic of Sudan (1985–2019 CE)](Republic%20of%20Sudan%20%281985%E2%80%932019%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5866720 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Anglo-Egyptian Sudan (1899–1956 CE)](Anglo-Egyptian%20Sudan%20%281899%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1049 succession statement (retrieved 2026-07-18) |
+| [Republic of Sudan (1985–2019 CE)](Republic%20of%20Sudan%20%281985%E2%80%932019%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5866720 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

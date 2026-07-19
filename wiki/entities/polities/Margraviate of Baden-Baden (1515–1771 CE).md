@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Margraviate of Baden (1771–1803 CE)](Margraviate%20of%20Baden%20%281771%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20011161 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Margraviate of Baden (1771–1803 CE)](Margraviate%20of%20Baden%20%281771%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20011161 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Margraviate of Baden (1112–1535 CE)](Margraviate%20of%20Baden%20%281112%E2%80%931535%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131545583 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Margraviate of Baden (1112–1535 CE)](Margraviate%20of%20Baden%20%281112%E2%80%931535%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131545583 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

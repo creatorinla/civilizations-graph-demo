@@ -28,16 +28,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Palembang (1445–1659 CE)](Kingdom%20of%20Palembang%20%281445%E2%80%931659%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q112963228 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Singapura (1299–1398 CE)](Kingdom%20of%20Singapura%20%281299%E2%80%931398%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q234197 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Palembang (1445–1659 CE)](Kingdom%20of%20Palembang%20%281445%E2%80%931659%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q112963228 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Singapura (1299–1398 CE)](Kingdom%20of%20Singapura%20%281299%E2%80%931398%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q234197 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Melayu (1183–1347 CE)](Melayu%20%281183%E2%80%931347%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3112053 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Melayu (1183–1347 CE)](Melayu%20%281183%E2%80%931347%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3112053 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

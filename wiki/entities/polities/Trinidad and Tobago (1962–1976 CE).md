@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Trinidad and Tobago (est. 1976 CE)](Trinidad%20and%20Tobago%20%28est.%201976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q754 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Trinidad and Tobago (est. 1976 CE)](Trinidad%20and%20Tobago%20%28est.%201976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q754 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colonial Trinidad and Tobago](Colonial%20Trinidad%20and%20Tobago.html) | transition | — | — | tentative | reference work | Wikidata Q21876053 succession statement (retrieved 2026-07-18) |
-| [Colony of Trinidad and Tobago (1889–1962 CE)](Colony%20of%20Trinidad%20and%20Tobago%20%281889%E2%80%931962%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q116282722 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colonial Trinidad and Tobago](Colonial%20Trinidad%20and%20Tobago.html) | transition | — | tentative | reference work | Wikidata Q21876053 succession statement (retrieved 2026-07-18) |
+| [Colony of Trinidad and Tobago (1889–1962 CE)](Colony%20of%20Trinidad%20and%20Tobago%20%281889%E2%80%931962%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q116282722 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

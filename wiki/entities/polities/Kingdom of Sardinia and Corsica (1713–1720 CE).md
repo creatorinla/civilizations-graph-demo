@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q2577303%29.html) | transition | — | — | tentative | reference work | Wikidata Q3932080 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q2577303%29.html) | transition | — | tentative | reference work | Wikidata Q3932080 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Sardinia (1324–1713 CE)](Kingdom%20of%20Sardinia%20%281324%E2%80%931713%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q55599391 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Sardinia (1324–1713 CE)](Kingdom%20of%20Sardinia%20%281324%E2%80%931713%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q55599391 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q165154%29.html) | has part | — | — | tentative | reference work | Wikidata Q3932080 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Sardinia (1720–1861 CE)](Kingdom%20of%20Sardinia%20%281720%E2%80%931861%20CE%29%20%28Q165154%29.html) | has part | — | tentative | reference work | Wikidata Q3932080 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

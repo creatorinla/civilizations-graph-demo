@@ -24,21 +24,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dominion of Ceylon (1948–1972 CE)](Dominion%20of%20Ceylon%20%281948%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dominion of Ceylon (1948–1972 CE)](Dominion%20of%20Ceylon%20%281948%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Kandy (1469–1815 CE)](Kingdom%20of%20Kandy%20%281469%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1530762 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Kandy (1469–1815 CE)](Kingdom%20of%20Kandy%20%281469%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1530762 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q918153 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q918153 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

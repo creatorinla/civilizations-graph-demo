@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Comoros (est. 1975 CE)](Comoros%20%28est.%201975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16674377 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Comoros (est. 1975 CE)](Comoros%20%28est.%201975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16674377 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of the Comoros (1975–1978 CE)](State%20of%20the%20Comoros%20%281975%E2%80%931978%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of the Comoros (1975–1978 CE)](State%20of%20the%20Comoros%20%281975%E2%80%931978%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

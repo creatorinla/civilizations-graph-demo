@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Islamic Republic of the Comoros (1978–2001 CE)](Federal%20Islamic%20Republic%20of%20the%20Comoros%20%281978%E2%80%932001%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Islamic Republic of the Comoros (1978–2001 CE)](Federal%20Islamic%20Republic%20of%20the%20Comoros%20%281978%E2%80%932001%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Territory of the Comores (1946–1975 CE)](Territory%20of%20the%20Comores%20%281946%E2%80%931975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Territory of the Comores (1946–1975 CE)](Territory%20of%20the%20Comores%20%281946%E2%80%931975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16685842 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Holstein-Itzehoe](Holstein-Itzehoe.html) | transition | — | — | tentative | reference work | Wikidata Q895481 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Holstein-Itzehoe](Holstein-Itzehoe.html) | transition | — | tentative | reference work | Wikidata Q895481 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Holstein-Itzehoe](Holstein-Itzehoe.html) | transition | — | — | tentative | reference work | Wikidata Q895481 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Holstein-Itzehoe](Holstein-Itzehoe.html) | transition | — | tentative | reference work | Wikidata Q895481 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

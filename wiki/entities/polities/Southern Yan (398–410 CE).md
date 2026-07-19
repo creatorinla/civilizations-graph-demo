@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Eastern Jin dynasty (317–420 CE)](Eastern%20Jin%20dynasty%20%28317%E2%80%93420%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1329439 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Eastern Jin dynasty (317–420 CE)](Eastern%20Jin%20dynasty%20%28317%E2%80%93420%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1329439 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Yan (384–409 CE)](Later%20Yan%20%28384%E2%80%93409%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1534482 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Yan (384–409 CE)](Later%20Yan%20%28384%E2%80%93409%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1534482 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

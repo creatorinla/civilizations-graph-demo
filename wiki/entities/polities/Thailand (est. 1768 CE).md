@@ -30,16 +30,16 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q869 succession statement (retrieved 2026-07-18) |
-| [Siam (1350–1939 CE)](Siam%20%281350%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1081620 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q869 succession statement (retrieved 2026-07-18) |
+| [Siam (1350–1939 CE)](Siam%20%281350%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1081620 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Association of Southeast Asian Nations (est. 1967 CE)](Association%20of%20Southeast%20Asian%20Nations%20%28est.%201967%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q7768 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Association of Southeast Asian Nations (est. 1967 CE)](Association%20of%20Southeast%20Asian%20Nations%20%28est.%201967%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q7768 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

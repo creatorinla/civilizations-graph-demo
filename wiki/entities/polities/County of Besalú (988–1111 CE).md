@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Catalonia (1173–1714 CE)](Principality%20of%20Catalonia%20%281173%E2%80%931714%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1541642 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Catalonia (1173–1714 CE)](Principality%20of%20Catalonia%20%281173%E2%80%931714%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1541642 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

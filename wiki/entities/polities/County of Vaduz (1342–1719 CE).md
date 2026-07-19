@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q66087897 (1719–1806 CE)](Q66087897%20%281719%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q66087897 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q66087897 (1719–1806 CE)](Q66087897%20%281719%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q66087897 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

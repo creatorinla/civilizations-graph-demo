@@ -26,18 +26,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal People's Republic of Yugoslavia (1945–1963 CE)](Federal%20People%27s%20Republic%20of%20Yugoslavia%20%281945%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1290149 succession statement (retrieved 2026-07-18) |
-| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
-| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal People's Republic of Yugoslavia (1945–1963 CE)](Federal%20People%27s%20Republic%20of%20Yugoslavia%20%281945%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1290149 succession statement (retrieved 2026-07-18) |
+| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
+| [Socialist Federal Republic of Yugoslavia (until 1992 CE)](Socialist%20Federal%20Republic%20of%20Yugoslavia%20%28until%201992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Yugoslavia (1929–1945 CE)](Kingdom%20of%20Yugoslavia%20%281929%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Independent State of Croatia (1941–1945 CE)](Independent%20State%20of%20Croatia%20%281941%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Yugoslavia (1929–1945 CE)](Kingdom%20of%20Yugoslavia%20%281929%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1277557 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Chu (206–202 BCE)](Western%20Chu%20%28206%E2%80%93202%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13414776 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Chu (206–202 BCE)](Western%20Chu%20%28206%E2%80%93202%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q13414776 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10878917 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q10878917 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

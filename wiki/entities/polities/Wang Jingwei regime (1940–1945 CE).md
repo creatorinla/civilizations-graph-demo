@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Reformed Government of the Republic of China (1938–1940 CE)](Reformed%20Government%20of%20the%20Republic%20of%20China%20%281938%E2%80%931940%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q708865 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Reformed Government of the Republic of China (1938–1940 CE)](Reformed%20Government%20of%20the%20Republic%20of%20China%20%281938%E2%80%931940%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q708865 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

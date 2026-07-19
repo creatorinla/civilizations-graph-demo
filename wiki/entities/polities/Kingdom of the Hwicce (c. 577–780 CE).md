@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Mercia (527–918 CE)](Kingdom%20of%20Mercia%20%28527%E2%80%93918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q733799 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Mercia (527–918 CE)](Kingdom%20of%20Mercia%20%28527%E2%80%93918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q733799 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

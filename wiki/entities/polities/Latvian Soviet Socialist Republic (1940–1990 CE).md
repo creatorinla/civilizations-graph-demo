@@ -31,22 +31,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Interwar Latvia (1918–1940 CE)](Interwar%20Latvia%20%281918%E2%80%931940%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
-| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Interwar Latvia (1918–1940 CE)](Interwar%20Latvia%20%281918%E2%80%931940%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
+| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q192180 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q192180 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Latvia (est. 1918 CE)](Latvia%20%28est.%201918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q192180 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

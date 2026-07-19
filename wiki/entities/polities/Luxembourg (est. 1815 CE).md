@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German Confederation (1815–1866 CE)](German%20Confederation%20%281815%E2%80%931866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q151624 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German Confederation (1815–1866 CE)](German%20Confederation%20%281815%E2%80%931866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q151624 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

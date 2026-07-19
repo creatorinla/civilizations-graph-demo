@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Mexican Empire (1822–1823 CE)](First%20Mexican%20Empire%20%281822%E2%80%931823%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q288200 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Mexican Empire (1822–1823 CE)](First%20Mexican%20Empire%20%281822%E2%80%931823%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q288200 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

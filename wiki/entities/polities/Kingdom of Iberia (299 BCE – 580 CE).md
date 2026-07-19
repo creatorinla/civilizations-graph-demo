@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q86675881 (55–129 CE)](Q86675881%20%2855%E2%80%93129%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q86675881 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q86675881 (55–129 CE)](Q86675881%20%2855%E2%80%93129%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q86675881 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q828665 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Fatimid Caliphate (909–1171 CE)](Fatimid%20Caliphate%20%28909%E2%80%931171%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q828665 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q828665 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q828665 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

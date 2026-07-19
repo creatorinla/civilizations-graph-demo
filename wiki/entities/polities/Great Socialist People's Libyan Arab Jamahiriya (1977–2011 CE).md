@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Libya (est. 1551 CE)](Libya%20%28est.%201551%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1016 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Libya (est. 1551 CE)](Libya%20%28est.%201551%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1016 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Libyan Arab Republic (1969–1977 CE)](Libyan%20Arab%20Republic%20%281969%E2%80%931977%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4843701 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Libyan Arab Republic (1969–1977 CE)](Libyan%20Arab%20Republic%20%281969%E2%80%931977%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4843701 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

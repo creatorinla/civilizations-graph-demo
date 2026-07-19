@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Newfoundland Colony (1610–1907 CE)](Newfoundland%20Colony%20%281610%E2%80%931907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2984260 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Newfoundland Colony (1610–1907 CE)](Newfoundland%20Colony%20%281610%E2%80%931907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2984260 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

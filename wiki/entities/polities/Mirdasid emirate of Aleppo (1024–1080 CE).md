@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hamdanid emirate of Aleppo (944–1024 CE)](Hamdanid%20emirate%20of%20Aleppo%20%28944%E2%80%931024%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q99469761 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hamdanid emirate of Aleppo (944–1024 CE)](Hamdanid%20emirate%20of%20Aleppo%20%28944%E2%80%931024%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q99469761 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

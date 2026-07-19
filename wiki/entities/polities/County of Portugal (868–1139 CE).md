@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1139807 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1139807 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

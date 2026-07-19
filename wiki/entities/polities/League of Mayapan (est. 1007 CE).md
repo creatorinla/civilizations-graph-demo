@@ -22,9 +22,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tabasco (c. 1200–1519 CE)](Tabasco%20%28c.%201200%E2%80%931519%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q18217294 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tabasco (c. 1200–1519 CE)](Tabasco%20%28c.%201200%E2%80%931519%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q18217294 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

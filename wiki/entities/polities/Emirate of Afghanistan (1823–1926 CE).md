@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Raj (1858–1947 CE)](British%20Raj%20%281858%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1335260 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Afghanistan (1926–1973 CE)](Kingdom%20of%20Afghanistan%20%281926%E2%80%931973%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1335260 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Raj (1858–1947 CE)](British%20Raj%20%281858%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1335260 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Afghanistan (1926–1973 CE)](Kingdom%20of%20Afghanistan%20%281926%E2%80%931973%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1335260 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

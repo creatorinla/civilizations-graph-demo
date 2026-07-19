@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q97940833 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of France (987–1791 CE)](Kingdom%20of%20France%20%28987%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q97940833 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Décapole (1354–1679 CE)](D%C3%A9capole%20%281354%E2%80%931679%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q184646 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Décapole (1354–1679 CE)](D%C3%A9capole%20%281354%E2%80%931679%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q184646 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kedah Sultanate (1136–1909 CE)](Kedah%20Sultanate%20%281136%E2%80%931909%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5326812 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kedah Sultanate (1136–1909 CE)](Kedah%20Sultanate%20%281136%E2%80%931909%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5326812 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

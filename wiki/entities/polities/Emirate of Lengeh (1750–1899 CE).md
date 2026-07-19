@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Al Qawasim (1560–1820 CE)](Emirate%20of%20Al%20Qawasim%20%281560%E2%80%931820%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131588685 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Al Qawasim (1560–1820 CE)](Emirate%20of%20Al%20Qawasim%20%281560%E2%80%931820%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131588685 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

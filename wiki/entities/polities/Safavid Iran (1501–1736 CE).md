@@ -25,22 +25,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Afsharid Iran (1736–1796 CE)](Afsharid%20Iran%20%281736%E2%80%931796%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63149558 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Afsharid Iran (1736–1796 CE)](Afsharid%20Iran%20%281736%E2%80%931796%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63149558 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Aq Qoyunlu (1378–1508 CE)](Aq%20Qoyunlu%20%281378%E2%80%931508%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
-| [Timurid Empire (1370–1507 CE)](Timurid%20Empire%20%281370%E2%80%931507%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Aq Qoyunlu (1378–1508 CE)](Aq%20Qoyunlu%20%281378%E2%80%931508%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
+| [Timurid Empire (1370–1507 CE)](Timurid%20Empire%20%281370%E2%80%931507%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18234383 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q18234383 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q18234383 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

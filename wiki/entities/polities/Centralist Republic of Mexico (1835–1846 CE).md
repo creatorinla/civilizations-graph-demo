@@ -24,19 +24,19 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [California Republic (1846–1846 CE)](California%20Republic%20%281846%E2%80%931846%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
-| [Republic of Texas (1836–1846 CE)](Republic%20of%20Texas%20%281836%E2%80%931846%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
-| [Republic of Yucatán (1841–1848 CE)](Republic%20of%20Yucat%C3%A1n%20%281841%E2%80%931848%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
-| [Republic of the Río Grande (1840–1840 CE)](Republic%20of%20the%20R%C3%ADo%20Grande%20%281840%E2%80%931840%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
-| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [California Republic (1846–1846 CE)](California%20Republic%20%281846%E2%80%931846%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| [Republic of Texas (1836–1846 CE)](Republic%20of%20Texas%20%281836%E2%80%931846%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| [Republic of Yucatán (1841–1848 CE)](Republic%20of%20Yucat%C3%A1n%20%281841%E2%80%931848%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| [Republic of the Río Grande (1840–1840 CE)](Republic%20of%20the%20R%C3%ADo%20Grande%20%281840%E2%80%931840%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Mexican Republic (1823–1835 CE)](First%20Mexican%20Republic%20%281823%E2%80%931835%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Mexican Republic (1823–1835 CE)](First%20Mexican%20Republic%20%281823%E2%80%931835%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

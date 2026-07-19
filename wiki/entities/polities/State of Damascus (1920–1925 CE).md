@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jabal Druze (1921–1936 CE)](Jabal%20Druze%20%281921%E2%80%931936%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146740 succession statement (retrieved 2026-07-18) |
-| [State of Syria (1925–1930 CE)](State%20of%20Syria%20%281925%E2%80%931930%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146562 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Jabal Druze (1921–1936 CE)](Jabal%20Druze%20%281921%E2%80%931936%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146740 succession statement (retrieved 2026-07-18) |
+| [State of Syria (1925–1930 CE)](State%20of%20Syria%20%281925%E2%80%931930%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146562 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

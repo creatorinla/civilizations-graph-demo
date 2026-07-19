@@ -25,11 +25,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Beylik of Tunis (1705–1881 CE)](Beylik%20of%20Tunis%20%281705%E2%80%931881%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4899891 succession statement (retrieved 2026-07-18) |
-| [French protectorate of Tunisia (1881–1956 CE)](French%20protectorate%20of%20Tunisia%20%281881%E2%80%931956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q948 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Tunisia (1956–1957 CE)](Kingdom%20of%20Tunisia%20%281956%E2%80%931957%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6412669 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Beylik of Tunis (1705–1881 CE)](Beylik%20of%20Tunis%20%281705%E2%80%931881%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4899891 succession statement (retrieved 2026-07-18) |
+| [French protectorate of Tunisia (1881–1956 CE)](French%20protectorate%20of%20Tunisia%20%281881%E2%80%931956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q948 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Tunisia (1956–1957 CE)](Kingdom%20of%20Tunisia%20%281956%E2%80%931957%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6412669 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

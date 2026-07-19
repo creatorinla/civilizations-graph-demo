@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chu (722–223 BCE)](Chu%20%28722%E2%80%93223%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5364563 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chu (722–223 BCE)](Chu%20%28722%E2%80%93223%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q5364563 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

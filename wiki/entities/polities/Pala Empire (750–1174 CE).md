@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q668412 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gupta Empire (320–550 CE)](Gupta%20Empire%20%28320%E2%80%93550%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q668412 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

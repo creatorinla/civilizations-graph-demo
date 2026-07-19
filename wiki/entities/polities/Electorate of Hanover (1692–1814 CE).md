@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Hanover (1814–1866 CE)](Kingdom%20of%20Hanover%20%281814%E2%80%931866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q706018 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Hanover (1814–1866 CE)](Kingdom%20of%20Hanover%20%281814%E2%80%931866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q706018 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brunswick-Lüneburg (1235–1806 CE)](Brunswick-L%C3%BCneburg%20%281235%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q556263 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brunswick-Lüneburg (1235–1806 CE)](Brunswick-L%C3%BCneburg%20%281235%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q556263 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

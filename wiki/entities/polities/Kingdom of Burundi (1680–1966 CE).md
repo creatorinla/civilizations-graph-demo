@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Burundi (est. 1962 CE)](Burundi%20%28est.%201962%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1192936 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Burundi (est. 1962 CE)](Burundi%20%28est.%201962%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1192936 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

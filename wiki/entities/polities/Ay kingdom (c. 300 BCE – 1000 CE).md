@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Venad (c. 1100–1729 CE)](Venad%20%28c.%201100%E2%80%931729%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3532158 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Venad (c. 1100–1729 CE)](Venad%20%28c.%201100%E2%80%931729%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3532158 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

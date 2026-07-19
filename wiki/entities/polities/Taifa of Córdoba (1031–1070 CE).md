@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Seville (1023–1091 CE)](Taifa%20of%20Seville%20%281023%E2%80%931091%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2285679 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Seville (1023–1091 CE)](Taifa%20of%20Seville%20%281023%E2%80%931091%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2285679 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -29,16 +29,16 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Finnish Socialist Workers' Republic (1918–1918 CE)](Finnish%20Socialist%20Workers%27%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1811029 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Finland (1918–1919 CE)](Kingdom%20of%20Finland%20%281918%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q615902 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Finnish Socialist Workers' Republic (1918–1918 CE)](Finnish%20Socialist%20Workers%27%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1811029 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Finland (1918–1919 CE)](Kingdom%20of%20Finland%20%281918%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q615902 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kalmar Union (1397–1523 CE)](Kalmar%20Union%20%281397%E2%80%931523%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kalmar Union (1397–1523 CE)](Kalmar%20Union%20%281397%E2%80%931523%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62623 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Maakhir (2007–2009 CE)](Maakhir%20%282007%E2%80%932009%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2621587 succession statement (retrieved 2026-07-18) |
-| [Northland State (2008–2009 CE)](Northland%20State%20%282008%E2%80%932009%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2621587 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Maakhir (2007–2009 CE)](Maakhir%20%282007%E2%80%932009%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2621587 succession statement (retrieved 2026-07-18) |
+| [Northland State (2008–2009 CE)](Northland%20State%20%282008%E2%80%932009%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2621587 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

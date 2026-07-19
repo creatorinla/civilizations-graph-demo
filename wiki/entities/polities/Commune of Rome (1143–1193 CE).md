@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170174 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170174 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Liang dynasty (502–587 CE)](Liang%20dynasty%20%28502%E2%80%93587%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1069868 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Liang dynasty (502–587 CE)](Liang%20dynasty%20%28502%E2%80%93587%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1069868 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Liu Song dynasty (420–479 CE)](Liu%20Song%20dynasty%20%28420%E2%80%93479%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q62456 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Liu Song dynasty (420–479 CE)](Liu%20Song%20dynasty%20%28420%E2%80%93479%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q62456 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern and Southern dynasties (420–589 CE)](Northern%20and%20Southern%20dynasties%20%28420%E2%80%93589%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62456 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern and Southern dynasties (420–589 CE)](Northern%20and%20Southern%20dynasties%20%28420%E2%80%93589%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62456 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

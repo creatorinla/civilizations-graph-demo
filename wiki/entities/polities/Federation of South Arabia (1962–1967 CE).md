@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q834486 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q834486 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wahidi (c. 1800–1963 CE)](Wahidi%20%28c.%201800%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4105363 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wahidi (c. 1800–1963 CE)](Wahidi%20%28c.%201800%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4105363 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duklja (854–1252 CE)](Duklja%20%28854%E2%80%931252%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1252942 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duklja (854–1252 CE)](Duklja%20%28854%E2%80%931252%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1252942 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

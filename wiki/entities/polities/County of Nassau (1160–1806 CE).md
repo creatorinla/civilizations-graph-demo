@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Nassau-Sonnenberg (1355–1390 CE)](Nassau-Sonnenberg%20%281355%E2%80%931390%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q51089496 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Nassau-Sonnenberg (1355–1390 CE)](Nassau-Sonnenberg%20%281355%E2%80%931390%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q51089496 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Military-Political System of Samos (1821–1834 CE)](Military-Political%20System%20of%20Samos%20%281821%E2%80%931834%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6851943 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Military-Political System of Samos (1821–1834 CE)](Military-Political%20System%20of%20Samos%20%281821%E2%80%931834%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6851943 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

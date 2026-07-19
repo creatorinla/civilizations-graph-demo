@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Songhai Empire (1464–1591 CE)](Songhai%20Empire%20%281464%E2%80%931591%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1493766 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Songhai Empire (1464–1591 CE)](Songhai%20Empire%20%281464%E2%80%931591%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1493766 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

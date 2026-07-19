@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Luxembourg (1353–1795 CE)](Duchy%20of%20Luxembourg%20%281353%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Luxembourg (1353–1795 CE)](Duchy%20of%20Luxembourg%20%281353%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lower Lotharingia (959–1190 CE)](Lower%20Lotharingia%20%28959%E2%80%931190%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lower Lotharingia (959–1190 CE)](Lower%20Lotharingia%20%28959%E2%80%931190%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5177890 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

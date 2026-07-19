@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Togoland (1916–1960 CE)](French%20Togoland%20%281916%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q797214 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Togoland (1916–1960 CE)](French%20Togoland%20%281916%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q797214 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

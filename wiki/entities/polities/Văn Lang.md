@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Âu Lạc (257–207 BCE)](%C3%82u%20L%E1%BA%A1c%20%28257%E2%80%93207%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1763996 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Âu Lạc (257–207 BCE)](%C3%82u%20L%E1%BA%A1c%20%28257%E2%80%93207%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1763996 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Hawaii (1894–1898 CE)](Republic%20of%20Hawaii%20%281894%E2%80%931898%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Hawaii (1894–1898 CE)](Republic%20of%20Hawaii%20%281894%E2%80%931898%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Hawaiʻi (1795–1895 CE)](Kingdom%20of%20Hawai%CA%BBi%20%281795%E2%80%931895%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Hawaiʻi (1795–1895 CE)](Kingdom%20of%20Hawai%CA%BBi%20%281795%E2%80%931895%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

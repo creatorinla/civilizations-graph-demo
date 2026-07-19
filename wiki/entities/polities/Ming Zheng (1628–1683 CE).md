@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q11088223 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q11088223 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

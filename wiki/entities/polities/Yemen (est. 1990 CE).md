@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q199841 succession statement (retrieved 2026-07-18) |
-| [Yemen Republic (1962–1990 CE)](Yemen%20Republic%20%281962%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q267584 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [South Yemen (1967–1990 CE)](South%20Yemen%20%281967%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q199841 succession statement (retrieved 2026-07-18) |
+| [Yemen Republic (1962–1990 CE)](Yemen%20Republic%20%281962%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q267584 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

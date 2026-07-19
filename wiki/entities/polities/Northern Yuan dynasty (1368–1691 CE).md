@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8959 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8959 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

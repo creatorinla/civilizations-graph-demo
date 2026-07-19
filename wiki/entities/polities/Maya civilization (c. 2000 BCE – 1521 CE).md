@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of New Spain (1521–1535 CE)](Kingdom%20of%20New%20Spain%20%281521%E2%80%931535%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20978063 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of New Spain (1521–1535 CE)](Kingdom%20of%20New%20Spain%20%281521%E2%80%931535%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20978063 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

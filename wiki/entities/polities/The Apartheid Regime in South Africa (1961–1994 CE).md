@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Namibia (est. 1990 CE)](Namibia%20%28est.%201990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
-| [South Africa (est. 1910 CE)](South%20Africa%20%28est.%201910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Namibia (est. 1990 CE)](Namibia%20%28est.%201990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
+| [South Africa (est. 1910 CE)](South%20Africa%20%28est.%201910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Union of South Africa (1910–1961 CE)](Union%20of%20South%20Africa%20%281910%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Union of South Africa (1910–1961 CE)](Union%20of%20South%20Africa%20%281910%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456382 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

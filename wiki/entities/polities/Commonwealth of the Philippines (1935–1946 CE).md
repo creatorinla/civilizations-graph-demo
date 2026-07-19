@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Philippines (est. 1565 CE)](Philippines%20%28est.%201565%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146328 succession statement (retrieved 2026-07-18) |
-| [Third Republic of the Philippines (1945–1973 CE)](Third%20Republic%20of%20the%20Philippines%20%281945%E2%80%931973%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5870215 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Philippines (est. 1565 CE)](Philippines%20%28est.%201565%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146328 succession statement (retrieved 2026-07-18) |
+| [Third Republic of the Philippines (1945–1973 CE)](Third%20Republic%20of%20the%20Philippines%20%281945%E2%80%931973%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5870215 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

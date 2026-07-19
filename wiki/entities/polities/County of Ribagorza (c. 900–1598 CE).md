@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Aragon (1035–1707 CE)](Kingdom%20of%20Aragon%20%281035%E2%80%931707%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1297894 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Aragon (1035–1707 CE)](Kingdom%20of%20Aragon%20%281035%E2%80%931707%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1297894 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Old Great Bulgaria (632–668 CE)](Old%20Great%20Bulgaria%20%28632%E2%80%93668%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Old Great Bulgaria (632–668 CE)](Old%20Great%20Bulgaria%20%28632%E2%80%93668%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q146246 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Francia (481–843 CE)](Francia%20%28481%E2%80%93843%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q146246 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

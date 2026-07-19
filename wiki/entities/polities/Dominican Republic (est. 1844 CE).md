@@ -27,9 +27,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Antillean Confederation](Antillean%20Confederation.html) | has part | — | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Antillean Confederation](Antillean%20Confederation.html) | has part | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

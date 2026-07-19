@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Montenegro (est. 2006 CE)](Montenegro%20%28est.%202006%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q37024 succession statement (retrieved 2026-07-18) |
-| [Serbia (est. 2006 CE)](Serbia%20%28est.%202006%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q37024 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Montenegro (est. 2006 CE)](Montenegro%20%28est.%202006%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q37024 succession statement (retrieved 2026-07-18) |
+| [Serbia (est. 2006 CE)](Serbia%20%28est.%202006%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q37024 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Republic of Yugoslavia (1992–2003 CE)](Federal%20Republic%20of%20Yugoslavia%20%281992%E2%80%932003%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q838261 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Republic of Yugoslavia (1992–2003 CE)](Federal%20Republic%20of%20Yugoslavia%20%281992%E2%80%932003%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q838261 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

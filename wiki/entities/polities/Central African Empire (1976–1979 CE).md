@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Central African Republic (est. 1960 CE)](Central%20African%20Republic%20%28est.%201960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q929 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Central African Republic (est. 1960 CE)](Central%20African%20Republic%20%28est.%201960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q929 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

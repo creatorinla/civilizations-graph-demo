@@ -25,9 +25,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ancient Greece (c. 1200 BCE – 600 CE)](Ancient%20Greece%20%28c.%201200%20BCE%20%E2%80%93%20600%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q844930 containment statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ancient Greece (c. 1200 BCE – 600 CE)](Ancient%20Greece%20%28c.%201200%20BCE%20%E2%80%93%20600%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q844930 containment statement (retrieved 2026-07-11) |
 
 ## Sources
 

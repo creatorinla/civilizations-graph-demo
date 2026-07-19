@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gold Coast Colony (1821–1957 CE)](Gold%20Coast%20Colony%20%281821%E2%80%931957%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q23498721 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gold Coast Colony (1821–1957 CE)](Gold%20Coast%20Colony%20%281821%E2%80%931957%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q23498721 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

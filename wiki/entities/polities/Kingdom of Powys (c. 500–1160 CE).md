@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Powys Fadog (1160–1277 CE)](Powys%20Fadog%20%281160%E2%80%931277%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2564694 succession statement (retrieved 2026-07-18) |
-| [Powys Wenwynwyn (1160–1283 CE)](Powys%20Wenwynwyn%20%281160%E2%80%931283%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670639 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Powys Fadog (1160–1277 CE)](Powys%20Fadog%20%281160%E2%80%931277%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2564694 succession statement (retrieved 2026-07-18) |
+| [Powys Wenwynwyn (1160–1283 CE)](Powys%20Wenwynwyn%20%281160%E2%80%931283%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670639 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -34,16 +34,16 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qing dynasty (1636–1912 CE)](Qing%20dynasty%20%281636%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8733 succession statement (retrieved 2026-07-18) |
-| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qing dynasty (1636–1912 CE)](Qing%20dynasty%20%281636%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8733 succession statement (retrieved 2026-07-18) |
+| [Republic of China (1912–1949 CE)](Republic%20of%20China%20%281912%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13426199 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [China](China.html) | has part | — | — | tentative | reference work | Wikidata Q29520 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [China](China.html) | has part | — | tentative | reference work | Wikidata Q29520 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

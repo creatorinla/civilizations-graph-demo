@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colombia (est. 1810 CE)](Colombia%20%28est.%201810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
-| [Panama (est. 1903 CE)](Panama%20%28est.%201903%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colombia (est. 1810 CE)](Colombia%20%28est.%201810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
+| [Panama (est. 1903 CE)](Panama%20%28est.%201903%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1061488 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Granadine Confederation (1858–1863 CE)](Granadine%20Confederation%20%281858%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1141215 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Granadine Confederation (1858–1863 CE)](Granadine%20Confederation%20%281858%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1141215 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

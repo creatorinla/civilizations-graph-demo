@@ -24,17 +24,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of British Columbia (est. 1866 CE)](Colony%20of%20British%20Columbia%20%28est.%201866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2514958 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of British Columbia (est. 1866 CE)](Colony%20of%20British%20Columbia%20%28est.%201866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2514958 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of the Queen Charlotte Islands (1853–1863 CE)](Colony%20of%20the%20Queen%20Charlotte%20Islands%20%281853%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4338908 succession statement (retrieved 2026-07-18) |
-| [Columbia District (1810–1858 CE)](Columbia%20District%20%281810%E2%80%931858%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2980922 succession statement (retrieved 2026-07-18) |
-| [Stickeen Territories (est. 1862 CE)](Stickeen%20Territories%20%28est.%201862%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1250208 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of the Queen Charlotte Islands (1853–1863 CE)](Colony%20of%20the%20Queen%20Charlotte%20Islands%20%281853%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4338908 succession statement (retrieved 2026-07-18) |
+| [Columbia District (1810–1858 CE)](Columbia%20District%20%281810%E2%80%931858%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2980922 succession statement (retrieved 2026-07-18) |
+| [Stickeen Territories (est. 1862 CE)](Stickeen%20Territories%20%28est.%201862%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1250208 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Fourth Republic of South Korea (1972–1981 CE)](Fourth%20Republic%20of%20South%20Korea%20%281972%E2%80%931981%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q488521 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Fourth Republic of South Korea (1972–1981 CE)](Fourth%20Republic%20of%20South%20Korea%20%281972%E2%80%931981%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q488521 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Republic of South Korea (1960–1961 CE)](Second%20Republic%20of%20South%20Korea%20%281960%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q487687 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Republic of South Korea (1960–1961 CE)](Second%20Republic%20of%20South%20Korea%20%281960%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q487687 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

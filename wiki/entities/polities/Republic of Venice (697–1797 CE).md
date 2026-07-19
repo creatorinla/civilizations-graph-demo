@@ -40,21 +40,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q131964 succession statement (retrieved 2026-07-18) |
-| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
-| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4948 succession statement (retrieved 2026-07-18) |
-| [Republic of Brescia (1797–1797 CE)](Republic%20of%20Brescia%20%281797%E2%80%931797%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456373 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q131964 succession statement (retrieved 2026-07-18) |
+| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
+| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4948 succession statement (retrieved 2026-07-18) |
+| [Republic of Brescia (1797–1797 CE)](Republic%20of%20Brescia%20%281797%E2%80%931797%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456373 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Italy (961–1806 CE)](Kingdom%20of%20Italy%20%28961%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q838931 succession statement (retrieved 2026-07-18) |
-| [Lordship of Padua (1318–1405 CE)](Lordship%20of%20Padua%20%281318%E2%80%931405%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q106395492 succession statement (retrieved 2026-07-18) |
-| [Patria del Friuli (1077–1433 CE)](Patria%20del%20Friuli%20%281077%E2%80%931433%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
-| [Signoria of Verona (1262–1405 CE)](Signoria%20of%20Verona%20%281262%E2%80%931405%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q106394714 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Italy (961–1806 CE)](Kingdom%20of%20Italy%20%28961%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q838931 succession statement (retrieved 2026-07-18) |
+| [Lordship of Padua (1318–1405 CE)](Lordship%20of%20Padua%20%281318%E2%80%931405%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q106395492 succession statement (retrieved 2026-07-18) |
+| [Patria del Friuli (1077–1433 CE)](Patria%20del%20Friuli%20%281077%E2%80%931433%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q23731257 succession statement (retrieved 2026-07-18) |
+| [Signoria of Verona (1262–1405 CE)](Signoria%20of%20Verona%20%281262%E2%80%931405%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q106394714 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

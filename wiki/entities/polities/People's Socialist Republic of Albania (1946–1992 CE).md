@@ -32,16 +32,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Albania (est. 1912 CE)](Albania%20%28est.%201912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q467864 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Albania (est. 1912 CE)](Albania%20%28est.%201912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q467864 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Albanian Kingdom (1943–1944 CE)](Albanian%20Kingdom%20%281943%E2%80%931944%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
-| [People's Republic of Albania (1946–1976 CE)](People%27s%20Republic%20of%20Albania%20%281946%E2%80%931976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19915237 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Albanian Kingdom (1943–1944 CE)](Albanian%20Kingdom%20%281943%E2%80%931944%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q777147 succession statement (retrieved 2026-07-18) |
+| [People's Republic of Albania (1946–1976 CE)](People%27s%20Republic%20of%20Albania%20%281946%E2%80%931976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19915237 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

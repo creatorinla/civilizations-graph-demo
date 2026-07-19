@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Middle Assyrian Empire (1363–912 BCE)](Middle%20Assyrian%20Empire%20%281363%E2%80%93912%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12642600 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Middle Assyrian Empire (1363–912 BCE)](Middle%20Assyrian%20Empire%20%281363%E2%80%93912%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q12642600 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

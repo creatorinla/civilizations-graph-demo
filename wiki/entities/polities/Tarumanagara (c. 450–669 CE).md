@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Galuh Kingdom (669–1482 CE)](Galuh%20Kingdom%20%28669%E2%80%931482%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5519387 succession statement (retrieved 2026-07-18) |
-| [Sunda Kingdom (669–1579 CE)](Sunda%20Kingdom%20%28669%E2%80%931579%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2247225 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Galuh Kingdom (669–1482 CE)](Galuh%20Kingdom%20%28669%E2%80%931482%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5519387 succession statement (retrieved 2026-07-18) |
+| [Sunda Kingdom (669–1579 CE)](Sunda%20Kingdom%20%28669%E2%80%931579%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2247225 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

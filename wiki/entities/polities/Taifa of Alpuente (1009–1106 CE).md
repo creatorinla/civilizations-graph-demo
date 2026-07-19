@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Almoravid dynasty (1040–1147 CE)](Almoravid%20dynasty%20%281040%E2%80%931147%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670895 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Almoravid dynasty (1040–1147 CE)](Almoravid%20dynasty%20%281040%E2%80%931147%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670895 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Caliphate of Córdoba (929–1031 CE)](Caliphate%20of%20C%C3%B3rdoba%20%28929%E2%80%931031%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670895 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Caliphate of Córdoba (929–1031 CE)](Caliphate%20of%20C%C3%B3rdoba%20%28929%E2%80%931031%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670895 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

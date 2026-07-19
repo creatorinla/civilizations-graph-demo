@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Negara Daha](Negara%20Daha.html) | transition | — | — | tentative | reference work | Wikidata Q12491044 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Negara Daha](Negara%20Daha.html) | transition | — | tentative | reference work | Wikidata Q12491044 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

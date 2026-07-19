@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Basutoland (1884–1966 CE)](Basutoland%20%281884%E2%80%931966%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1013 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Basutoland (1884–1966 CE)](Basutoland%20%281884%E2%80%931966%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1013 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

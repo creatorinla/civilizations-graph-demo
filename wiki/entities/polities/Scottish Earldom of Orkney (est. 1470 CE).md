@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Norwegian Jarldom of Orkney (892–1471 CE)](Norwegian%20Jarldom%20of%20Orkney%20%28892%E2%80%931471%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96323897 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Norwegian Jarldom of Orkney (892–1471 CE)](Norwegian%20Jarldom%20of%20Orkney%20%28892%E2%80%931471%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96323897 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

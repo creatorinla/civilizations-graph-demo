@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Bavaria (1806–1918 CE)](Kingdom%20of%20Bavaria%20%281806%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q256961 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Bavaria (1806–1918 CE)](Kingdom%20of%20Bavaria%20%281806%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q256961 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

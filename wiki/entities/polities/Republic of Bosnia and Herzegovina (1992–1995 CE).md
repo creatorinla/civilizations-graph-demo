@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bosnia and Herzegovina (est. 1992 CE)](Bosnia%20and%20Herzegovina%20%28est.%201992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1274468 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bosnia and Herzegovina (est. 1992 CE)](Bosnia%20and%20Herzegovina%20%28est.%201992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1274468 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

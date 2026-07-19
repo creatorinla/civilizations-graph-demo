@@ -27,16 +27,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Savoy (1003–1416 CE)](County%20of%20Savoy%20%281003%E2%80%931416%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1232887 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Savoy (1003–1416 CE)](County%20of%20Savoy%20%281003%E2%80%931416%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1232887 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Auriate](Auriate.html) | has part | — | — | tentative | reference work | Wikidata Q775958 containment statement (retrieved 2026-07-18) |
-| [county of Albenga (c. 800–1200 CE)](county%20of%20Albenga%20%28c.%20800%E2%80%931200%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q135650311 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Auriate](Auriate.html) | has part | — | tentative | reference work | Wikidata Q775958 containment statement (retrieved 2026-07-18) |
+| [county of Albenga (c. 800–1200 CE)](county%20of%20Albenga%20%28c.%20800%E2%80%931200%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q135650311 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

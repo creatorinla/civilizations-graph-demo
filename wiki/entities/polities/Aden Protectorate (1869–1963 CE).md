@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Protectorate of South Arabia (1963–1967 CE)](Protectorate%20of%20South%20Arabia%20%281963%E2%80%931967%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1865132 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Protectorate of South Arabia (1963–1967 CE)](Protectorate%20of%20South%20Arabia%20%281963%E2%80%931967%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1865132 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q3503550 (until 1869 CE)](Q3503550%20%28until%201869%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3503550 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q3503550 (until 1869 CE)](Q3503550%20%28until%201869%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3503550 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

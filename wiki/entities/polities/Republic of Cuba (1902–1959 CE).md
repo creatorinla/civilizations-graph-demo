@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cuba (est. 1898 CE)](Cuba%20%28est.%201898%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14905932 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cuba (est. 1898 CE)](Cuba%20%28est.%201898%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14905932 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United States Protectorate over Cuba (1898–1902 CE)](United%20States%20Protectorate%20over%20Cuba%20%281898%E2%80%931902%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14905932 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United States Protectorate over Cuba (1898–1902 CE)](United%20States%20Protectorate%20over%20Cuba%20%281898%E2%80%931902%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14905932 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

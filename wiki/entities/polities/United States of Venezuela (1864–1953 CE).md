@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Venezuela (1953–1999 CE)](Republic%20of%20Venezuela%20%281953%E2%80%931999%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21296156 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Venezuela (1953–1999 CE)](Republic%20of%20Venezuela%20%281953%E2%80%931999%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21296156 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Venezuela (1830–1864 CE)](State%20of%20Venezuela%20%281830%E2%80%931864%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q39501433 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Venezuela (1830–1864 CE)](State%20of%20Venezuela%20%281830%E2%80%931864%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q39501433 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

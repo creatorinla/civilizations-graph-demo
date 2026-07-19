@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian Socialist Federative Soviet Republic (1917–1922 CE)](Russian%20Socialist%20Federative%20Soviet%20Republic%20%281917%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2305208 succession statement (retrieved 2026-07-18) |
-| [Russian Soviet Federative Socialist Republic (1917–1991 CE)](Russian%20Soviet%20Federative%20Socialist%20Republic%20%281917%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2184 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian Socialist Federative Soviet Republic (1917–1922 CE)](Russian%20Socialist%20Federative%20Soviet%20Republic%20%281917%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2305208 succession statement (retrieved 2026-07-18) |
+| [Russian Soviet Federative Socialist Republic (1917–1991 CE)](Russian%20Soviet%20Federative%20Socialist%20Republic%20%281917%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2184 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

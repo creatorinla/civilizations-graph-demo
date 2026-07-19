@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of Mayotte and Dependencies (1886–1912 CE)](Colony%20of%20Mayotte%20and%20Dependencies%20%281886%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q25272716 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of Mayotte and Dependencies (1886–1912 CE)](Colony%20of%20Mayotte%20and%20Dependencies%20%281886%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q25272716 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

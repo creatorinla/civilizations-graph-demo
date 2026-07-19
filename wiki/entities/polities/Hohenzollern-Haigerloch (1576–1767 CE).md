@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hohenzollern-Sigmaringen (1576–1850 CE)](Hohenzollern-Sigmaringen%20%281576%E2%80%931850%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q316124 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hohenzollern-Sigmaringen (1576–1850 CE)](Hohenzollern-Sigmaringen%20%281576%E2%80%931850%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q316124 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zollern (1052–1576 CE)](Zollern%20%281052%E2%80%931576%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1154377 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zollern (1052–1576 CE)](Zollern%20%281052%E2%80%931576%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1154377 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

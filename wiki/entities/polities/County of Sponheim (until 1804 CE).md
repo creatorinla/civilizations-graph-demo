@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Vianden (until 1414 CE)](County%20of%20Vianden%20%28until%201414%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q110133597 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Vianden (until 1414 CE)](County%20of%20Vianden%20%28until%201414%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q110133597 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

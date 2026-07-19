@@ -21,15 +21,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cameroon (est. 1960 CE)](Cameroon%20%28est.%201960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cameroon (est. 1960 CE)](Cameroon%20%28est.%201960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q60023785 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

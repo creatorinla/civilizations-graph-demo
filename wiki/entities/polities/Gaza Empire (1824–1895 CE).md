@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Amashangana Tribal Authority (est. 1897 CE)](Amashangana%20Tribal%20Authority%20%28est.%201897%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q81508094 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Amashangana Tribal Authority (est. 1897 CE)](Amashangana%20Tribal%20Authority%20%28est.%201897%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q81508094 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2784785 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2784785 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hunnic Empire (316–484 CE)](Hunnic%20Empire%20%28316%E2%80%93484%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10295972 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hunnic Empire (316–484 CE)](Hunnic%20Empire%20%28316%E2%80%93484%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q10295972 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

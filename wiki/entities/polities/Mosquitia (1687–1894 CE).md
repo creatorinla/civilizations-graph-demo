@@ -28,13 +28,13 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colombia (est. 1810 CE)](Colombia%20%28est.%201810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
-| [Costa Rica (est. 1821 CE)](Costa%20Rica%20%28est.%201821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
-| [Honduras (est. 1821 CE)](Honduras%20%28est.%201821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
-| [Nicaragua (est. 1821 CE)](Nicaragua%20%28est.%201821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
-| [Panama (est. 1903 CE)](Panama%20%28est.%201903%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colombia (est. 1810 CE)](Colombia%20%28est.%201810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| [Costa Rica (est. 1821 CE)](Costa%20Rica%20%28est.%201821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| [Honduras (est. 1821 CE)](Honduras%20%28est.%201821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| [Nicaragua (est. 1821 CE)](Nicaragua%20%28est.%201821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
+| [Panama (est. 1903 CE)](Panama%20%28est.%201903%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6037274 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

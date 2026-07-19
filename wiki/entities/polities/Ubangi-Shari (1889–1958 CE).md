@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Equatorial Africa (1910–1958 CE)](French%20Equatorial%20Africa%20%281910%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1421888 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Equatorial Africa (1910–1958 CE)](French%20Equatorial%20Africa%20%281910%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1421888 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dar al Kuti (1830–1912 CE)](Dar%20al%20Kuti%20%281830%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21590889 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dar al Kuti (1830–1912 CE)](Dar%20al%20Kuti%20%281830%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21590889 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

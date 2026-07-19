@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Islamic State of Afghanistan (1992–2002 CE)](Islamic%20State%20of%20Afghanistan%20%281992%E2%80%932002%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1415585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Islamic State of Afghanistan (1992–2002 CE)](Islamic%20State%20of%20Afghanistan%20%281992%E2%80%932002%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1415585 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

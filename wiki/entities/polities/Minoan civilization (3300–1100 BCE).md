@@ -30,9 +30,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mycenaean Greece (1600–1100 BCE)](Mycenaean%20Greece%20%281600%E2%80%931100%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q181264 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mycenaean Greece (1600–1100 BCE)](Mycenaean%20Greece%20%281600%E2%80%931100%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q181264 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

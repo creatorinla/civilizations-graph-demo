@@ -22,9 +22,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New Zealand (est. 1986 CE)](New%20Zealand%20%28est.%201986%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q664 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New Zealand (est. 1986 CE)](New%20Zealand%20%28est.%201986%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q664 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

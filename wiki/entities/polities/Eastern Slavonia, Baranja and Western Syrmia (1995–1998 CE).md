@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Croatia (est. 1991 CE)](Croatia%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5330471 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Croatia (est. 1991 CE)](Croatia%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5330471 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Serbian Krajina (1991–1995 CE)](Republic%20of%20Serbian%20Krajina%20%281991%E2%80%931995%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5330471 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Serbian Krajina (1991–1995 CE)](Republic%20of%20Serbian%20Krajina%20%281991%E2%80%931995%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5330471 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

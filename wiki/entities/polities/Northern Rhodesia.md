@@ -19,16 +19,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Rhodesia (1924–1964 CE)](Northern%20Rhodesia%20%281924%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Rhodesia (1924–1964 CE)](Northern%20Rhodesia%20%281924%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Barotziland-North-Western Rhodesia (1899–1911 CE)](Barotziland-North-Western%20Rhodesia%20%281899%E2%80%931911%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
-| [North-Eastern Rhodesia (1900–1911 CE)](North-Eastern%20Rhodesia%20%281900%E2%80%931911%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Barotziland-North-Western Rhodesia (1899–1911 CE)](Barotziland-North-Western%20Rhodesia%20%281899%E2%80%931911%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
+| [North-Eastern Rhodesia (1900–1911 CE)](North-Eastern%20Rhodesia%20%281900%E2%80%931911%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

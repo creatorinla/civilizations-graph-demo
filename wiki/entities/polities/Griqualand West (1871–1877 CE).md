@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Diggers Republic (1870–1871 CE)](Diggers%20Republic%20%281870%E2%80%931871%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21849591 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Diggers Republic (1870–1871 CE)](Diggers%20Republic%20%281870%E2%80%931871%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21849591 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mirdasid emirate of Aleppo (1024–1080 CE)](Mirdasid%20emirate%20of%20Aleppo%20%281024%E2%80%931080%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q99469761 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mirdasid emirate of Aleppo (1024–1080 CE)](Mirdasid%20emirate%20of%20Aleppo%20%281024%E2%80%931080%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q99469761 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

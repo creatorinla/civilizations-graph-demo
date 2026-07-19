@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tanzania (est. 1964 CE)](Tanzania%20%28est.%201964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q924 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tanzania (est. 1964 CE)](Tanzania%20%28est.%201964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q924 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sultanate of Zanzibar (1963–1964 CE)](Sultanate%20of%20Zanzibar%20%281963%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
-| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3574782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sultanate of Zanzibar (1963–1964 CE)](Sultanate%20of%20Zanzibar%20%281963%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q48769061 succession statement (retrieved 2026-07-18) |
+| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3574782 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

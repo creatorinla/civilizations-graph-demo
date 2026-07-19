@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13590051 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13590051 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q530670 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q530670 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

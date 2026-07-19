@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Venetian rule in the Ionian Islands (1363–1797 CE)](Venetian%20rule%20in%20the%20Ionian%20Islands%20%281363%E2%80%931797%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2484249 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Venetian rule in the Ionian Islands (1363–1797 CE)](Venetian%20rule%20in%20the%20Ionian%20Islands%20%281363%E2%80%931797%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2484249 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q149846 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Byzantine Empire (395–1453 CE)](Byzantine%20Empire%20%28395%E2%80%931453%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q149846 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

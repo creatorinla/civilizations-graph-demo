@@ -23,22 +23,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saadi dynasty (1549–1659 CE)](Saadi%20dynasty%20%281549%E2%80%931659%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1136188 succession statement (retrieved 2026-07-18) |
-| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saadi dynasty (1549–1659 CE)](Saadi%20dynasty%20%281549%E2%80%931659%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1136188 succession statement (retrieved 2026-07-18) |
+| [Sharifian Empire (est. 1510 CE)](Sharifian%20Empire%20%28est.%201510%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12183875 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Marinid dynasty (1215–1465 CE)](Marinid%20dynasty%20%281215%E2%80%931465%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q970799 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Marinid dynasty (1215–1465 CE)](Marinid%20dynasty%20%281215%E2%80%931465%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q970799 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Marinid dynasty (1215–1465 CE)](Marinid%20dynasty%20%281215%E2%80%931465%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q970799 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Marinid dynasty (1215–1465 CE)](Marinid%20dynasty%20%281215%E2%80%931465%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q970799 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

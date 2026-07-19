@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Jerusalem (1099–1291 CE)](Kingdom%20of%20Jerusalem%20%281099%E2%80%931291%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Jerusalem (1099–1291 CE)](Kingdom%20of%20Jerusalem%20%281099%E2%80%931291%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q282428 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

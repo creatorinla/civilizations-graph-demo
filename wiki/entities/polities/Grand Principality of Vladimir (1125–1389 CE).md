@@ -28,9 +28,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Principality of Moscow (1263–1547 CE)](Grand%20Principality%20of%20Moscow%20%281263%E2%80%931547%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170770 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Principality of Moscow (1263–1547 CE)](Grand%20Principality%20of%20Moscow%20%281263%E2%80%931547%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170770 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

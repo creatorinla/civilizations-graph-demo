@@ -29,18 +29,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Argentina (est. 1816 CE)](Argentina%20%28est.%201816%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q414 succession statement (retrieved 2026-07-18) |
-| [Argentine Confederation (1831–1861 CE)](Argentine%20Confederation%20%281831%E2%80%931861%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q832554 succession statement (retrieved 2026-07-18) |
-| [Upper Peru (until 1825 CE)](Upper%20Peru%20%28until%201825%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q769269 succession statement (retrieved 2026-07-18) |
-| [Uruguay (est. 1825 CE)](Uruguay%20%28est.%201825%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q738144 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Argentina (est. 1816 CE)](Argentina%20%28est.%201816%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q414 succession statement (retrieved 2026-07-18) |
+| [Argentine Confederation (1831–1861 CE)](Argentine%20Confederation%20%281831%E2%80%931861%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q832554 succession statement (retrieved 2026-07-18) |
+| [Upper Peru (until 1825 CE)](Upper%20Peru%20%28until%201825%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q769269 succession statement (retrieved 2026-07-18) |
+| [Uruguay (est. 1825 CE)](Uruguay%20%28est.%201825%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q738144 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Viceroyalty of the Río de la Plata (1776–1810 CE)](Viceroyalty%20of%20the%20R%C3%ADo%20de%20la%20Plata%20%281776%E2%80%931810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q738144 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Viceroyalty of the Río de la Plata (1776–1810 CE)](Viceroyalty%20of%20the%20R%C3%ADo%20de%20la%20Plata%20%281776%E2%80%931810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q738144 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

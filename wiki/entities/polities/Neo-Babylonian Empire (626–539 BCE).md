@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q624887 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q624887 succession statement (retrieved 2026-07-11) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Neo-Assyrian Empire (911–609 BCE)](Neo-Assyrian%20Empire%20%28911%E2%80%93609%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10914393 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Neo-Assyrian Empire (911–609 BCE)](Neo-Assyrian%20Empire%20%28911%E2%80%93609%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q10914393 succession statement (retrieved 2026-07-11) |
 
 ## Sources
 

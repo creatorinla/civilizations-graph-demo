@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Samos (1834–1912 CE)](Principality%20of%20Samos%20%281834%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6851943 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Samos (1834–1912 CE)](Principality%20of%20Samos%20%281834%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6851943 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

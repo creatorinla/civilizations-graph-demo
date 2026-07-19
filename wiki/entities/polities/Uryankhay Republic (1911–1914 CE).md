@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Uryankhay Krai (1914–1921 CE)](Uryankhay%20Krai%20%281914%E2%80%931921%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Uryankhay Krai (1914–1921 CE)](Uryankhay%20Krai%20%281914%E2%80%931921%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56282586 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

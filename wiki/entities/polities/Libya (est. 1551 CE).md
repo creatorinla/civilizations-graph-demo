@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Great Socialist People's Libyan Arab Jamahiriya (1977–2011 CE)](Great%20Socialist%20People%27s%20Libyan%20Arab%20Jamahiriya%20%281977%E2%80%932011%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1016 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Great Socialist People's Libyan Arab Jamahiriya (1977–2011 CE)](Great%20Socialist%20People%27s%20Libyan%20Arab%20Jamahiriya%20%281977%E2%80%932011%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1016 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

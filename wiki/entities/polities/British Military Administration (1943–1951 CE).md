@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Cyrenaica (1949–1951 CE)](Emirate%20of%20Cyrenaica%20%281949%E2%80%931951%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Libya (1951–1969 CE)](Kingdom%20of%20Libya%20%281951%E2%80%931969%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Cyrenaica (1949–1951 CE)](Emirate%20of%20Cyrenaica%20%281949%E2%80%931951%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Libya (1951–1969 CE)](Kingdom%20of%20Libya%20%281951%E2%80%931969%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Italian Libya (1934–1943 CE)](Italian%20Libya%20%281934%E2%80%931943%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Italian Libya (1934–1943 CE)](Italian%20Libya%20%281934%E2%80%931943%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

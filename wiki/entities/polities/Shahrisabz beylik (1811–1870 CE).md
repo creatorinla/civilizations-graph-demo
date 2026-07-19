@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Russian Empire (1721–1917 CE)](Russian%20Empire%20%281721%E2%80%931917%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21076366 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Russian Empire (1721–1917 CE)](Russian%20Empire%20%281721%E2%80%931917%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21076366 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

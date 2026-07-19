@@ -29,15 +29,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Massachusetts Bay Colony (1628–1684 CE)](Massachusetts%20Bay%20Colony%20%281628%E2%80%931684%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2079909 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Massachusetts Bay Colony (1628–1684 CE)](Massachusetts%20Bay%20Colony%20%281628%E2%80%931684%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2079909 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New England Colonies](New%20England%20Colonies.html) | has part | — | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New England Colonies](New%20England%20Colonies.html) | has part | — | tentative | reference work | Wikidata Q7007213 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

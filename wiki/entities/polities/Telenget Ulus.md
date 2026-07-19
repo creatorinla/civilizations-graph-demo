@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Chui Volost (1717–1913 CE)](Second%20Chui%20Volost%20%281717%E2%80%931913%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15921577 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Chui Volost (1717–1913 CE)](Second%20Chui%20Volost%20%281717%E2%80%931913%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15921577 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

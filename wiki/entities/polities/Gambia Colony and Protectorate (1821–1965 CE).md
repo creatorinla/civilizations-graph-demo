@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Protectorate of Gambia](Protectorate%20of%20Gambia.html) | has part | — | — | tentative | reference work | Wikidata Q23498712 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Protectorate of Gambia](Protectorate%20of%20Gambia.html) | has part | — | tentative | reference work | Wikidata Q23498712 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

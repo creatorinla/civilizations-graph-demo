@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1842362 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1842362 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crimean Regional Government (1918–1919 CE)](Crimean%20Regional%20Government%20%281918%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2703679 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crimean Regional Government (1918–1919 CE)](Crimean%20Regional%20Government%20%281918%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2703679 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

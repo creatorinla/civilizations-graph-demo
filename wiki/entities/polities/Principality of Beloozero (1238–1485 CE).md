@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q4299521 (1277–1493 CE)](Q4299521%20%281277%E2%80%931493%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4299521 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q4299521 (1277–1493 CE)](Q4299521%20%281277%E2%80%931493%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4299521 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

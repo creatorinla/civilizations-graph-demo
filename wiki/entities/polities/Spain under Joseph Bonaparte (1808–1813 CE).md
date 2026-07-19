@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Spain (1814–1833 CE)](Kingdom%20of%20Spain%20%281814%E2%80%931833%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15238138 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Spain (1814–1833 CE)](Kingdom%20of%20Spain%20%281814%E2%80%931833%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15238138 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Spain (1700–1873 CE)](Kingdom%20of%20Spain%20%281700%E2%80%931873%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Spain (1700–1873 CE)](Kingdom%20of%20Spain%20%281700%E2%80%931873%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

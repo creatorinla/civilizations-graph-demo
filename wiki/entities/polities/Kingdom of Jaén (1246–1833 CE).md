@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Arjona (1232–1238 CE)](Taifa%20of%20Arjona%20%281232%E2%80%931238%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11704201 succession statement (retrieved 2026-07-18) |
-| [Taifa of Baeza (1224–1226 CE)](Taifa%20of%20Baeza%20%281224%E2%80%931226%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2684394 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Arjona (1232–1238 CE)](Taifa%20of%20Arjona%20%281232%E2%80%931238%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11704201 succession statement (retrieved 2026-07-18) |
+| [Taifa of Baeza (1224–1226 CE)](Taifa%20of%20Baeza%20%281224%E2%80%931226%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2684394 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1617495 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1617495 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
-| [Wabanaki Confederacy (c. 1680–1862 CE)](Wabanaki%20Confederacy%20%28c.%201680%E2%80%931862%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Acadia (1604–1713 CE)](Acadia%20%281604%E2%80%931713%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
+| [Wabanaki Confederacy (c. 1680–1862 CE)](Wabanaki%20Confederacy%20%28c.%201680%E2%80%931862%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q98931415 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

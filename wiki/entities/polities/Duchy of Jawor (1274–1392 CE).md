@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q9292981](Q9292981.html) | transition | — | — | tentative | reference work | Wikidata Q9292981 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q9292981](Q9292981.html) | transition | — | tentative | reference work | Wikidata Q9292981 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

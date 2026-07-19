@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
-| [Federation of Nigeria (1960–1963 CE)](Federation%20of%20Nigeria%20%281960%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5440850 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Cameroons (1919–1961 CE)](British%20Cameroons%20%281919%E2%80%931961%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028835 succession statement (retrieved 2026-07-18) |
+| [Federation of Nigeria (1960–1963 CE)](Federation%20of%20Nigeria%20%281960%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5440850 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

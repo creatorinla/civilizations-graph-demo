@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yan (Zang Tu) (209–202 BCE)](Yan%20%28Zang%20Tu%29%20%28209%E2%80%93202%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17036011 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yan (Zang Tu) (209–202 BCE)](Yan%20%28Zang%20Tu%29%20%28209%E2%80%93202%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q17036011 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15902270 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qin dynasty (221–206 BCE)](Qin%20dynasty%20%28221%E2%80%93206%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q15902270 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

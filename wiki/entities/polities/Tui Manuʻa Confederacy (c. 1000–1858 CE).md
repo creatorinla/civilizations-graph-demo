@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Samoa (1858–1899 CE)](Kingdom%20of%20Samoa%20%281858%E2%80%931899%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q137517992 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Samoa (1858–1899 CE)](Kingdom%20of%20Samoa%20%281858%E2%80%931899%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q137517992 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

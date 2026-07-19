@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taira administration (1167–1185 CE)](Taira%20administration%20%281167%E2%80%931185%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132869051 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taira administration (1167–1185 CE)](Taira%20administration%20%281167%E2%80%931185%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132869051 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Japan during the Rekkan Politics period (866–1086 CE)](Japan%20during%20the%20Rekkan%20Politics%20period%20%28866%E2%80%931086%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q132869051 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Japan during the Rekkan Politics period (866–1086 CE)](Japan%20during%20the%20Rekkan%20Politics%20period%20%28866%E2%80%931086%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q132869051 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

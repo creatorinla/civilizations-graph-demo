@@ -26,16 +26,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Empire of Japan (1868–1947 CE)](Empire%20of%20Japan%20%281868%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q205662 succession statement (retrieved 2026-07-18) |
-| [Government of Meiji Japan (1868–1912 CE)](Government%20of%20Meiji%20Japan%20%281868%E2%80%931912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1322181 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Empire of Japan (1868–1947 CE)](Empire%20of%20Japan%20%281868%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q205662 succession statement (retrieved 2026-07-18) |
+| [Government of Meiji Japan (1868–1912 CE)](Government%20of%20Meiji%20Japan%20%281868%E2%80%931912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1322181 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Toyotomi government (c. 1580–1603 CE)](Toyotomi%20government%20%28c.%201580%E2%80%931603%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Toyotomi government (c. 1580–1603 CE)](Toyotomi%20government%20%28c.%201580%E2%80%931603%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11634225 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

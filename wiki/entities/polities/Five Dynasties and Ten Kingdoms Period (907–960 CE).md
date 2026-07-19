@@ -36,19 +36,19 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Song dynasty (960–1279 CE)](Song%20dynasty%20%28960%E2%80%931279%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q242115 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Song dynasty (960–1279 CE)](Song%20dynasty%20%28960%E2%80%931279%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q242115 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Later Han dynasty (947–951 CE)](Later%20Han%20dynasty%20%28947%E2%80%93951%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1069829 containment statement (retrieved 2026-07-18) |
-| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1154540 containment statement (retrieved 2026-07-18) |
-| [Later Liang dynasty (907–923 CE)](Later%20Liang%20dynasty%20%28907%E2%80%93923%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q783489 containment statement (retrieved 2026-07-18) |
-| [Later Zhou dynasty (951–960 CE)](Later%20Zhou%20dynasty%20%28951%E2%80%93960%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1154556 containment statement (retrieved 2026-07-18) |
-| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Later Han dynasty (947–951 CE)](Later%20Han%20dynasty%20%28947%E2%80%93951%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1069829 containment statement (retrieved 2026-07-18) |
+| [Later Jin dynasty (936–947 CE)](Later%20Jin%20dynasty%20%28936%E2%80%93947%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1154540 containment statement (retrieved 2026-07-18) |
+| [Later Liang dynasty (907–923 CE)](Later%20Liang%20dynasty%20%28907%E2%80%93923%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q783489 containment statement (retrieved 2026-07-18) |
+| [Later Zhou dynasty (951–960 CE)](Later%20Zhou%20dynasty%20%28951%E2%80%93960%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1154556 containment statement (retrieved 2026-07-18) |
+| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -38,15 +38,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Curaçao and Dependencies (1815–1954 CE)](Cura%C3%A7ao%20and%20Dependencies%20%281815%E2%80%931954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1953333 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Curaçao and Dependencies (1815–1954 CE)](Cura%C3%A7ao%20and%20Dependencies%20%281815%E2%80%931954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1953333 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dutch Empire (1624–1975 CE)](Dutch%20Empire%20%281624%E2%80%931975%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q130654 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dutch Empire (1624–1975 CE)](Dutch%20Empire%20%281624%E2%80%931975%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q130654 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

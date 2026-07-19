@@ -27,10 +27,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Congo (1882–1906 CE)](French%20Congo%20%281882%E2%80%931906%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q265319 succession statement (retrieved 2026-07-18) |
-| [Middle Congo (est. 1903 CE)](Middle%20Congo%20%28est.%201903%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1000 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Congo (1882–1906 CE)](French%20Congo%20%281882%E2%80%931906%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q265319 succession statement (retrieved 2026-07-18) |
+| [Middle Congo (est. 1903 CE)](Middle%20Congo%20%28est.%201903%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1000 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

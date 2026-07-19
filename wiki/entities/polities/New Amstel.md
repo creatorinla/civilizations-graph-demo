@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New Sweden (1638–1655 CE)](New%20Sweden%20%281638%E2%80%931655%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q13075504 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New Sweden (1638–1655 CE)](New%20Sweden%20%281638%E2%80%931655%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q13075504 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

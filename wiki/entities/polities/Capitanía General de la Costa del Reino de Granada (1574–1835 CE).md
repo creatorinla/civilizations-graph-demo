@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Capitanía General de Granada (1492–1574 CE)](Capitan%C3%ADa%20General%20de%20Granada%20%281492%E2%80%931574%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q39080885 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Capitanía General de Granada (1492–1574 CE)](Capitan%C3%ADa%20General%20de%20Granada%20%281492%E2%80%931574%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q39080885 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

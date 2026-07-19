@@ -26,10 +26,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Norway (est. 1905 CE)](Norway%20%28est.%201905%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
-| [Sweden (est. c. 900 CE)](Sweden%20%28est.%20c.%20900%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Norway (est. 1905 CE)](Norway%20%28est.%201905%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
+| [Sweden (est. c. 900 CE)](Sweden%20%28est.%20c.%20900%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62589 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

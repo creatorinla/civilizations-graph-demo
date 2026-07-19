@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Neustria (511–977 CE)](Neustria%20%28511%E2%80%93977%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q106577 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Neustria (511–977 CE)](Neustria%20%28511%E2%80%93977%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q106577 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1247508 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1247508 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

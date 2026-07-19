@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zollern (1052–1576 CE)](Zollern%20%281052%E2%80%931576%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1154377 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zollern (1052–1576 CE)](Zollern%20%281052%E2%80%931576%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1154377 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

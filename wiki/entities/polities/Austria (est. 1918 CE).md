@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austria–Hungary (1867–1918 CE)](Austria%E2%80%93Hungary%20%281867%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q40 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austria–Hungary (1867–1918 CE)](Austria%E2%80%93Hungary%20%281867%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q40 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

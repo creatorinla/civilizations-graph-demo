@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Diauehi (c. 1200–760 BCE)](Diauehi%20%28c.%201200%E2%80%93760%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q154853 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Diauehi (c. 1200–760 BCE)](Diauehi%20%28c.%201200%E2%80%93760%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q154853 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

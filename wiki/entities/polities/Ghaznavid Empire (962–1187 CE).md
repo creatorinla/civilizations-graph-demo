@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Saffarid State (861–900 CE)](Saffarid%20State%20%28861%E2%80%93900%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q39082339 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Saffarid State (861–900 CE)](Saffarid%20State%20%28861%E2%80%93900%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q39082339 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sui dynasty (581–618 CE)](Sui%20dynasty%20%28581%E2%80%93618%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q49788484 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sui dynasty (581–618 CE)](Sui%20dynasty%20%28581%E2%80%93618%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q49788484 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

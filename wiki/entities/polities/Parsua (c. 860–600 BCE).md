@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Anshan Persia (4000 BCE – 675 CE)](Anshan%20Persia%20%284000%20BCE%20%E2%80%93%20675%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q569107 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Anshan Persia (4000 BCE – 675 CE)](Anshan%20Persia%20%284000%20BCE%20%E2%80%93%20675%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q569107 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

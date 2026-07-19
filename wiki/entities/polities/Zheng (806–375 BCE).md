@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Han (403–230 BCE)](Han%20%28403%E2%80%93230%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1574130 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Han (403–230 BCE)](Han%20%28403%E2%80%93230%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1574130 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

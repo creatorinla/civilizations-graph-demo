@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kuban-Black Sea Soviet Republic (1918–1918 CE)](Kuban-Black%20Sea%20Soviet%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1949159 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kuban-Black Sea Soviet Republic (1918–1918 CE)](Kuban-Black%20Sea%20Soviet%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1949159 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

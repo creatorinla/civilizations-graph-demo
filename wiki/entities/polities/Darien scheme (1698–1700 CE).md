@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Viceroyalty of New Granada (1717–1819 CE)](Viceroyalty%20of%20New%20Granada%20%281717%E2%80%931819%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Viceroyalty of New Granada (1717–1819 CE)](Viceroyalty%20of%20New%20Granada%20%281717%E2%80%931819%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Viceroyalty of New Granada (1717–1819 CE)](Viceroyalty%20of%20New%20Granada%20%281717%E2%80%931819%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Viceroyalty of New Granada (1717–1819 CE)](Viceroyalty%20of%20New%20Granada%20%281717%E2%80%931819%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1166080 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Republic of Central America (1823–1841 CE)](Federal%20Republic%20of%20Central%20America%20%281823%E2%80%931841%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q190025 succession statement (retrieved 2026-07-18) |
-| [Mosquito Coast (1638–1787 CE)](Mosquito%20Coast%20%281638%E2%80%931787%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Republic of Central America (1823–1841 CE)](Federal%20Republic%20of%20Central%20America%20%281823%E2%80%931841%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q190025 succession statement (retrieved 2026-07-18) |
+| [Mosquito Coast (1638–1787 CE)](Mosquito%20Coast%20%281638%E2%80%931787%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mosquito Coast (1638–1787 CE)](Mosquito%20Coast%20%281638%E2%80%931787%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mosquito Coast (1638–1787 CE)](Mosquito%20Coast%20%281638%E2%80%931787%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q101541518 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

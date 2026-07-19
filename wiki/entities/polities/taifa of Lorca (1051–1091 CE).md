@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Lorca (1228–1250 CE)](Taifa%20of%20Lorca%20%281228%E2%80%931250%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q104192614 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Lorca (1228–1250 CE)](Taifa%20of%20Lorca%20%281228%E2%80%931250%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q104192614 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Commonwealth realm of Mauritius (1968–1992 CE)](Commonwealth%20realm%20of%20Mauritius%20%281968%E2%80%931992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14759030 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Commonwealth realm of Mauritius (1968–1992 CE)](Commonwealth%20realm%20of%20Mauritius%20%281968%E2%80%931992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14759030 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

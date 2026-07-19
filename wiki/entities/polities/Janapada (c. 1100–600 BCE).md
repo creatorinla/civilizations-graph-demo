@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mahajanapada (600–345 BCE)](Mahajanapada%20%28600%E2%80%93345%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1039325 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mahajanapada (600–345 BCE)](Mahajanapada%20%28600%E2%80%93345%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1039325 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Roman Kingdom (753–509 BCE)](Roman%20Kingdom%20%28753%E2%80%93509%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5171759 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Roman Kingdom (753–509 BCE)](Roman%20Kingdom%20%28753%E2%80%93509%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q5171759 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

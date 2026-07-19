@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Kandy (1469–1815 CE)](Kingdom%20of%20Kandy%20%281469%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1589163 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Sitawaka (1521–1594 CE)](Kingdom%20of%20Sitawaka%20%281521%E2%80%931594%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3136850 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Kandy (1469–1815 CE)](Kingdom%20of%20Kandy%20%281469%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1589163 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Sitawaka (1521–1594 CE)](Kingdom%20of%20Sitawaka%20%281521%E2%80%931594%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3136850 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Gampola (until 1406 CE)](Kingdom%20of%20Gampola%20%28until%201406%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6412581 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Gampola (until 1406 CE)](Kingdom%20of%20Gampola%20%28until%201406%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6412581 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

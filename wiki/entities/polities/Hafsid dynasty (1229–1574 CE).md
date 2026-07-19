@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q752662 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Almohad Caliphate (1121–1269 CE)](Almohad%20Caliphate%20%281121%E2%80%931269%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q752662 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

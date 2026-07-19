@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of British Columbia (1858–1866 CE)](Colony%20of%20British%20Columbia%20%281858%E2%80%931866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1250208 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of British Columbia (1858–1866 CE)](Colony%20of%20British%20Columbia%20%281858%E2%80%931866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1250208 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

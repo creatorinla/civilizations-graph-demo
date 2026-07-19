@@ -23,17 +23,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Golden Ambrosian Republic (1447–1450 CE)](Golden%20Ambrosian%20Republic%20%281447%E2%80%931450%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q746443 succession statement (retrieved 2026-07-18) |
-| [Transpadane Republic (1796–1797 CE)](Transpadane%20Republic%20%281796%E2%80%931797%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q729481 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Golden Ambrosian Republic (1447–1450 CE)](Golden%20Ambrosian%20Republic%20%281447%E2%80%931450%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q746443 succession statement (retrieved 2026-07-18) |
+| [Transpadane Republic (1796–1797 CE)](Transpadane%20Republic%20%281796%E2%80%931797%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q729481 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
-| [Golden Ambrosian Republic (1447–1450 CE)](Golden%20Ambrosian%20Republic%20%281447%E2%80%931450%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q746443 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cisalpine Republic (1797–1802 CE)](Cisalpine%20Republic%20%281797%E2%80%931802%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q213353 succession statement (retrieved 2026-07-18) |
+| [Golden Ambrosian Republic (1447–1450 CE)](Golden%20Ambrosian%20Republic%20%281447%E2%80%931450%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q746443 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -28,9 +28,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Jolof (1549–1890 CE)](Kingdom%20of%20Jolof%20%281549%E2%80%931890%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16850784 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Jolof (1549–1890 CE)](Kingdom%20of%20Jolof%20%281549%E2%80%931890%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16850784 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

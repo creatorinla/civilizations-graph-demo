@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Lippe (1789–1918 CE)](Principality%20of%20Lippe%20%281789%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14551680 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Lippe (1789–1918 CE)](Principality%20of%20Lippe%20%281789%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14551680 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

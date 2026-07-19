@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zambia (est. 1964 CE)](Zambia%20%28est.%201964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q953903 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zambia (est. 1964 CE)](Zambia%20%28est.%201964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q953903 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Barotziland-North-Western Rhodesia (1899–1911 CE)](Barotziland-North-Western%20Rhodesia%20%281899%E2%80%931911%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q20312596 succession statement (retrieved 2026-07-18) |
-| [Northern Rhodesia](Northern%20Rhodesia.html) | transition | — | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Barotziland-North-Western Rhodesia (1899–1911 CE)](Barotziland-North-Western%20Rhodesia%20%281899%E2%80%931911%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q20312596 succession statement (retrieved 2026-07-18) |
+| [Northern Rhodesia](Northern%20Rhodesia.html) | transition | — | tentative | reference work | Wikidata Q96964585 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

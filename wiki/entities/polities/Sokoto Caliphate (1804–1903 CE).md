@@ -28,16 +28,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
-| [Northern Nigeria Protectorate (1900–1913 CE)](Northern%20Nigeria%20Protectorate%20%281900%E2%80%931913%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
+| [Northern Nigeria Protectorate (1900–1913 CE)](Northern%20Nigeria%20Protectorate%20%281900%E2%80%931913%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q600524 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hausa Kingdoms (c. 900–1808 CE)](Hausa%20Kingdoms%20%28c.%20900%E2%80%931808%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1591030 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hausa Kingdoms (c. 900–1808 CE)](Hausa%20Kingdoms%20%28c.%20900%E2%80%931808%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1591030 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

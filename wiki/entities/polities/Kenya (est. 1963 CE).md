@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kenya (1963–1964) (1963–1964 CE)](Kenya%20%281963%E2%80%931964%29%20%281963%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6392538 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kenya (1963–1964) (1963–1964 CE)](Kenya%20%281963%E2%80%931964%29%20%281963%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6392538 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

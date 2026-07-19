@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ayutthaya Kingdom (1350–1767 CE)](Ayutthaya%20Kingdom%20%281350%E2%80%931767%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ayutthaya Kingdom (1350–1767 CE)](Ayutthaya%20Kingdom%20%281350%E2%80%931767%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dvaravati kingdom (c. 600–1100 CE)](Dvaravati%20kingdom%20%28c.%20600%E2%80%931100%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dvaravati kingdom (c. 600–1100 CE)](Dvaravati%20kingdom%20%28c.%20600%E2%80%931100%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q863279 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

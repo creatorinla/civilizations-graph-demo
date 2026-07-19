@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dominion of Newfoundland (1907–1949 CE)](Dominion%20of%20Newfoundland%20%281907%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2984260 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dominion of Newfoundland (1907–1949 CE)](Dominion%20of%20Newfoundland%20%281907%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2984260 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

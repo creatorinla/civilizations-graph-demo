@@ -28,10 +28,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Beylik of Adana (1352–1608 CE)](Beylik%20of%20Adana%20%281352%E2%80%931608%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2261321 succession statement (retrieved 2026-07-18) |
-| [Beylik of Karaman (1250–1487 CE)](Beylik%20of%20Karaman%20%281250%E2%80%931487%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1469100 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Beylik of Adana (1352–1608 CE)](Beylik%20of%20Adana%20%281352%E2%80%931608%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2261321 succession statement (retrieved 2026-07-18) |
+| [Beylik of Karaman (1250–1487 CE)](Beylik%20of%20Karaman%20%281250%E2%80%931487%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1469100 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

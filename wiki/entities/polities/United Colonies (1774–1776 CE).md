@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7887623 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7887623 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Thirteen Colonies (1607–1776 CE)](Thirteen%20Colonies%20%281607%E2%80%931776%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7887623 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Thirteen Colonies (1607–1776 CE)](Thirteen%20Colonies%20%281607%E2%80%931776%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7887623 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q47227406 (est. c. 1800 CE)](Q47227406%20%28est.%20c.%201800%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q47227406 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q47227406 (est. c. 1800 CE)](Q47227406%20%28est.%20c.%201800%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q47227406 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

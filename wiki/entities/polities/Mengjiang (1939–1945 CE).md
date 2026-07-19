@@ -28,11 +28,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongol United Autonomous Government (1937–1939 CE)](Mongol%20United%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11621245 succession statement (retrieved 2026-07-18) |
-| [North Shanxi Autonomous Government (1937–1939 CE)](North%20Shanxi%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11089317 succession statement (retrieved 2026-07-18) |
-| [South Chahar Autonomous Government (1937–1939 CE)](South%20Chahar%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10955123 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongol United Autonomous Government (1937–1939 CE)](Mongol%20United%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11621245 succession statement (retrieved 2026-07-18) |
+| [North Shanxi Autonomous Government (1937–1939 CE)](North%20Shanxi%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11089317 succession statement (retrieved 2026-07-18) |
+| [South Chahar Autonomous Government (1937–1939 CE)](South%20Chahar%20Autonomous%20Government%20%281937%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q10955123 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Oldenburg (1774–1918 CE)](Duchy%20of%20Oldenburg%20%281774%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q697084 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Oldenburg (1774–1918 CE)](Duchy%20of%20Oldenburg%20%281774%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q697084 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Saxony (804–1296 CE)](Duchy%20of%20Saxony%20%28804%E2%80%931296%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170390 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Saxony (804–1296 CE)](Duchy%20of%20Saxony%20%28804%E2%80%931296%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170390 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Oldenburg (until 1946 CE)](Oldenburg%20%28until%201946%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q19831559 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Oldenburg (until 1946 CE)](Oldenburg%20%28until%201946%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q19831559 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Canaan (until 1420 CE)](Canaan%20%28until%201420%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q208475 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Canaan (until 1420 CE)](Canaan%20%28until%201420%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q208475 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

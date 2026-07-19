@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Ceylon (1815–1948 CE)](British%20Ceylon%20%281815%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1530762 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Ceylon (1815–1948 CE)](British%20Ceylon%20%281815%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1530762 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Kotte (1412–1597 CE)](Kingdom%20of%20Kotte%20%281412%E2%80%931597%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1589163 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Sitawaka (1521–1594 CE)](Kingdom%20of%20Sitawaka%20%281521%E2%80%931594%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3136850 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Kotte (1412–1597 CE)](Kingdom%20of%20Kotte%20%281412%E2%80%931597%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1589163 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Sitawaka (1521–1594 CE)](Kingdom%20of%20Sitawaka%20%281521%E2%80%931594%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3136850 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

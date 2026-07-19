@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Rasulid dynasty (1229–1454 CE)](Rasulid%20dynasty%20%281229%E2%80%931454%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2342941 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Rasulid dynasty (1229–1454 CE)](Rasulid%20dynasty%20%281229%E2%80%931454%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2342941 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

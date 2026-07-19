@@ -23,22 +23,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Carpatho-Ukraine (1939–1939 CE)](Carpatho-Ukraine%20%281939%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q950644 succession statement (retrieved 2026-07-18) |
-| [Czechoslovak Republic (1948–1960 CE)](Czechoslovak%20Republic%20%281948%E2%80%931960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11178782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Carpatho-Ukraine (1939–1939 CE)](Carpatho-Ukraine%20%281939%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q950644 succession statement (retrieved 2026-07-18) |
+| [Czechoslovak Republic (1948–1960 CE)](Czechoslovak%20Republic%20%281948%E2%80%931960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11178782 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Slovak Republic (1939–1945 CE)](Slovak%20Republic%20%281939%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2454585 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Slovak Republic (1939–1945 CE)](Slovak%20Republic%20%281939%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2454585 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2454585 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Czechoslovakia (1918–1992 CE)](Czechoslovakia%20%281918%E2%80%931992%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2454585 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

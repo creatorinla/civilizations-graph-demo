@@ -25,18 +25,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Spanish Republic (1873–1874 CE)](First%20Spanish%20Republic%20%281873%E2%80%931874%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
-| [Spain under Joseph Bonaparte (1808–1813 CE)](Spain%20under%20Joseph%20Bonaparte%20%281808%E2%80%931813%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Spanish Republic (1873–1874 CE)](First%20Spanish%20Republic%20%281873%E2%80%931874%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| [Spain under Joseph Bonaparte (1808–1813 CE)](Spain%20under%20Joseph%20Bonaparte%20%281808%E2%80%931813%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
-| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Aragon (1162–1715 CE)](Crown%20of%20Aragon%20%281162%E2%80%931715%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
+| [Hispanic Monarchy (1479–1700 CE)](Hispanic%20Monarchy%20%281479%E2%80%931700%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3399982 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

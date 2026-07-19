@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongolian People's Republic (1924–1992 CE)](Mongolian%20People%27s%20Republic%20%281924%E2%80%931992%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2475921 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongolian People's Republic (1924–1992 CE)](Mongolian%20People%27s%20Republic%20%281924%E2%80%931992%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2475921 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -21,9 +21,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Berg (1101–1380 CE)](County%20of%20Berg%20%281101%E2%80%931380%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q127699517 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Berg (1101–1380 CE)](County%20of%20Berg%20%281101%E2%80%931380%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q127699517 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Orange Free State (1854–1902 CE)](Orange%20Free%20State%20%281854%E2%80%931902%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3048062 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Orange Free State (1854–1902 CE)](Orange%20Free%20State%20%281854%E2%80%931902%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3048062 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

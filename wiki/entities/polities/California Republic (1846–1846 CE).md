@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17557 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United States (est. 1784 CE)](United%20States%20%28est.%201784%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17557 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mali Empire (1235–1670 CE)](Mali%20Empire%20%281235%E2%80%931670%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q507346 succession statement (retrieved 2026-07-18) |
-| [Samorian state (1878–1898 CE)](Samorian%20state%20%281878%E2%80%931898%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q568712 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mali Empire (1235–1670 CE)](Mali%20Empire%20%281235%E2%80%931670%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q507346 succession statement (retrieved 2026-07-18) |
+| [Samorian state (1878–1898 CE)](Samorian%20state%20%281878%E2%80%931898%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q568712 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

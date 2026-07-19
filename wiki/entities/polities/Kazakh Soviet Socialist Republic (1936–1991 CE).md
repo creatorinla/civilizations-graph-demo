@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kazakhstan (est. 1991 CE)](Kazakhstan%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q168811 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kazakhstan (est. 1991 CE)](Kazakhstan%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q168811 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

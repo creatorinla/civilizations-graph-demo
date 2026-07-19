@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kengcheng (c. 1800–1896 CE)](Kengcheng%20%28c.%201800%E2%80%931896%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6389173 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kengcheng (c. 1800–1896 CE)](Kengcheng%20%28c.%201800%E2%80%931896%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6389173 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

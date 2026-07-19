@@ -24,15 +24,15 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Portuguese India (1505–1961 CE)](Portuguese%20India%20%281505%E2%80%931961%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q323904 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Portuguese India (1505–1961 CE)](Portuguese%20India%20%281505%E2%80%931961%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q323904 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Portuguese Republic (1926–1974 CE)](Second%20Portuguese%20Republic%20%281926%E2%80%931974%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q17748736 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Portuguese Republic (1926–1974 CE)](Second%20Portuguese%20Republic%20%281926%E2%80%931974%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q17748736 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,27 +25,27 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sasanian Empire (224–651 CE)](Sasanian%20Empire%20%28224%E2%80%93651%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sasanian Empire (224–651 CE)](Sasanian%20Empire%20%28224%E2%80%93651%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Seleucid Empire (312–63 BCE)](Seleucid%20Empire%20%28312%E2%80%9363%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Seleucid Empire (312–63 BCE)](Seleucid%20Empire%20%28312%E2%80%9363%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Persia (300–212 BCE)](Kingdom%20of%20Persia%20%28300%E2%80%93212%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q19276517 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Persia (300–212 BCE)](Kingdom%20of%20Persia%20%28300%E2%80%93212%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q19276517 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q83311 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q83311 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

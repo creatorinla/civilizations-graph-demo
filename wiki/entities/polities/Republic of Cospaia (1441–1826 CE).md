@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
-| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
+| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Papal States (754–1870 CE)](Papal%20States%20%28754%E2%80%931870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2393278 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

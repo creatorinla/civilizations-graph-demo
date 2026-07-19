@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Eswatini (est. 1968 CE)](Eswatini%20%28est.%201968%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21815946 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Eswatini (est. 1968 CE)](Eswatini%20%28est.%201968%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21815946 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ngwane kingdom (c. 1740–1881 CE)](Ngwane%20kingdom%20%28c.%201740%E2%80%931881%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q118279244 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ngwane kingdom (c. 1740–1881 CE)](Ngwane%20kingdom%20%28c.%201740%E2%80%931881%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q118279244 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

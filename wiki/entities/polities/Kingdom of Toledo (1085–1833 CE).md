@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taifa of Toledo (1010–1085 CE)](Taifa%20of%20Toledo%20%281010%E2%80%931085%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2301372 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taifa of Toledo (1010–1085 CE)](Taifa%20of%20Toledo%20%281010%E2%80%931085%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2301372 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2301372 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown of Castile (1230–1715 CE)](Crown%20of%20Castile%20%281230%E2%80%931715%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2301372 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

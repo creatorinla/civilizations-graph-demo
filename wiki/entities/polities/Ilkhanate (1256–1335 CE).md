@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q178084 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Abbasid Caliphate (750–1258 CE)](Abbasid%20Caliphate%20%28750%E2%80%931258%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q178084 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12557 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12557 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

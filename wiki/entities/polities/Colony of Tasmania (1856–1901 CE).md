@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Van Diemen's Land (1825–1856 CE)](Van%20Diemen%27s%20Land%20%281825%E2%80%931856%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5148519 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Van Diemen's Land (1825–1856 CE)](Van%20Diemen%27s%20Land%20%281825%E2%80%931856%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5148519 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

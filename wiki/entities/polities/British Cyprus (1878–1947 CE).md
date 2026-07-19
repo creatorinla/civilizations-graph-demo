@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cyprus (est. 1960 CE)](Cyprus%20%28est.%201960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15240466 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cyprus (est. 1960 CE)](Cyprus%20%28est.%201960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15240466 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

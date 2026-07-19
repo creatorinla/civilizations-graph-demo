@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Pahang Sultanate (1470–1623 CE)](Pahang%20Sultanate%20%281470%E2%80%931623%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30592233 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Pahang Sultanate (1470–1623 CE)](Pahang%20Sultanate%20%281470%E2%80%931623%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30592233 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

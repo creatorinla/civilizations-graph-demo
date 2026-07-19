@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lordship of Valencia (1094–1102 CE)](Lordship%20of%20Valencia%20%281094%E2%80%931102%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15714699 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lordship of Valencia (1094–1102 CE)](Lordship%20of%20Valencia%20%281094%E2%80%931102%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15714699 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

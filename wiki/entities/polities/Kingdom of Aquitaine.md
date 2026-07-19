@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Aquitaine (841–1449 CE)](Duchy%20of%20Aquitaine%20%28841%E2%80%931449%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2990516 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Aquitaine (841–1449 CE)](Duchy%20of%20Aquitaine%20%28841%E2%80%931449%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2990516 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

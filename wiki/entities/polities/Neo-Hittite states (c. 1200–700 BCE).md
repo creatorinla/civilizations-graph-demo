@@ -26,15 +26,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Assyrian Empire (2025–609 BCE)](Assyrian%20Empire%20%282025%E2%80%93609%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Assyrian Empire (2025–609 BCE)](Assyrian%20Empire%20%282025%E2%80%93609%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Hatti (1650–1178 BCE)](Hatti%20%281650%E2%80%931178%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Hatti (1650–1178 BCE)](Hatti%20%281650%E2%80%931178%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q770281 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of Queensland (1859–1901 CE)](Colony%20of%20Queensland%20%281859%E2%80%931901%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28401203 succession statement (retrieved 2026-07-18) |
-| [Van Diemen's Land (1825–1856 CE)](Van%20Diemen%27s%20Land%20%281825%E2%80%931856%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1780114 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of Queensland (1859–1901 CE)](Colony%20of%20Queensland%20%281859%E2%80%931901%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28401203 succession statement (retrieved 2026-07-18) |
+| [Van Diemen's Land (1825–1856 CE)](Van%20Diemen%27s%20Land%20%281825%E2%80%931856%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1780114 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

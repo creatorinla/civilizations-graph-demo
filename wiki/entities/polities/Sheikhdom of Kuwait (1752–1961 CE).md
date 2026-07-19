@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kuwait (est. 1991 CE)](Kuwait%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3480281 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kuwait (est. 1991 CE)](Kuwait%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3480281 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bani Khalid Emirate (1669–1796 CE)](Bani%20Khalid%20Emirate%20%281669%E2%80%931796%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bani Khalid Emirate (1669–1796 CE)](Bani%20Khalid%20Emirate%20%281669%E2%80%931796%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

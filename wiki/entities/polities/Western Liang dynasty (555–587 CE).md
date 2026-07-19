@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sui dynasty (581–618 CE)](Sui%20dynasty%20%28581%E2%80%93618%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q849770 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sui dynasty (581–618 CE)](Sui%20dynasty%20%28581%E2%80%93618%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q849770 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Liang dynasty (502–587 CE)](Liang%20dynasty%20%28502%E2%80%93587%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1069868 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Liang dynasty (502–587 CE)](Liang%20dynasty%20%28502%E2%80%93587%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1069868 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

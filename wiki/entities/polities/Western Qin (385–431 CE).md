@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Xia (407–431 CE)](Xia%20%28407%E2%80%93431%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Xia (407–431 CE)](Xia%20%28407%E2%80%93431%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Former Qin (350–394 CE)](Former%20Qin%20%28350%E2%80%93394%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
-| [Southern Liang (397–414 CE)](Southern%20Liang%20%28397%E2%80%93414%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Former Qin (350–394 CE)](Former%20Qin%20%28350%E2%80%93394%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
+| [Southern Liang (397–414 CE)](Southern%20Liang%20%28397%E2%80%93414%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1668970 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

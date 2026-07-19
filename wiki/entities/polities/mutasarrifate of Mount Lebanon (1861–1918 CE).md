@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mount Lebanon Emirate (1516–1840 CE)](Mount%20Lebanon%20Emirate%20%281516%E2%80%931840%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3326429 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mount Lebanon Emirate (1516–1840 CE)](Mount%20Lebanon%20Emirate%20%281516%E2%80%931840%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3326429 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

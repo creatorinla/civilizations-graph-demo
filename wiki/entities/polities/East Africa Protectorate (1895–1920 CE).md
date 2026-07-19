@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kenya Colony (1920–1963 CE)](Kenya%20Colony%20%281920%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2538511 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kenya Colony (1920–1963 CE)](Kenya%20Colony%20%281920%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2538511 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

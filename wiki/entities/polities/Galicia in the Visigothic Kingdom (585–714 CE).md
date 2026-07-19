@@ -26,21 +26,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Galicia (410–1833 CE)](Kingdom%20of%20Galicia%20%28410%E2%80%931833%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12389905 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Galicia (410–1833 CE)](Kingdom%20of%20Galicia%20%28410%E2%80%931833%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12389905 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of the Suebi (409–585 CE)](Kingdom%20of%20the%20Suebi%20%28409%E2%80%93585%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12389905 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of the Suebi (409–585 CE)](Kingdom%20of%20the%20Suebi%20%28409%E2%80%93585%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12389905 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Toledo (549–711 CE)](Kingdom%20of%20Toledo%20%28549%E2%80%93711%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q12389905 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Toledo (549–711 CE)](Kingdom%20of%20Toledo%20%28549%E2%80%93711%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q12389905 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

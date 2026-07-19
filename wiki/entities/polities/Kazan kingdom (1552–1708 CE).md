@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tsardom of Russia (1547–1721 CE)](Tsardom%20of%20Russia%20%281547%E2%80%931721%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q186096 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tsardom of Russia (1547–1721 CE)](Tsardom%20of%20Russia%20%281547%E2%80%931721%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q186096 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khanate of Qazan (1438–1552 CE)](Khanate%20of%20Qazan%20%281438%E2%80%931552%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16656928 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khanate of Qazan (1438–1552 CE)](Khanate%20of%20Qazan%20%281438%E2%80%931552%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16656928 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

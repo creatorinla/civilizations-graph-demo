@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [People's Republic of Mozambique (1975–1990 CE)](People%27s%20Republic%20of%20Mozambique%20%281975%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q617078 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [People's Republic of Mozambique (1975–1990 CE)](People%27s%20Republic%20of%20Mozambique%20%281975%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q617078 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

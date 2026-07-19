@@ -23,11 +23,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bahawalpur State (1690–1955 CE)](Bahawalpur%20State%20%281690%E2%80%931955%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q800236 succession statement (retrieved 2026-07-18) |
-| [Khairpur State (1775–1955 CE)](Khairpur%20State%20%281775%E2%80%931955%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3249587 succession statement (retrieved 2026-07-18) |
-| [Kharan State (1697–1955 CE)](Kharan%20State%20%281697%E2%80%931955%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2989491 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bahawalpur State (1690–1955 CE)](Bahawalpur%20State%20%281690%E2%80%931955%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q800236 succession statement (retrieved 2026-07-18) |
+| [Khairpur State (1775–1955 CE)](Khairpur%20State%20%281775%E2%80%931955%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3249587 succession statement (retrieved 2026-07-18) |
+| [Kharan State (1697–1955 CE)](Kharan%20State%20%281697%E2%80%931955%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2989491 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Inca Empire (1438–1533 CE)](Inca%20Empire%20%281438%E2%80%931533%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2314963 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Inca Empire (1438–1533 CE)](Inca%20Empire%20%281438%E2%80%931533%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2314963 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

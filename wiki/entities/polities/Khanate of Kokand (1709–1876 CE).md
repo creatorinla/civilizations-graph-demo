@@ -26,10 +26,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khanate of Bukhara (1500–1785 CE)](Khanate%20of%20Bukhara%20%281500%E2%80%931785%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
-| [Senior jüz (1718–1822 CE)](Senior%20j%C3%BCz%20%281718%E2%80%931822%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khanate of Bukhara (1500–1785 CE)](Khanate%20of%20Bukhara%20%281500%E2%80%931785%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
+| [Senior jüz (1718–1822 CE)](Senior%20j%C3%BCz%20%281718%E2%80%931822%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q696241 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

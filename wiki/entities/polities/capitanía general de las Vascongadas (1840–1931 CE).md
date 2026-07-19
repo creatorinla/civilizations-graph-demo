@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Capitanía General de Guipúzcoa (1550–1840 CE)](Capitan%C3%ADa%20General%20de%20Guip%C3%BAzcoa%20%281550%E2%80%931840%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q107463435 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Capitanía General de Guipúzcoa (1550–1840 CE)](Capitan%C3%ADa%20General%20de%20Guip%C3%BAzcoa%20%281550%E2%80%931840%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q107463435 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

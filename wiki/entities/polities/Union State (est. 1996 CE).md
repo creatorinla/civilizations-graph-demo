@@ -23,10 +23,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Belarus (est. 1991 CE)](Belarus%20%28est.%201991%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
-| [Russia (est. 1263 CE)](Russia%20%28est.%201263%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Belarus (est. 1991 CE)](Belarus%20%28est.%201991%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
+| [Russia (est. 1263 CE)](Russia%20%28est.%201263%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q166110 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alchon Huns (380–560 CE)](Alchon%20Huns%20%28380%E2%80%93560%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21050766 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Alchon Huns (380–560 CE)](Alchon%20Huns%20%28380%E2%80%93560%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21050766 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kushan Empire (30–375 CE)](Kushan%20Empire%20%2830%E2%80%93375%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q26996 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kushan Empire (30–375 CE)](Kushan%20Empire%20%2830%E2%80%93375%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q26996 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

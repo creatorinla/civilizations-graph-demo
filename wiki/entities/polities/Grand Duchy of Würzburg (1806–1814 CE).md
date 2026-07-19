@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Confederation of the Rhine (1806–1813 CE)](Confederation%20of%20the%20Rhine%20%281806%E2%80%931813%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q154741 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Confederation of the Rhine (1806–1813 CE)](Confederation%20of%20the%20Rhine%20%281806%E2%80%931813%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q154741 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

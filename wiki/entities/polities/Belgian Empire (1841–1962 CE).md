@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Belgian Congo (1908–1960 CE)](Belgian%20Congo%20%281908%E2%80%931960%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q213510 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Belgian Congo (1908–1960 CE)](Belgian%20Congo%20%281908%E2%80%931960%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q213510 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

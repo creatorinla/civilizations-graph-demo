@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q102461243 (1887–1891 CE)](Q102461243%20%281887%E2%80%931891%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q102461243 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q102461243 (1887–1891 CE)](Q102461243%20%281887%E2%80%931891%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q102461243 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

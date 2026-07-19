@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q104164157 (1387–1392 CE)](Q104164157%20%281387%E2%80%931392%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q104164157 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q104164157 (1387–1392 CE)](Q104164157%20%281387%E2%80%931392%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q104164157 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

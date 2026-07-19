@@ -28,9 +28,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Provisional Government of Hawaii (1893–1894 CE)](Provisional%20Government%20of%20Hawaii%20%281893%E2%80%931894%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Provisional Government of Hawaii (1893–1894 CE)](Provisional%20Government%20of%20Hawaii%20%281893%E2%80%931894%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2593459 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

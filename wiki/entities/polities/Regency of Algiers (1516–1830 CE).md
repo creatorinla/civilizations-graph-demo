@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Emirate of Algiers (1235–1516 CE)](Emirate%20of%20Algiers%20%281235%E2%80%931516%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q91394308 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Tlemcen (1235–1556 CE)](Kingdom%20of%20Tlemcen%20%281235%E2%80%931556%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3045696 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Emirate of Algiers (1235–1516 CE)](Emirate%20of%20Algiers%20%281235%E2%80%931516%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q91394308 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Tlemcen (1235–1556 CE)](Kingdom%20of%20Tlemcen%20%281235%E2%80%931556%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3045696 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -21,15 +21,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First Saudi State (1744–1818 CE)](First%20Saudi%20State%20%281744%E2%80%931818%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q22684352 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First Saudi State (1744–1818 CE)](First%20Saudi%20State%20%281744%E2%80%931818%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q22684352 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bani Khalid Emirate (1669–1796 CE)](Bani%20Khalid%20Emirate%20%281669%E2%80%931796%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bani Khalid Emirate (1669–1796 CE)](Bani%20Khalid%20Emirate%20%281669%E2%80%931796%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q56376885 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

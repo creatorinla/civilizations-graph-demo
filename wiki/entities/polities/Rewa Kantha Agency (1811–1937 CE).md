@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bhadarwa](Bhadarwa.html) | has part | — | — | tentative | reference work | Wikidata Q11909249 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bhadarwa](Bhadarwa.html) | has part | — | tentative | reference work | Wikidata Q11909249 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

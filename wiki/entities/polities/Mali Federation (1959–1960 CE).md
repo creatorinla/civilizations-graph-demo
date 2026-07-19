@@ -25,16 +25,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mali (est. 1960 CE)](Mali%20%28est.%201960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q216632 succession statement (retrieved 2026-07-18) |
-| [Senegal (est. 1960 CE)](Senegal%20%28est.%201960%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q216632 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mali (est. 1960 CE)](Mali%20%28est.%201960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q216632 succession statement (retrieved 2026-07-18) |
+| [Senegal (est. 1960 CE)](Senegal%20%28est.%201960%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q216632 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Sudanese Republic (1958–1959 CE)](Sudanese%20Republic%20%281958%E2%80%931959%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Sudanese Republic (1958–1959 CE)](Sudanese%20Republic%20%281958%E2%80%931959%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456487 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

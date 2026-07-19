@@ -24,16 +24,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mexico (est. 1810 CE)](Mexico%20%28est.%201810%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q96 succession statement (retrieved 2026-07-18) |
-| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mexico (est. 1810 CE)](Mexico%20%28est.%201810%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q96 succession statement (retrieved 2026-07-18) |
+| [Second Federal Republic of Mexico (1846–1863 CE)](Second%20Federal%20Republic%20of%20Mexico%20%281846%E2%80%931863%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7443295 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

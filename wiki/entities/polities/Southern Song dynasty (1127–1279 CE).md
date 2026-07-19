@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1147043 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yuan dynasty (1271–1368 CE)](Yuan%20dynasty%20%281271%E2%80%931368%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1147043 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Song dynasty (960–1127 CE)](Northern%20Song%20dynasty%20%28960%E2%80%931127%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1147043 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Song dynasty (960–1127 CE)](Northern%20Song%20dynasty%20%28960%E2%80%931127%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1147043 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Song dynasty (960–1279 CE)](Song%20dynasty%20%28960%E2%80%931279%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1147043 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Song dynasty (960–1279 CE)](Song%20dynasty%20%28960%E2%80%931279%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1147043 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

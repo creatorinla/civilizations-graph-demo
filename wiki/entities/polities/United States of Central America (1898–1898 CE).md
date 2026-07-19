@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Greater Republic of Central America (1896–1898 CE)](Greater%20Republic%20of%20Central%20America%20%281896%E2%80%931898%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8842993 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Greater Republic of Central America (1896–1898 CE)](Greater%20Republic%20of%20Central%20America%20%281896%E2%80%931898%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8842993 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

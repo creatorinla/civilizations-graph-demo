@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q28411 succession statement (retrieved 2026-07-18) |
-| [Danube Bulgar Khanate (681–864 CE)](Danube%20Bulgar%20Khanate%20%28681%E2%80%93864%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3196064 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q28411 succession statement (retrieved 2026-07-18) |
+| [Danube Bulgar Khanate (681–864 CE)](Danube%20Bulgar%20Khanate%20%28681%E2%80%93864%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3196064 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

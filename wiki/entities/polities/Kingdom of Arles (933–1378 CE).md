@@ -24,22 +24,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Burgundy (982–1678 CE)](County%20of%20Burgundy%20%28982%E2%80%931678%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Burgundy (982–1678 CE)](County%20of%20Burgundy%20%28982%E2%80%931678%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lower Burgundy (855–933 CE)](Lower%20Burgundy%20%28855%E2%80%93933%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
-| [Upper Burgundy (888–933 CE)](Upper%20Burgundy%20%28888%E2%80%93933%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lower Burgundy (855–933 CE)](Lower%20Burgundy%20%28855%E2%80%93933%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
+| [Upper Burgundy (888–933 CE)](Upper%20Burgundy%20%28888%E2%80%93933%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3271735 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q530670 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Burgundy (411–1030 CE)](Kingdom%20of%20Burgundy%20%28411%E2%80%931030%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q530670 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

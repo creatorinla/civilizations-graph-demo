@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Landgraviate of Thuringia](Landgraviate%20of%20Thuringia.html) | transition | — | — | tentative | reference work | Wikidata Q92032280 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Landgraviate of Thuringia](Landgraviate%20of%20Thuringia.html) | transition | — | tentative | reference work | Wikidata Q92032280 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

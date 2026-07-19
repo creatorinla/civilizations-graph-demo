@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3574782 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zanzibar Protectorate (1890–1963 CE)](Zanzibar%20Protectorate%20%281890%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3574782 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Muscat and Oman (1820–1970 CE)](Muscat%20and%20Oman%20%281820%E2%80%931970%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q157734 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Muscat and Oman (1820–1970 CE)](Muscat%20and%20Oman%20%281820%E2%80%931970%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q157734 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

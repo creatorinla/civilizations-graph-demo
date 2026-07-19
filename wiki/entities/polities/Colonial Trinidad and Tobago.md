@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21876053 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21876053 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

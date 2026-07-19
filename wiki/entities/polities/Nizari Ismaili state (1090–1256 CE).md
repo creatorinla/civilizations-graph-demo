@@ -33,16 +33,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Mongol Empire (1206–1368 CE)](Mongol%20Empire%20%281206%E2%80%931368%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Khwarazmian Empire (1077–1231 CE)](Khwarazmian%20Empire%20%281077%E2%80%931231%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
-| [Seljuk Empire (1037–1194 CE)](Seljuk%20Empire%20%281037%E2%80%931194%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Khwarazmian Empire (1077–1231 CE)](Khwarazmian%20Empire%20%281077%E2%80%931231%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
+| [Seljuk Empire (1037–1194 CE)](Seljuk%20Empire%20%281037%E2%80%931194%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6563843 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

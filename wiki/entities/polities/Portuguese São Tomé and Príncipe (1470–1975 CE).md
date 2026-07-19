@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [São Tomé and Príncipe (est. 1975 CE)](S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20%28est.%201975%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7232692 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [São Tomé and Príncipe (est. 1975 CE)](S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20%28est.%201975%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7232692 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Portuguese Empire (1415–1999 CE)](Portuguese%20Empire%20%281415%E2%80%931999%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q200464 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Portuguese Empire (1415–1999 CE)](Portuguese%20Empire%20%281415%E2%80%931999%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q200464 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -21,9 +21,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

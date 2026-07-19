@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7308003 succession statement (retrieved 2026-07-18) |
-| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7308003 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Poland (est. 1918 CE)](Poland%20%28est.%201918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7308003 succession statement (retrieved 2026-07-18) |
+| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7308003 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

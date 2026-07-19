@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French Indochina (1887–1954 CE)](French%20Indochina%20%281887%E2%80%931954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16673775 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French Indochina (1887–1954 CE)](French%20Indochina%20%281887%E2%80%931954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16673775 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

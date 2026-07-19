@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q836680 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q836680 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

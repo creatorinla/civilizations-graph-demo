@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Centralist Republic of Mexico (1835–1846 CE)](Centralist%20Republic%20of%20Mexico%20%281835%E2%80%931846%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5062192 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

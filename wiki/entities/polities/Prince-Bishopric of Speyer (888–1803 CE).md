@@ -28,22 +28,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free City of Landau (1291–1679 CE)](Free%20City%20of%20Landau%20%281291%E2%80%931679%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2138849 succession statement (retrieved 2026-07-18) |
-| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q54818777 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free City of Landau (1291–1679 CE)](Free%20City%20of%20Landau%20%281291%E2%80%931679%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2138849 succession statement (retrieved 2026-07-18) |
+| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q54818777 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q54818777 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q54818777 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q54818777 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Imperial Abbey of Wissembourg (974–1789 CE)](Imperial%20Abbey%20of%20Wissembourg%20%28974%E2%80%931789%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q54818777 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

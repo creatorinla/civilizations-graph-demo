@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Free State of Saxe-Gotha (1918–1920 CE)](Free%20State%20of%20Saxe-Gotha%20%281918%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q14631244 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Free State of Saxe-Gotha (1918–1920 CE)](Free%20State%20of%20Saxe-Gotha%20%281918%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q14631244 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

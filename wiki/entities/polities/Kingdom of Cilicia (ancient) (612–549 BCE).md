@@ -24,11 +24,11 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
-| [Macedonia (808–167 BCE)](Macedonia%20%28808%E2%80%93167%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
-| [Neo-Assyrian Empire (911–609 BCE)](Neo-Assyrian%20Empire%20%28911%E2%80%93609%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Achaemenid Empire (550–330 BCE)](Achaemenid%20Empire%20%28550%E2%80%93330%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
+| [Macedonia (808–167 BCE)](Macedonia%20%28808%E2%80%93167%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
+| [Neo-Assyrian Empire (911–609 BCE)](Neo-Assyrian%20Empire%20%28911%E2%80%93609%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q95982472 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -29,10 +29,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Moldova (est. 1991 CE)](Moldova%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170895 succession statement (retrieved 2026-07-18) |
-| [Pridnestrovian Moldavian Soviet Socialist Republic (1990–1991 CE)](Pridnestrovian%20Moldavian%20Soviet%20Socialist%20Republic%20%281990%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7242857 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Moldova (est. 1991 CE)](Moldova%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170895 succession statement (retrieved 2026-07-18) |
+| [Pridnestrovian Moldavian Soviet Socialist Republic (1990–1991 CE)](Pridnestrovian%20Moldavian%20Soviet%20Socialist%20Republic%20%281990%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7242857 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

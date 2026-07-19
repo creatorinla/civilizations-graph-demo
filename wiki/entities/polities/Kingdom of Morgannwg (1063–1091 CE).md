@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Glywysing (c. 500–1063 CE)](Kingdom%20of%20Glywysing%20%28c.%20500%E2%80%931063%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21005050 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Gwent (c. 430–950 CE)](Kingdom%20of%20Gwent%20%28c.%20430%E2%80%93950%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21005050 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Glywysing (c. 500–1063 CE)](Kingdom%20of%20Glywysing%20%28c.%20500%E2%80%931063%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21005050 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Gwent (c. 430–950 CE)](Kingdom%20of%20Gwent%20%28c.%20430%E2%80%93950%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21005050 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

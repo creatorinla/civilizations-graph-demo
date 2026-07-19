@@ -23,16 +23,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zimbabwe (est. 1980 CE)](Zimbabwe%20%28est.%201980%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q750583 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zimbabwe (est. 1980 CE)](Zimbabwe%20%28est.%201980%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q750583 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q21530944 (1895–1923 CE)](Q21530944%20%281895%E2%80%931923%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q21530944 succession statement (retrieved 2026-07-18) |
-| [Zimbabwe Rhodesia (1979–1979 CE)](Zimbabwe%20Rhodesia%20%281979%E2%80%931979%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q890120 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q21530944 (1895–1923 CE)](Q21530944%20%281895%E2%80%931923%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q21530944 succession statement (retrieved 2026-07-18) |
+| [Zimbabwe Rhodesia (1979–1979 CE)](Zimbabwe%20Rhodesia%20%281979%E2%80%931979%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q890120 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

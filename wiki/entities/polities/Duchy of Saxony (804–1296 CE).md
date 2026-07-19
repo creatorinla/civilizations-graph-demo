@@ -24,19 +24,19 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brunswick-Lüneburg (1235–1806 CE)](Brunswick-L%C3%BCneburg%20%281235%E2%80%931806%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q556263 succession statement (retrieved 2026-07-18) |
-| [County of Oldenburg (1091–1774 CE)](County%20of%20Oldenburg%20%281091%E2%80%931774%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170390 succession statement (retrieved 2026-07-18) |
-| [Duchy of Saxe-Wittenberg (1296–1423 CE)](Duchy%20of%20Saxe-Wittenberg%20%281296%E2%80%931423%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q693562 succession statement (retrieved 2026-07-18) |
-| [Prince-Bishopric of Lübeck (1160–1803 CE)](Prince-Bishopric%20of%20L%C3%BCbeck%20%281160%E2%80%931803%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
-| [Saxe-Lauenburg (1296–1876 CE)](Saxe-Lauenburg%20%281296%E2%80%931876%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q313175 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brunswick-Lüneburg (1235–1806 CE)](Brunswick-L%C3%BCneburg%20%281235%E2%80%931806%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q556263 succession statement (retrieved 2026-07-18) |
+| [County of Oldenburg (1091–1774 CE)](County%20of%20Oldenburg%20%281091%E2%80%931774%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170390 succession statement (retrieved 2026-07-18) |
+| [Duchy of Saxe-Wittenberg (1296–1423 CE)](Duchy%20of%20Saxe-Wittenberg%20%281296%E2%80%931423%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q693562 succession statement (retrieved 2026-07-18) |
+| [Prince-Bishopric of Lübeck (1160–1803 CE)](Prince-Bishopric%20of%20L%C3%BCbeck%20%281160%E2%80%931803%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q527527 succession statement (retrieved 2026-07-18) |
+| [Saxe-Lauenburg (1296–1876 CE)](Saxe-Lauenburg%20%281296%E2%80%931876%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q313175 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Germany (843–1806 CE)](Kingdom%20of%20Germany%20%28843%E2%80%931806%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q175211 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Germany (843–1806 CE)](Kingdom%20of%20Germany%20%28843%E2%80%931806%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q175211 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

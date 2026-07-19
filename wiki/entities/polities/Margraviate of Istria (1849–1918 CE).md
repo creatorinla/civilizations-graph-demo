@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austrian Littoral (1813–1919 CE)](Austrian%20Littoral%20%281813%E2%80%931919%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3847034 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austrian Littoral (1813–1919 CE)](Austrian%20Littoral%20%281813%E2%80%931919%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3847034 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

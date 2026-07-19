@@ -36,24 +36,24 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Masmughans of Damavand](Masmughans%20of%20Damavand.html) | transition | — | — | tentative | reference work | Wikidata Q83891 succession statement (retrieved 2026-07-13) |
-| [Rashidun Caliphate (632–661 CE)](Rashidun%20Caliphate%20%28632%E2%80%93661%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Masmughans of Damavand](Masmughans%20of%20Damavand.html) | transition | — | tentative | reference work | Wikidata Q83891 succession statement (retrieved 2026-07-13) |
+| [Rashidun Caliphate (632–661 CE)](Rashidun%20Caliphate%20%28632%E2%80%93661%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12490507 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Elymais (147 BCE – 224 CE)](Elymais%20%28147%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1275158 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Persia (300–212 BCE)](Kingdom%20of%20Persia%20%28300%E2%80%93212%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q83891 succession statement (retrieved 2026-07-13) |
-| [Parthian Empire (247 BCE – 224 CE)](Parthian%20Empire%20%28247%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Elymais (147 BCE – 224 CE)](Elymais%20%28147%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1275158 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Persia (300–212 BCE)](Kingdom%20of%20Persia%20%28300%E2%80%93212%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q83891 succession statement (retrieved 2026-07-13) |
+| [Parthian Empire (247 BCE – 224 CE)](Parthian%20Empire%20%28247%20BCE%20%E2%80%93%20224%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1986139 succession statement (retrieved 2026-07-11) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q83891 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q83891 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

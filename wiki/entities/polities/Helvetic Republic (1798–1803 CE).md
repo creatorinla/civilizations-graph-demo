@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federation of thirteen cantons (1481–1798 CE)](Federation%20of%20thirteen%20cantons%20%281481%E2%80%931798%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q351537 succession statement (retrieved 2026-07-18) |
-| [Old Swiss Confederacy (1291–1798 CE)](Old%20Swiss%20Confederacy%20%281291%E2%80%931798%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q435583 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federation of thirteen cantons (1481–1798 CE)](Federation%20of%20thirteen%20cantons%20%281481%E2%80%931798%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q351537 succession statement (retrieved 2026-07-18) |
+| [Old Swiss Confederacy (1291–1798 CE)](Old%20Swiss%20Confederacy%20%281291%E2%80%931798%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q435583 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

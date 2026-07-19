@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Federal Republic of Cameroon (1961–1972 CE)](Federal%20Republic%20of%20Cameroon%20%281961%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q30744169 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1028848 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kamerun (1884–1919 CE)](Kamerun%20%281884%E2%80%931919%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1028848 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

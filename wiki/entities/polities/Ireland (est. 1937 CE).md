@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Irish Free State (1922–1937 CE)](Irish%20Free%20State%20%281922%E2%80%931937%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q31747 succession statement (retrieved 2026-07-18) |
-| [United Kingdom of Great Britain and Ireland (1801–1927 CE)](United%20Kingdom%20of%20Great%20Britain%20and%20Ireland%20%281801%E2%80%931927%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q174193 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Irish Free State (1922–1937 CE)](Irish%20Free%20State%20%281922%E2%80%931937%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q31747 succession statement (retrieved 2026-07-18) |
+| [United Kingdom of Great Britain and Ireland (1801–1927 CE)](United%20Kingdom%20of%20Great%20Britain%20and%20Ireland%20%281801%E2%80%931927%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q174193 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

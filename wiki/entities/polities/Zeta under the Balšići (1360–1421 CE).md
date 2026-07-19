@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Serbian Despotate (1402–1537 CE)](Serbian%20Despotate%20%281402%E2%80%931537%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Serbian Despotate (1402–1537 CE)](Serbian%20Despotate%20%281402%E2%80%931537%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Serbian Empire (1346–1371 CE)](Serbian%20Empire%20%281346%E2%80%931371%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Serbian Empire (1346–1371 CE)](Serbian%20Empire%20%281346%E2%80%931371%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q8069734 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -24,18 +24,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Egypt (est. 1922 CE)](Egypt%20%28est.%201922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
-| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
-| [Syria (est. 1920 CE)](Syria%20%28est.%201920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Egypt (est. 1922 CE)](Egypt%20%28est.%201922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
+| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
+| [Syria (est. 1920 CE)](Syria%20%28est.%201920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Egypt (1953–1958 CE)](Republic%20of%20Egypt%20%281953%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3087763 succession statement (retrieved 2026-07-18) |
-| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Egypt (1953–1958 CE)](Republic%20of%20Egypt%20%281953%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3087763 succession statement (retrieved 2026-07-18) |
+| [Second Syrian Republic (1930–1958 CE)](Second%20Syrian%20Republic%20%281930%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170468 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

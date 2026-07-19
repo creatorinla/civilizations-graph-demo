@@ -27,11 +27,11 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dutch East Indies (1800–1949 CE)](Dutch%20East%20Indies%20%281800%E2%80%931949%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q188161 containment statement (retrieved 2026-07-18) |
-| [Netherlands Antilles (1954–2010 CE)](Netherlands%20Antilles%20%281954%E2%80%932010%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q130654 containment statement (retrieved 2026-07-18) |
-| [Surinam (1667–1954 CE)](Surinam%20%281667%E2%80%931954%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q7646305 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dutch East Indies (1800–1949 CE)](Dutch%20East%20Indies%20%281800%E2%80%931949%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q188161 containment statement (retrieved 2026-07-18) |
+| [Netherlands Antilles (1954–2010 CE)](Netherlands%20Antilles%20%281954%E2%80%932010%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q130654 containment statement (retrieved 2026-07-18) |
+| [Surinam (1667–1954 CE)](Surinam%20%281667%E2%80%931954%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q7646305 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

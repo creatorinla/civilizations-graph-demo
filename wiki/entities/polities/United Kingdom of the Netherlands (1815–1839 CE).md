@@ -23,17 +23,17 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Belgium (est. 1830 CE)](Belgium%20%28est.%201830%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15864 succession statement (retrieved 2026-07-18) |
-| [Duchy of Limburg (1839–1866 CE)](Duchy%20of%20Limburg%20%281839%E2%80%931866%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q376009 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Belgium (est. 1830 CE)](Belgium%20%28est.%201830%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15864 succession statement (retrieved 2026-07-18) |
+| [Duchy of Limburg (1839–1866 CE)](Duchy%20of%20Limburg%20%281839%E2%80%931866%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q376009 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Looz (1040–1795 CE)](County%20of%20Looz%20%281040%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q707584 succession statement (retrieved 2026-07-18) |
-| [Sovereign Principality of the United Netherlands (1813–1815 CE)](Sovereign%20Principality%20of%20the%20United%20Netherlands%20%281813%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q774783 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Looz (1040–1795 CE)](County%20of%20Looz%20%281040%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q707584 succession statement (retrieved 2026-07-18) |
+| [Sovereign Principality of the United Netherlands (1813–1815 CE)](Sovereign%20Principality%20of%20the%20United%20Netherlands%20%281813%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q774783 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

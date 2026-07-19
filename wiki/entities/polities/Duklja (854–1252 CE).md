@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Zeta (1360–1516 CE)](Principality%20of%20Zeta%20%281360%E2%80%931516%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1252942 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Zeta (1360–1516 CE)](Principality%20of%20Zeta%20%281360%E2%80%931516%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1252942 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

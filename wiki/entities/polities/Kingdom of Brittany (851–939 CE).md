@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Brittany (939–1547 CE)](Duchy%20of%20Brittany%20%28939%E2%80%931547%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q771193 succession statement (retrieved 2026-07-18) |
-| [Duchy of Normandy (911–1259 CE)](Duchy%20of%20Normandy%20%28911%E2%80%931259%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q842091 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Brittany (939–1547 CE)](Duchy%20of%20Brittany%20%28939%E2%80%931547%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q771193 succession statement (retrieved 2026-07-18) |
+| [Duchy of Normandy (911–1259 CE)](Duchy%20of%20Normandy%20%28911%E2%80%931259%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q842091 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

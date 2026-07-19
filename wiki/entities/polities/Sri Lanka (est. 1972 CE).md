@@ -32,9 +32,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Dominion of Ceylon (1948–1972 CE)](Dominion%20of%20Ceylon%20%281948%E2%80%931972%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Dominion of Ceylon (1948–1972 CE)](Dominion%20of%20Ceylon%20%281948%E2%80%931972%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2670092 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

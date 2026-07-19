@@ -18,9 +18,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Rewa Kantha Agency (1811–1937 CE)](Rewa%20Kantha%20Agency%20%281811%E2%80%931937%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q11909249 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Rewa Kantha Agency (1811–1937 CE)](Rewa%20Kantha%20Agency%20%281811%E2%80%931937%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q11909249 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

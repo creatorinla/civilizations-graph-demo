@@ -48,21 +48,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Southern Tang (937–976 CE)](Southern%20Tang%20%28937%E2%80%93976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Southern Tang (937–976 CE)](Southern%20Tang%20%28937%E2%80%93976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1323195 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tang dynasty (618–907 CE)](Tang%20dynasty%20%28618%E2%80%93907%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1323195 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

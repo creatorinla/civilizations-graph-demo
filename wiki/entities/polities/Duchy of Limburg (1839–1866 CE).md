@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United Kingdom of the Netherlands (1815–1839 CE)](United%20Kingdom%20of%20the%20Netherlands%20%281815%E2%80%931839%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q376009 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United Kingdom of the Netherlands (1815–1839 CE)](United%20Kingdom%20of%20the%20Netherlands%20%281815%E2%80%931839%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q376009 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

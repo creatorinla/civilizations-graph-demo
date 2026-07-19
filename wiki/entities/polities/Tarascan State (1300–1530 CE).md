@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [New Spain (1521–1821 CE)](New%20Spain%20%281521%E2%80%931821%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2605410 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [New Spain (1521–1821 CE)](New%20Spain%20%281521%E2%80%931821%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2605410 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

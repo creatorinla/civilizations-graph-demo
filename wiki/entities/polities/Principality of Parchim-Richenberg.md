@@ -19,9 +19,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Mecklenburg (1471–1701 CE)](Duchy%20of%20Mecklenburg%20%281471%E2%80%931701%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1614418 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Mecklenburg (1471–1701 CE)](Duchy%20of%20Mecklenburg%20%281471%E2%80%931701%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1614418 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

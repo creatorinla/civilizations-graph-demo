@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Manchukuo (1932–1945 CE)](Manchukuo%20%281932%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q10869627 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Manchukuo (1932–1945 CE)](Manchukuo%20%281932%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q10869627 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

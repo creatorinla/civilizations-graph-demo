@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Zimbabwe (1220–1450 CE)](Kingdom%20of%20Zimbabwe%20%281220%E2%80%931450%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q986881 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Zimbabwe (1220–1450 CE)](Kingdom%20of%20Zimbabwe%20%281220%E2%80%931450%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q986881 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Great Britain (1707–1801 CE)](Kingdom%20of%20Great%20Britain%20%281707%E2%80%931801%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q230791 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Great Britain (1707–1801 CE)](Kingdom%20of%20Great%20Britain%20%281707%E2%80%931801%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q230791 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

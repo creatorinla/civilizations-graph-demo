@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Iraq (1921–1958 CE)](Kingdom%20of%20Iraq%20%281921%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q149805 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Iraq (1921–1958 CE)](Kingdom%20of%20Iraq%20%281921%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q149805 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

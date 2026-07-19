@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Republic of Formosa (1895–1895 CE)](Republic%20of%20Formosa%20%281895%E2%80%931895%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q391189 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Republic of Formosa (1895–1895 CE)](Republic%20of%20Formosa%20%281895%E2%80%931895%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q391189 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q391189 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Tungning (1661–1683 CE)](Kingdom%20of%20Tungning%20%281661%E2%80%931683%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q391189 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

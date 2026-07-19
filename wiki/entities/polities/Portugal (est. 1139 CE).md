@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q45670 succession statement (retrieved 2026-07-18) |
-| [Portuguese Empire (1415–1999 CE)](Portuguese%20Empire%20%281415%E2%80%931999%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q200464 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Portugal (1139–1910 CE)](Kingdom%20of%20Portugal%20%281139%E2%80%931910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q45670 succession statement (retrieved 2026-07-18) |
+| [Portuguese Empire (1415–1999 CE)](Portuguese%20Empire%20%281415%E2%80%931999%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q200464 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

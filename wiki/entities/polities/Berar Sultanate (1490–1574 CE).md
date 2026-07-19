@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ahmadnagar Sultanate (1490–1636 CE)](Ahmadnagar%20Sultanate%20%281490%E2%80%931636%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q818666 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ahmadnagar Sultanate (1490–1636 CE)](Ahmadnagar%20Sultanate%20%281490%E2%80%931636%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q818666 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bahmani Sultanate (1347–1527 CE)](Bahmani%20Sultanate%20%281347%E2%80%931527%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q818666 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bahmani Sultanate (1347–1527 CE)](Bahmani%20Sultanate%20%281347%E2%80%931527%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q818666 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

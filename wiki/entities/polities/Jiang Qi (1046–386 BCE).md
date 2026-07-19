@@ -26,21 +26,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tian Qi (386–221 BCE)](Tian%20Qi%20%28386%E2%80%93221%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11091481 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tian Qi (386–221 BCE)](Tian%20Qi%20%28386%E2%80%93221%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q11091481 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zhu (until 768 BCE)](Zhu%20%28until%20768%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16510394 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zhu (until 768 BCE)](Zhu%20%28until%20768%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q16510394 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qi (1045–221 BCE)](Qi%20%281045%E2%80%93221%20BCE%29.html) | has part | — | — | tentative | reference work | Wikidata Q11091481 containment statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qi (1045–221 BCE)](Qi%20%281045%E2%80%93221%20BCE%29.html) | has part | — | tentative | reference work | Wikidata Q11091481 containment statement (retrieved 2026-07-13) |
 
 ## Sources
 

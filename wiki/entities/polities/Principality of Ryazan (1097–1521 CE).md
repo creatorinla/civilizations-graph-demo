@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Pronsk (c. 1100–1400 CE)](Principality%20of%20Pronsk%20%28c.%201100%E2%80%931400%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q4380829 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Pronsk (c. 1100–1400 CE)](Principality%20of%20Pronsk%20%28c.%201100%E2%80%931400%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q4380829 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

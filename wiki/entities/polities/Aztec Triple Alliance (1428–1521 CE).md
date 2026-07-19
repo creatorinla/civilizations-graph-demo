@@ -24,11 +24,11 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Tenochtitlan (1325–1521 CE)](Tenochtitlan%20%281325%E2%80%931521%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
-| [Texcoco](Texcoco.html) | has part | — | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
-| [Tlacopan](Tlacopan.html) | has part | — | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Tenochtitlan (1325–1521 CE)](Tenochtitlan%20%281325%E2%80%931521%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
+| [Texcoco](Texcoco.html) | has part | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
+| [Tlacopan](Tlacopan.html) | has part | — | tentative | reference work | Wikidata Q794210 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

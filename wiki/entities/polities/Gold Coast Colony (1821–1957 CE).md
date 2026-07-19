@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ghana (est. 1957 CE)](Ghana%20%28est.%201957%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q503623 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ghana (est. 1957 CE)](Ghana%20%28est.%201957%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q503623 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gold Coast](Gold%20Coast.html) | transition | — | — | tentative | reference work | Wikidata Q23498721 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gold Coast](Gold%20Coast.html) | transition | — | tentative | reference work | Wikidata Q23498721 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

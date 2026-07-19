@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chinese Empire (220 BCE – 1912 CE)](Chinese%20Empire%20%28220%20BCE%20%E2%80%93%201912%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q12060881 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chinese Empire (220 BCE – 1912 CE)](Chinese%20Empire%20%28220%20BCE%20%E2%80%93%201912%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q12060881 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

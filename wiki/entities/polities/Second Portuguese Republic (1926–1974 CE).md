@@ -23,9 +23,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Estado Novo (1933–1974 CE)](Estado%20Novo%20%281933%E2%80%931974%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q17748736 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Estado Novo (1933–1974 CE)](Estado%20Novo%20%281933%E2%80%931974%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q17748736 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

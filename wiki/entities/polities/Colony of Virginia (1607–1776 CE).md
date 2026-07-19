@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Province of Carolina (1663–1712 CE)](Province%20of%20Carolina%20%281663%E2%80%931712%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1070529 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Province of Carolina (1663–1712 CE)](Province%20of%20Carolina%20%281663%E2%80%931712%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1070529 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Thirteen Colonies (1607–1776 CE)](Thirteen%20Colonies%20%281607%E2%80%931776%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1070529 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Thirteen Colonies (1607–1776 CE)](Thirteen%20Colonies%20%281607%E2%80%931776%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1070529 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

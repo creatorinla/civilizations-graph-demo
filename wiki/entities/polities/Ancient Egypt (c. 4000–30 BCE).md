@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11696332 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Medieval Egypt (est. 641 CE)](Medieval%20Egypt%20%28est.%20641%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11696332 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

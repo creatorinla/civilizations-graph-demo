@@ -66,9 +66,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Xia dynasty (2205–1600 BCE)](Xia%20dynasty%20%282205%E2%80%931600%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q201727 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Xia dynasty (2205–1600 BCE)](Xia%20dynasty%20%282205%E2%80%931600%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q201727 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

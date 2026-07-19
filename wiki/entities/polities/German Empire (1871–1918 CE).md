@@ -27,28 +27,28 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q207272 succession statement (retrieved 2026-07-18) |
-| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q43287 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Second Polish Republic (1918–1939 CE)](Second%20Polish%20Republic%20%281918%E2%80%931939%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q207272 succession statement (retrieved 2026-07-18) |
+| [Weimar Republic (1918–1933 CE)](Weimar%20Republic%20%281918%E2%80%931933%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q43287 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North German Confederation (1867–1870 CE)](North%20German%20Confederation%20%281867%E2%80%931870%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q43287 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North German Confederation (1867–1870 CE)](North%20German%20Confederation%20%281867%E2%80%931870%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q43287 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q329618 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German colonial empire (1884–1920 CE)](German%20colonial%20empire%20%281884%E2%80%931920%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q329618 containment statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1206012 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1206012 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

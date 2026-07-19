@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taungoo dynasty (1485–1752 CE)](Taungoo%20dynasty%20%281485%E2%80%931752%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2500952 succession statement (retrieved 2026-07-18) |
-| [Yawnghwe (1359–1959 CE)](Yawnghwe%20%281359%E2%80%931959%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q18750170 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taungoo dynasty (1485–1752 CE)](Taungoo%20dynasty%20%281485%E2%80%931752%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2500952 succession statement (retrieved 2026-07-18) |
+| [Yawnghwe (1359–1959 CE)](Yawnghwe%20%281359%E2%80%931959%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q18750170 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

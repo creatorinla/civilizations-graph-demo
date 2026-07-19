@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q508488 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [First French Empire (1804–1815 CE)](First%20French%20Empire%20%281804%E2%80%931815%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q508488 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

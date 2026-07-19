@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Capitanía General de la Costa del Reino de Granada (1574–1835 CE)](Capitan%C3%ADa%20General%20de%20la%20Costa%20del%20Reino%20de%20Granada%20%281574%E2%80%931835%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q39080885 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Capitanía General de la Costa del Reino de Granada (1574–1835 CE)](Capitan%C3%ADa%20General%20de%20la%20Costa%20del%20Reino%20de%20Granada%20%281574%E2%80%931835%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q39080885 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Granada (1492–1833 CE)](Kingdom%20of%20Granada%20%281492%E2%80%931833%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1796202 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Granada (1492–1833 CE)](Kingdom%20of%20Granada%20%281492%E2%80%931833%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1796202 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

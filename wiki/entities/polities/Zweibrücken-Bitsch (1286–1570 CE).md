@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [lordship of Lichtenberg (c. 1200–1480 CE)](lordship%20of%20Lichtenberg%20%28c.%201200%E2%80%931480%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q320530 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [lordship of Lichtenberg (c. 1200–1480 CE)](lordship%20of%20Lichtenberg%20%28c.%201200%E2%80%931480%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q320530 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

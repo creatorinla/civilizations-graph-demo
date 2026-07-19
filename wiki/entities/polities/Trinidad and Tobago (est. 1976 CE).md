@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2660774 succession statement (retrieved 2026-07-18) |
-| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q754 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Windward Islands (1833–1958 CE)](British%20Windward%20Islands%20%281833%E2%80%931958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2660774 succession statement (retrieved 2026-07-18) |
+| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q754 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

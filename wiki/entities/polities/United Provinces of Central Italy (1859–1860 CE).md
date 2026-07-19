@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Modena and Reggio (1452–1859 CE)](Duchy%20of%20Modena%20and%20Reggio%20%281452%E2%80%931859%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2268597 succession statement (retrieved 2026-07-18) |
-| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2268597 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Modena and Reggio (1452–1859 CE)](Duchy%20of%20Modena%20and%20Reggio%20%281452%E2%80%931859%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2268597 succession statement (retrieved 2026-07-18) |
+| [Grand Duchy of Tuscany (1569–1860 CE)](Grand%20Duchy%20of%20Tuscany%20%281569%E2%80%931860%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2268597 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

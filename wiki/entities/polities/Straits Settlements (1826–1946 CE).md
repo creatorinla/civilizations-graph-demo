@@ -23,22 +23,22 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of Singapore (1946–1959 CE)](Colony%20of%20Singapore%20%281946%E2%80%931959%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4373718 succession statement (retrieved 2026-07-18) |
-| [Malayan Union (1946–1948 CE)](Malayan%20Union%20%281946%E2%80%931948%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q976099 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of Singapore (1946–1959 CE)](Colony%20of%20Singapore%20%281946%E2%80%931959%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4373718 succession statement (retrieved 2026-07-18) |
+| [Malayan Union (1946–1948 CE)](Malayan%20Union%20%281946%E2%80%931948%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q976099 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Johor Sultanate (1528–1946 CE)](Johor%20Sultanate%20%281528%E2%80%931946%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1150344 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Johor Sultanate (1528–1946 CE)](Johor%20Sultanate%20%281528%E2%80%931946%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1150344 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Malaya (1826–1957 CE)](British%20Malaya%20%281826%E2%80%931957%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q871091 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Malaya (1826–1957 CE)](British%20Malaya%20%281826%E2%80%931957%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q871091 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

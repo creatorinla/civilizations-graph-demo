@@ -32,15 +32,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Shang dynasty (1600–1046 BCE)](Shang%20dynasty%20%281600%E2%80%931046%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q169705 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Shang dynasty (1600–1046 BCE)](Shang%20dynasty%20%281600%E2%80%931046%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q169705 succession statement (retrieved 2026-07-13) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Three Sovereigns and Five Emperors (2852–2070 BCE)](Three%20Sovereigns%20and%20Five%20Emperors%20%282852%E2%80%932070%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q201727 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Three Sovereigns and Five Emperors (2852–2070 BCE)](Three%20Sovereigns%20and%20Five%20Emperors%20%282852%E2%80%932070%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q201727 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

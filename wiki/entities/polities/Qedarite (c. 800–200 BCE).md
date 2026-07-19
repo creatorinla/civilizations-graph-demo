@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Nabataean kingdom (c. 400 BCE – 106 CE)](Nabataean%20kingdom%20%28c.%20400%20BCE%20%E2%80%93%20106%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2287491 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Nabataean kingdom (c. 400 BCE – 106 CE)](Nabataean%20kingdom%20%28c.%20400%20BCE%20%E2%80%93%20106%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2287491 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

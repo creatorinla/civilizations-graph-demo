@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Butua (1450–1683 CE)](Kingdom%20of%20Butua%20%281450%E2%80%931683%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q986881 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Mutapa (1430–1760 CE)](Kingdom%20of%20Mutapa%20%281430%E2%80%931760%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q854468 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Butua (1450–1683 CE)](Kingdom%20of%20Butua%20%281450%E2%80%931683%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q986881 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Mutapa (1430–1760 CE)](Kingdom%20of%20Mutapa%20%281430%E2%80%931760%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q854468 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

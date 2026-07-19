@@ -24,11 +24,11 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chūzan (1314–1429 CE)](Ch%C5%ABzan%20%281314%E2%80%931429%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q55521 succession statement (retrieved 2026-07-18) |
-| [Hokuzan (1314–1416 CE)](Hokuzan%20%281314%E2%80%931416%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q55523 succession statement (retrieved 2026-07-18) |
-| [Nanzan (1314–1429 CE)](Nanzan%20%281314%E2%80%931429%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q55522 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chūzan (1314–1429 CE)](Ch%C5%ABzan%20%281314%E2%80%931429%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q55521 succession statement (retrieved 2026-07-18) |
+| [Hokuzan (1314–1416 CE)](Hokuzan%20%281314%E2%80%931416%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q55523 succession statement (retrieved 2026-07-18) |
+| [Nanzan (1314–1429 CE)](Nanzan%20%281314%E2%80%931429%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q55522 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

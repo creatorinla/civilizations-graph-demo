@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Q11074448](Q11074448.html) | transition | — | — | tentative | reference work | Wikidata Q11074448 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Q11074448](Q11074448.html) | transition | — | tentative | reference work | Wikidata Q11074448 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

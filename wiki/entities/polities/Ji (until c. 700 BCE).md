@@ -29,9 +29,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yan (until 222 BCE)](Yan%20%28until%20222%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1055713 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yan (until 222 BCE)](Yan%20%28until%20222%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q1055713 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1311219 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Pandya dynasty (300 BCE – 1650 CE)](Pandya%20dynasty%20%28300%20BCE%20%E2%80%93%201650%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1311219 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

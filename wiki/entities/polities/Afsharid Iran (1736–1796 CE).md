@@ -27,21 +27,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Qajar Iran (1789–1925 CE)](Qajar%20Iran%20%281789%E2%80%931925%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63158027 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Qajar Iran (1789–1925 CE)](Qajar%20Iran%20%281789%E2%80%931925%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63158027 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Safavid Iran (1501–1736 CE)](Safavid%20Iran%20%281501%E2%80%931736%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q63149558 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Safavid Iran (1501–1736 CE)](Safavid%20Iran%20%281501%E2%80%931736%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q63149558 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q63149558 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Persian Empire (550 BCE – 1979 CE)](Persian%20Empire%20%28550%20BCE%20%E2%80%93%201979%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q63149558 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -28,16 +28,16 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Tunisia (1956–1957 CE)](Kingdom%20of%20Tunisia%20%281956%E2%80%931957%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6412669 succession statement (retrieved 2026-07-18) |
-| [Tunisia (est. 1956 CE)](Tunisia%20%28est.%201956%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q948 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Tunisia (1956–1957 CE)](Kingdom%20of%20Tunisia%20%281956%E2%80%931957%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6412669 succession statement (retrieved 2026-07-18) |
+| [Tunisia (est. 1956 CE)](Tunisia%20%28est.%201956%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q948 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q2017684 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [French colonial empire (1534–1980 CE)](French%20colonial%20empire%20%281534%E2%80%931980%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q2017684 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

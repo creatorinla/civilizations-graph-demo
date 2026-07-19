@@ -26,21 +26,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Yemen Republic (1962–1990 CE)](Yemen%20Republic%20%281962%E2%80%931990%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q580188 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Yemen Republic (1962–1990 CE)](Yemen%20Republic%20%281962%E2%80%931990%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q580188 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Imam of Yemen](Imam%20of%20Yemen.html) | transition | — | — | tentative | reference work | Wikidata Q1042069 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Imam of Yemen](Imam%20of%20Yemen.html) | transition | — | tentative | reference work | Wikidata Q1042069 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North Yemen](North%20Yemen.html) | has part | — | — | tentative | reference work | Wikidata Q1998401 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North Yemen](North%20Yemen.html) | has part | — | tentative | reference work | Wikidata Q1998401 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

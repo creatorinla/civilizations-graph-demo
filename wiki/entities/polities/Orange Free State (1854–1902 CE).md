@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Orange River Colony (1902–1910 CE)](Orange%20River%20Colony%20%281902%E2%80%931910%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1142179 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Orange River Colony (1902–1910 CE)](Orange%20River%20Colony%20%281902%E2%80%931910%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1142179 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Orange River Sovereignty (1848–1854 CE)](Orange%20River%20Sovereignty%20%281848%E2%80%931854%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3048062 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Orange River Sovereignty (1848–1854 CE)](Orange%20River%20Sovereignty%20%281848%E2%80%931854%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3048062 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

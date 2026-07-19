@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Equatorial Guinea (est. 1968 CE)](Equatorial%20Guinea%20%28est.%201968%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1232509 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Equatorial Guinea (est. 1968 CE)](Equatorial%20Guinea%20%28est.%201968%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1232509 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

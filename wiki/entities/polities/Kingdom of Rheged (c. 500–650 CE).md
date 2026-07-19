@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Northumbria (653–954 CE)](Kingdom%20of%20Northumbria%20%28653%E2%80%93954%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q633573 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Northumbria (653–954 CE)](Kingdom%20of%20Northumbria%20%28653%E2%80%93954%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q633573 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Carwinley](Kingdom%20of%20Carwinley.html) | transition | — | — | tentative | reference work | Wikidata Q3780146 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Carwinley](Kingdom%20of%20Carwinley.html) | transition | — | tentative | reference work | Wikidata Q3780146 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

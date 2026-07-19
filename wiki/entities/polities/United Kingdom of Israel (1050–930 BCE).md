@@ -26,10 +26,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Israel (930–720 BCE)](Kingdom%20of%20Israel%20%28930%E2%80%93720%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3185305 succession statement (retrieved 2026-07-13) |
-| [Kingdom of Judah (930–586 BCE)](Kingdom%20of%20Judah%20%28930%E2%80%93586%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3185305 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Israel (930–720 BCE)](Kingdom%20of%20Israel%20%28930%E2%80%93720%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q3185305 succession statement (retrieved 2026-07-13) |
+| [Kingdom of Judah (930–586 BCE)](Kingdom%20of%20Judah%20%28930%E2%80%93586%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q3185305 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

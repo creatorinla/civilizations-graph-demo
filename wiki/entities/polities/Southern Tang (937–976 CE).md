@@ -43,24 +43,24 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern Song dynasty (960–1127 CE)](Northern%20Song%20dynasty%20%28960%E2%80%931127%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern Song dynasty (960–1127 CE)](Northern%20Song%20dynasty%20%28960%E2%80%931127%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chu (907–951 CE)](Chu%20%28907%E2%80%93951%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
-| [Min (909–945 CE)](Min%20%28909%E2%80%93945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
-| [Yang Wu (902–937 CE)](Yang%20Wu%20%28902%E2%80%93937%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
-| [Yin (943–945 CE)](Yin%20%28943%E2%80%93945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q4202348 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chu (907–951 CE)](Chu%20%28907%E2%80%93951%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
+| [Min (909–945 CE)](Min%20%28909%E2%80%93945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
+| [Yang Wu (902–937 CE)](Yang%20Wu%20%28902%E2%80%93937%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1326742 succession statement (retrieved 2026-07-18) |
+| [Yin (943–945 CE)](Yin%20%28943%E2%80%93945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q4202348 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ten Kingdoms](Ten%20Kingdoms.html) | has part | — | tentative | reference work | Wikidata Q20716241 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

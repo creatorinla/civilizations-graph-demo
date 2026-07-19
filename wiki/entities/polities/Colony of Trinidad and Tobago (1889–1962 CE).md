@@ -26,21 +26,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q116282722 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Trinidad and Tobago (1962–1976 CE)](Trinidad%20and%20Tobago%20%281962%E2%80%931976%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q116282722 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Colony of Trinidad (est. 1802 CE)](Colony%20of%20Trinidad%20%28est.%201802%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q116288296 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Colony of Trinidad (est. 1802 CE)](Colony%20of%20Trinidad%20%28est.%201802%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q116288296 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q116282722 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Empire (1583–1997 CE)](British%20Empire%20%281583%E2%80%931997%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q116282722 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

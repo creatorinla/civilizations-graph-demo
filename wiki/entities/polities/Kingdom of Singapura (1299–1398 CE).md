@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Malacca sultanate (1400–1511 CE)](Malacca%20sultanate%20%281400%E2%80%931511%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Malacca sultanate (1400–1511 CE)](Malacca%20sultanate%20%281400%E2%80%931511%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q46652 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Srivijaya (650–1377 CE)](Srivijaya%20%28650%E2%80%931377%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q234197 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Srivijaya (650–1377 CE)](Srivijaya%20%28650%E2%80%931377%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q234197 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

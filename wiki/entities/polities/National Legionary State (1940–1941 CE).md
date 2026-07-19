@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2507497 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2507497 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2507497 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Romania (1881–1947 CE)](Kingdom%20of%20Romania%20%281881%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2507497 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

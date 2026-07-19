@@ -24,23 +24,23 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q153091 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q153091 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q153091 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Prussia (1701–1918 CE)](Kingdom%20of%20Prussia%20%281701%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q153091 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of the Teutonic Order (1230–1525 CE)](State%20of%20the%20Teutonic%20Order%20%281230%E2%80%931525%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q156020 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of the Teutonic Order (1230–1525 CE)](State%20of%20the%20Teutonic%20Order%20%281230%E2%80%931525%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q156020 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
-| [Prussia (1525–1947 CE)](Prussia%20%281525%E2%80%931947%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q153091 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Brandenburg-Prussia (1618–1701 CE)](Brandenburg-Prussia%20%281618%E2%80%931701%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q157367 containment statement (retrieved 2026-07-18) |
+| [Prussia (1525–1947 CE)](Prussia%20%281525%E2%80%931947%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q153091 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

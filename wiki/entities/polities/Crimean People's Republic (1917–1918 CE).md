@@ -25,9 +25,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Taurida Soviet Socialist Republic (1918–1918 CE)](Taurida%20Soviet%20Socialist%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2579852 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Taurida Soviet Socialist Republic (1918–1918 CE)](Taurida%20Soviet%20Socialist%20Republic%20%281918%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2579852 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

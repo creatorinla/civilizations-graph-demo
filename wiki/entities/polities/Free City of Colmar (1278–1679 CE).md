@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Landgraviate of Upper Alsace (c. 1200–1648 CE)](Landgraviate%20of%20Upper%20Alsace%20%28c.%201200%E2%80%931648%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q97924757 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Landgraviate of Upper Alsace (c. 1200–1648 CE)](Landgraviate%20of%20Upper%20Alsace%20%28c.%201200%E2%80%931648%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q97924757 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Décapole (1354–1679 CE)](D%C3%A9capole%20%281354%E2%80%931679%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q184646 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Décapole (1354–1679 CE)](D%C3%A9capole%20%281354%E2%80%931679%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q184646 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

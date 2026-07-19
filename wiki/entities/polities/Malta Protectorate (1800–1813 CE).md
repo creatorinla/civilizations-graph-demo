@@ -25,15 +25,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Crown Colony of Malta (1813–1964 CE)](Crown%20Colony%20of%20Malta%20%281813%E2%80%931964%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6744683 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Crown Colony of Malta (1813–1964 CE)](Crown%20Colony%20of%20Malta%20%281813%E2%80%931964%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6744683 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Gozo (1798–1800 CE)](Gozo%20%281798%E2%80%931800%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6744683 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Gozo (1798–1800 CE)](Gozo%20%281798%E2%80%931800%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6744683 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

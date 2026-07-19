@@ -24,10 +24,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Guinea (est. 1958 CE)](Guinea%20%28est.%201958%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q797433 succession statement (retrieved 2026-07-18) |
-| [People's Revolutionary Republic of Guinea (1958–1984 CE)](People%27s%20Revolutionary%20Republic%20of%20Guinea%20%281958%E2%80%931984%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q98605707 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Guinea (est. 1958 CE)](Guinea%20%28est.%201958%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q797433 succession statement (retrieved 2026-07-18) |
+| [People's Revolutionary Republic of Guinea (1958–1984 CE)](People%27s%20Revolutionary%20Republic%20of%20Guinea%20%281958%E2%80%931984%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q98605707 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

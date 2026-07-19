@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chalukya dynasty (543–753 CE)](Chalukya%20dynasty%20%28543%E2%80%93753%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1395011 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chalukya dynasty (543–753 CE)](Chalukya%20dynasty%20%28543%E2%80%93753%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1395011 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

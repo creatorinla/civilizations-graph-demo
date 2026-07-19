@@ -27,11 +27,11 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bolivia (est. 1825 CE)](Bolivia%20%28est.%201825%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
-| [North Peru (1836–1839 CE)](North%20Peru%20%281836%E2%80%931839%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
-| [South Peru (1836–1839 CE)](South%20Peru%20%281836%E2%80%931839%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bolivia (est. 1825 CE)](Bolivia%20%28est.%201825%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
+| [North Peru (1836–1839 CE)](North%20Peru%20%281836%E2%80%931839%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
+| [South Peru (1836–1839 CE)](South%20Peru%20%281836%E2%80%931839%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q899706 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

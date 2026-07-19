@@ -32,9 +32,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kyrgyzstan (est. 1991 CE)](Kyrgyzstan%20%28est.%201991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q130276 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kyrgyzstan (est. 1991 CE)](Kyrgyzstan%20%28est.%201991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q130276 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

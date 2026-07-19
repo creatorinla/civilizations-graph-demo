@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Spain under Joseph Bonaparte (1808–1813 CE)](Spain%20under%20Joseph%20Bonaparte%20%281808%E2%80%931813%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15238138 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Spain under Joseph Bonaparte (1808–1813 CE)](Spain%20under%20Joseph%20Bonaparte%20%281808%E2%80%931813%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15238138 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

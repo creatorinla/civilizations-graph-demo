@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Carcassonne](County%20of%20Carcassonne.html) | transition | — | — | tentative | reference work | Wikidata Q38697063 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Carcassonne](County%20of%20Carcassonne.html) | transition | — | tentative | reference work | Wikidata Q38697063 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

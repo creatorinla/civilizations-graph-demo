@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Grand Duchy of Baden (1806–1918 CE)](Grand%20Duchy%20of%20Baden%20%281806%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q58856346 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Württemberg (1806–1918 CE)](Kingdom%20of%20W%C3%BCrttemberg%20%281806%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q58856346 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Grand Duchy of Baden (1806–1918 CE)](Grand%20Duchy%20of%20Baden%20%281806%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q58856346 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Württemberg (1806–1918 CE)](Kingdom%20of%20W%C3%BCrttemberg%20%281806%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q58856346 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

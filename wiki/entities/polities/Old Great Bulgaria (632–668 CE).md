@@ -24,15 +24,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Volga Bulgaria (c. 601–1240 CE)](Volga%20Bulgaria%20%28c.%20601%E2%80%931240%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Volga Bulgaria (c. 601–1240 CE)](Volga%20Bulgaria%20%28c.%20601%E2%80%931240%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Avar Khaganate (562–823 CE)](Avar%20Khaganate%20%28562%E2%80%93823%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q191484 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

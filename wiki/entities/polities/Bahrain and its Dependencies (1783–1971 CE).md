@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [State of Bahrain (1971–2002 CE)](State%20of%20Bahrain%20%281971%E2%80%932002%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17061755 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [State of Bahrain (1971–2002 CE)](State%20of%20Bahrain%20%281971%E2%80%932002%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17061755 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

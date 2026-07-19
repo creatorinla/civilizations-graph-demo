@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Maldives (est. 1965 CE)](Maldives%20%28est.%201965%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11344632 succession statement (retrieved 2026-07-18) |
-| [United Suvadive Republic (1959–1963 CE)](United%20Suvadive%20Republic%20%281959%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q11344632 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Maldives (est. 1965 CE)](Maldives%20%28est.%201965%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11344632 succession statement (retrieved 2026-07-18) |
+| [United Suvadive Republic (1959–1963 CE)](United%20Suvadive%20Republic%20%281959%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q11344632 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Chagatai Khanate (1225–1687 CE)](Chagatai%20Khanate%20%281225%E2%80%931687%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q6412624 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Chagatai Khanate (1225–1687 CE)](Chagatai%20Khanate%20%281225%E2%80%931687%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q6412624 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

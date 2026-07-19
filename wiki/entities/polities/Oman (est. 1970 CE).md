@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Oman proper (751–1970 CE)](Oman%20proper%20%28751%E2%80%931970%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2342282 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Oman proper (751–1970 CE)](Oman%20proper%20%28751%E2%80%931970%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2342282 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

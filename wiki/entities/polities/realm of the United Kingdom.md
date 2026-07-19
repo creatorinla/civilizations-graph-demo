@@ -21,9 +21,9 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [United Kingdom (est. 1801 CE)](United%20Kingdom%20%28est.%201801%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q124653007 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [United Kingdom (est. 1801 CE)](United%20Kingdom%20%28est.%201801%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q124653007 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

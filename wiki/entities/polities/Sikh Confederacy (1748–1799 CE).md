@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kapurthala State (1772–1947 CE)](Kapurthala%20State%20%281772%E2%80%931947%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q2578028 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kapurthala State (1772–1947 CE)](Kapurthala%20State%20%281772%E2%80%931947%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q2578028 succession statement (retrieved 2026-07-18) |
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ramgarhia Misl](Ramgarhia%20Misl.html) | has part | — | — | tentative | reference work | Wikidata Q85795812 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ramgarhia Misl](Ramgarhia%20Misl.html) | has part | — | tentative | reference work | Wikidata Q85795812 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

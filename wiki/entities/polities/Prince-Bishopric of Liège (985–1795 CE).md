@@ -26,18 +26,18 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Bouillon (until 1794 CE)](Duchy%20of%20Bouillon%20%28until%201794%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q688859 succession statement (retrieved 2026-07-18) |
-| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q158835 succession statement (retrieved 2026-07-18) |
-| [Republic of Liège (1789–1791 CE)](Republic%20of%20Li%C3%A8ge%20%281789%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456469 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Bouillon (until 1794 CE)](Duchy%20of%20Bouillon%20%28until%201794%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q688859 succession statement (retrieved 2026-07-18) |
+| [French First Republic (1792–1804 CE)](French%20First%20Republic%20%281792%E2%80%931804%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q158835 succession statement (retrieved 2026-07-18) |
+| [Republic of Liège (1789–1791 CE)](Republic%20of%20Li%C3%A8ge%20%281789%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456469 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Looz (1040–1795 CE)](County%20of%20Looz%20%281040%E2%80%931795%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q707584 succession statement (retrieved 2026-07-18) |
-| [Republic of Liège (1789–1791 CE)](Republic%20of%20Li%C3%A8ge%20%281789%E2%80%931791%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3456469 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Looz (1040–1795 CE)](County%20of%20Looz%20%281040%E2%80%931795%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q707584 succession statement (retrieved 2026-07-18) |
+| [Republic of Liège (1789–1791 CE)](Republic%20of%20Li%C3%A8ge%20%281789%E2%80%931791%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3456469 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

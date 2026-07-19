@@ -23,10 +23,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [County of Tyrol (est. 1140 CE)](County%20of%20Tyrol%20%28est.%201140%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1775152 containment statement (retrieved 2026-07-18) |
-| [Further Austria (1278–1805 CE)](Further%20Austria%20%281278%E2%80%931805%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1775152 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [County of Tyrol (est. 1140 CE)](County%20of%20Tyrol%20%28est.%201140%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1775152 containment statement (retrieved 2026-07-18) |
+| [Further Austria (1278–1805 CE)](Further%20Austria%20%281278%E2%80%931805%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1775152 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

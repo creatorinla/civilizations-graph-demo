@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Denmark–Norway (1536–1814 CE)](Denmark%E2%80%93Norway%20%281536%E2%80%931814%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q62651 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Denmark–Norway (1536–1814 CE)](Denmark%E2%80%93Norway%20%281536%E2%80%931814%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q62651 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -29,9 +29,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [North Borneo (1946–1963 CE)](North%20Borneo%20%281946%E2%80%931963%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [North Borneo (1946–1963 CE)](North%20Borneo%20%281946%E2%80%931963%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16933920 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

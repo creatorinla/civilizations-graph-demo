@@ -29,10 +29,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Province of New Hampshire (1634–1776 CE)](Province%20of%20New%20Hampshire%20%281634%E2%80%931776%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
-| [Province of New York (1664–1783 CE)](Province%20of%20New%20York%20%281664%E2%80%931783%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Province of New Hampshire (1634–1776 CE)](Province%20of%20New%20Hampshire%20%281634%E2%80%931776%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
+| [Province of New York (1664–1783 CE)](Province%20of%20New%20York%20%281664%E2%80%931783%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1649602 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

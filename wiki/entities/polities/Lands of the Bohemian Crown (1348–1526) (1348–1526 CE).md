@@ -23,9 +23,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lands of the Bohemian Crown (1348–1918 CE)](Lands%20of%20the%20Bohemian%20Crown%20%281348%E2%80%931918%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q686971 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lands of the Bohemian Crown (1348–1918 CE)](Lands%20of%20the%20Bohemian%20Crown%20%281348%E2%80%931918%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q686971 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

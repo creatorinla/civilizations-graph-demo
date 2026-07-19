@@ -23,10 +23,10 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q623573 succession statement (retrieved 2026-07-18) |
-| [Kingdom of Croatia-Slavonia (1868–1918 CE)](Kingdom%20of%20Croatia-Slavonia%20%281868%E2%80%931918%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q533558 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Austrian Empire (1804–1867 CE)](Austrian%20Empire%20%281804%E2%80%931867%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q623573 succession statement (retrieved 2026-07-18) |
+| [Kingdom of Croatia-Slavonia (1868–1918 CE)](Kingdom%20of%20Croatia-Slavonia%20%281868%E2%80%931918%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q533558 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

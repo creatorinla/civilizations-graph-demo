@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1155700 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Rattanakosin Kingdom (1782–1932 CE)](Rattanakosin%20Kingdom%20%281782%E2%80%931932%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1155700 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ayutthaya Kingdom (1350–1767 CE)](Ayutthaya%20Kingdom%20%281350%E2%80%931767%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1115291 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ayutthaya Kingdom (1350–1767 CE)](Ayutthaya%20Kingdom%20%281350%E2%80%931767%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1115291 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

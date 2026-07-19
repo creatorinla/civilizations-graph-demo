@@ -22,9 +22,9 @@ source_types:
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [China](China.html) | has part | — | — | tentative | reference work | Wikidata Q138637293 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [China](China.html) | has part | — | tentative | reference work | Wikidata Q138637293 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

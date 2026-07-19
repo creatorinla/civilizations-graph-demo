@@ -24,9 +24,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Lithuanian–Byelorussian Soviet Socialist Republic (1919–1920 CE)](Lithuanian%E2%80%93Byelorussian%20Soviet%20Socialist%20Republic%20%281919%E2%80%931920%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q80211 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Lithuanian–Byelorussian Soviet Socialist Republic (1919–1920 CE)](Lithuanian%E2%80%93Byelorussian%20Soviet%20Socialist%20Republic%20%281919%E2%80%931920%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q80211 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wang Jingwei regime (1940–1945 CE)](Wang%20Jingwei%20regime%20%281940%E2%80%931945%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q708865 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Wang Jingwei regime (1940–1945 CE)](Wang%20Jingwei%20regime%20%281940%E2%80%931945%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q708865 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

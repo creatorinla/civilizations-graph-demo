@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Germany (est. 1949 CE)](Germany%20%28est.%201949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q713750 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Germany (est. 1949 CE)](Germany%20%28est.%201949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q713750 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1206012 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [German Reich (1871–1949 CE)](German%20Reich%20%281871%E2%80%931949%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1206012 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

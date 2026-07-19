@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Military Administration (1943–1951 CE)](British%20Military%20Administration%20%281943%E2%80%931951%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Military Administration (1943–1951 CE)](British%20Military%20Administration%20%281943%E2%80%931951%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16953965 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

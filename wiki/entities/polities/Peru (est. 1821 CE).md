@@ -26,9 +26,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Protectorate of San Martín (1821–1822 CE)](Protectorate%20of%20San%20Mart%C3%ADn%20%281821%E2%80%931822%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Protectorate of San Martín (1821–1822 CE)](Protectorate%20of%20San%20Mart%C3%ADn%20%281821%E2%80%931822%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q7251405 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

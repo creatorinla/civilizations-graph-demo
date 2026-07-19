@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1392840 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1392840 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Northern tribal confederation (until c. 850 CE)](Northern%20tribal%20confederation%20%28until%20c.%20850%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q19692623 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Northern tribal confederation (until c. 850 CE)](Northern%20tribal%20confederation%20%28until%20c.%20850%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q19692623 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kievan Rus' (882–1240 CE)](Kievan%20Rus%27%20%28882%E2%80%931240%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q1108445 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

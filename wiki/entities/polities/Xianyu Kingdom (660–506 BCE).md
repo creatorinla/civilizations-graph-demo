@@ -22,9 +22,9 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zhongshan (until 296 BCE)](Zhongshan%20%28until%20296%20BCE%29.html) | transition | — | — | tentative | reference work | Wikidata Q137515259 succession statement (retrieved 2026-07-13) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Zhongshan (until 296 BCE)](Zhongshan%20%28until%20296%20BCE%29.html) | transition | — | tentative | reference work | Wikidata Q137515259 succession statement (retrieved 2026-07-13) |
 
 ## Sources
 

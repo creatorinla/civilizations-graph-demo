@@ -19,10 +19,10 @@ source_types:
 
 ## Constituent polities
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Cuba (est. 1898 CE)](Cuba%20%28est.%201898%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
-| [Dominican Republic (est. 1844 CE)](Dominican%20Republic%20%28est.%201844%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Cuba (est. 1898 CE)](Cuba%20%28est.%201898%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
+| [Dominican Republic (est. 1844 CE)](Dominican%20Republic%20%28est.%201844%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q4774888 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -27,9 +27,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [British Tonga (est. 1900 CE)](British%20Tonga%20%28est.%201900%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17197946 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [British Tonga (est. 1900 CE)](British%20Tonga%20%28est.%201900%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17197946 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

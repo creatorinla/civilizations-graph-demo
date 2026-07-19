@@ -23,21 +23,21 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Empire of Theodoric the Great (507–549 CE)](Empire%20of%20Theodoric%20the%20Great%20%28507%E2%80%93549%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q5919137 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Empire of Theodoric the Great (507–549 CE)](Empire%20of%20Theodoric%20the%20Great%20%28507%E2%80%93549%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q5919137 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q3307686 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Western Roman Empire (395–476 CE)](Western%20Roman%20Empire%20%28395%E2%80%93476%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q3307686 succession statement (retrieved 2026-07-18) |
 
 ## Part of
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Visigothic Kingdom (476–718 CE)](Visigothic%20Kingdom%20%28476%E2%80%93718%20CE%29.html) | has part | — | — | tentative | reference work | Wikidata Q3307686 containment statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Visigothic Kingdom (476–718 CE)](Visigothic%20Kingdom%20%28476%E2%80%93718%20CE%29.html) | has part | — | tentative | reference work | Wikidata Q3307686 containment statement (retrieved 2026-07-18) |
 
 ## Sources
 

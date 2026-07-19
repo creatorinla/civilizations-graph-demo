@@ -27,15 +27,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kingdom of Serbs, Croats and Slovenes (1918–1929 CE)](Kingdom%20of%20Serbs%2C%20Croats%20and%20Slovenes%20%281918%E2%80%931929%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15102440 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Kingdom of Serbs, Croats and Slovenes (1918–1929 CE)](Kingdom%20of%20Serbs%2C%20Croats%20and%20Slovenes%20%281918%E2%80%931929%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15102440 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Principality of Serbia (1815–1882 CE)](Principality%20of%20Serbia%20%281815%E2%80%931882%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q684030 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Principality of Serbia (1815–1882 CE)](Principality%20of%20Serbia%20%281815%E2%80%931882%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q684030 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,9 +23,9 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Duchy of Bytom (1281–1498 CE)](Duchy%20of%20Bytom%20%281281%E2%80%931498%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q1395320 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Duchy of Bytom (1281–1498 CE)](Duchy%20of%20Bytom%20%281281%E2%80%931498%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q1395320 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

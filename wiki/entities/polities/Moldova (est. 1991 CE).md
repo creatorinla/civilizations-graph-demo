@@ -25,10 +25,10 @@ source_types:
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Moldavian Soviet Socialist Republic (1940–1991 CE)](Moldavian%20Soviet%20Socialist%20Republic%20%281940%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q170895 succession statement (retrieved 2026-07-18) |
-| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q15180 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Moldavian Soviet Socialist Republic (1940–1991 CE)](Moldavian%20Soviet%20Socialist%20Republic%20%281940%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q170895 succession statement (retrieved 2026-07-18) |
+| [Soviet Union (1922–1991 CE)](Soviet%20Union%20%281922%E2%80%931991%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q15180 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

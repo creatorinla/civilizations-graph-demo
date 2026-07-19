@@ -22,15 +22,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q127607963 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Ottoman Empire (1299–1922 CE)](Ottoman%20Empire%20%281299%E2%80%931922%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q127607963 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Despotate of Epirus (1205–1479 CE)](Despotate%20of%20Epirus%20%281205%E2%80%931479%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q127607963 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Despotate of Epirus (1205–1479 CE)](Despotate%20of%20Epirus%20%281205%E2%80%931479%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q127607963 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 

@@ -23,15 +23,15 @@ source_types:
 
 ## Transitions to
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bahrain (est. 1971 CE)](Bahrain%20%28est.%201971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q16826607 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bahrain (est. 1971 CE)](Bahrain%20%28est.%201971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q16826607 succession statement (retrieved 2026-07-18) |
 
 ## Transitions from
 
-| Counterpart | Detail | Amount | When | Claim | Evidence | Citation |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bahrain and its Dependencies (1783–1971 CE)](Bahrain%20and%20its%20Dependencies%20%281783%E2%80%931971%20CE%29.html) | transition | — | — | tentative | reference work | Wikidata Q17061755 succession statement (retrieved 2026-07-18) |
+| Counterpart | Detail | When | Claim | Evidence | Citation |
+| --- | --- | --- | --- | --- | --- |
+| [Bahrain and its Dependencies (1783–1971 CE)](Bahrain%20and%20its%20Dependencies%20%281783%E2%80%931971%20CE%29.html) | transition | — | tentative | reference work | Wikidata Q17061755 succession statement (retrieved 2026-07-18) |
 
 ## Sources
 
